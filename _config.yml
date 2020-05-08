@@ -2,8 +2,8 @@
 name: "Stephen Vinouze"
 title: "Stephen Vinouze"
 description: "Stephen Vinouze."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/favicon.png'
+favicon: 'assets/images/favicon.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
