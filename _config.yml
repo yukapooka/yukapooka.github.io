@@ -4,7 +4,7 @@ title: "Stephen Vinouze"
 description: "Stephen Vinouze."
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
-baseurl: 
+baseurl:
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -18,7 +18,7 @@ authors:
     display_name: Stephen Vinouze
     avatar: 'assets/images/avatar.png'
     email: s.vinouze@gmail.com
-    web: https://www.wowthemes.net
+    web: https://medium.com/@s.vinouze
     twitter: https://twitter.com/stephenvinouze
     description: "A singular title."
 
