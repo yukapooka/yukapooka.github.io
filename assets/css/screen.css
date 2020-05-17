@@ -314,6 +314,29 @@ span.post-read-more a:hover {
     margin-bottom: 1rem;
 }
 
+.mainheading h2.postsubtitle {
+    font-weight: 500;
+    margin-bottom: 1rem;
+    font-size: 24px;
+    color: rgba(0, 0, 0, .44);
+}
+
+hr {
+    height: 1px;
+    margin: 2em 1em 4em 0;
+    text-align: center;
+    border-color: #777;
+    border-width: 0;
+    border-style: dotted;
+    content: "···";
+    letter-spacing: 1em;
+}
+
+hr:after {
+    content: "···";
+    letter-spacing: 1em;
+}
+
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
@@ -387,7 +410,7 @@ blockquote {
 }
 
 .sticky-top-offset {
-    top: 100px;
+    top: 120px;
 }
 
 @media (min-width:1024px) {

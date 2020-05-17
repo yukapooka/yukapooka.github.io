@@ -4,23 +4,22 @@ title: "Stephen Vinouze"
 description: "Stephen Vinouze."
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
-baseurl: 
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+baseurl:
+google_analytics: 'UA-166933112-1'
+disqus: 'stephenvinouze'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Stephen
+  stephen:
+    name: Stephen Vinouze
     display_name: Stephen Vinouze
     avatar: 'assets/images/avatar.png'
     email: s.vinouze@gmail.com
-    web: https://www.wowthemes.net
+    web: https://medium.com/@s.vinouze
     twitter: https://twitter.com/stephenvinouze
-    description: "A singular title."
 
 # Plugins
 plugins:
@@ -58,6 +57,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
