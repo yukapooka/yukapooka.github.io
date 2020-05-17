@@ -6,7 +6,7 @@ logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
 baseurl:
 google_analytics: 'UA-166933112-1'
-disqus: 'demowebsite'
+disqus: 'stephenvinouze'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
