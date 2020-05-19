@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Draw Neat Trees With Git Rebase"
 author: stephen
+title:  Draw Neat Trees With Git Rebase
+description: Edit or discard your commits with interactive rebasing
 categories: [ Git, Rebase ]
-tags: [red, yellow]
 image: https://cdn-images-1.medium.com/max/9216/0*yAUsmcEoJaulRiRt
-description: "Edit or discard your commits with interactive rebasing"
 
 ---
 

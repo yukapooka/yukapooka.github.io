@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Don’t Fret With Git Rebase"
 author: stephen
+title:  Don’t Fret With Git Rebase
+description: Rebasing a Git branch is a cakewalk no matter what your teammates may tell you
 categories: [ Git, Rebase ]
-tags: [red, yellow]
 image: https://cdn-images-1.medium.com/max/10000/1*lcikom2XRzi0tV7902AzCg.jpeg
-description: "Rebasing a Git branch is a cakewalk no matter what your teammates may tell you"
 featured: true
 hidden: true
 

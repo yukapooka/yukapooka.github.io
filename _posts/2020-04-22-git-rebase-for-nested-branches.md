@@ -1,16 +1,11 @@
 ---
 
-firstPublishedAt: 1587568459056
-latestPublishedAt: 1587809671771
-slug: how-git-rebase-failed-me
-title: Git Rebase For Nested Branches
 layout: post
-title:  "Git Rebase For Nested Branches"
 author: stephen
+title:  Git Rebase For Nested Branches
+description: If rebasing becomes tedious, you might be doing it wrong
 categories: [ Git, Rebase ]
-tags: [red, yellow]
 image: https://cdn-images-1.medium.com/max/8000/0*FIYjsOjrmfNX8PrU
-description: "If rebasing becomes tedious, you might be doing it wrong"
 
 ---
 

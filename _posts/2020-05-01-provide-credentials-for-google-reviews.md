@@ -1,13 +1,11 @@
 ---
 
-title: Provide Credentials for Google Reviews
 layout: post
-title:  "Provide Credentials for Google Reviews"
 author: stephen
+title:  Provide Credentials for Google Reviews
+description: Help your reviewer to approve your Android application
 categories: [ Android, PlayStore ]
-tags: [red, yellow]
 image: https://cdn-images-1.medium.com/max/10944/0*LStVZ6w1UkdJxsu5
-description: "Help your reviewer to approve your Android application"
 
 ---
 

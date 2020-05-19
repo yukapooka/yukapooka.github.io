@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "How To Include Billing on Android"
 author: stephen
+title:  How To Include Billing on Android
+description: Set up your InApp Purchase inside the Google Play Console
 categories: [ Android, PlayStore, Billing ]
-tags: [red, yellow]
 image: https://cdn-images-1.medium.com/max/13440/1*gZe6olWL6OOCDDX04LVJSA.jpeg
-description: "Set up your InApp Purchase inside the Google Play Console"
 
 ---
 

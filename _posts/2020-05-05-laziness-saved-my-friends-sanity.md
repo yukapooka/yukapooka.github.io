@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Laziness Saved My Friend’s Sanity"
 author: stephen
+title:  Laziness Saved My Friend’s Sanity
+description: How I happened to write a Python word count script
 categories: [ Python, Word-count, Mindset ]
-tags: [red, yellow]
 image: https://miro.medium.com/max/1400/0*-r5QnnOSmncv08w3
-description: "How I happened to write a Python word count script"
 
 ---
 

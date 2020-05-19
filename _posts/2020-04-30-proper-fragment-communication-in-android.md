@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Proper Fragment Communication in Android"
 author: stephen
+title:  Proper Fragment Communication in Android
+description: Don’t let the system hang up on your fragment’s listener
 categories: [ Android, Fragment ]
-tags: [red, yellow]
 image: https://cdn-images-1.medium.com/max/10622/0*iTuGX5LepofXOCsv
-description: "Don’t let the system hang up on your fragment’s listener"
 
 ---
 

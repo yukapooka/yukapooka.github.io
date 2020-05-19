@@ -1,13 +1,11 @@
 ---
 
-title: Stop Using Post/PostDelayed in Your Android Views
 layout: post
-title:  "Provide Credentials for Google Reviews"
 author: stephen
+title:  Stop Using Post/PostDelayed in Your Android Views
+description: Prevent avoidable crashes
 categories: [ Android, Handler, Lifecycle ]
-tags: [red, yellow]
 image: https://cdn-images-1.medium.com/max/11074/0*BwWQN0ol_F5dP4dj
-description: "Prevent avoidable crashes"
 featured: true
 hidden: true
 

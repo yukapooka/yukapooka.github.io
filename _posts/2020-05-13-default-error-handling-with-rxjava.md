@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Default Error Handling With RxJava"
 author: stephen
+title:  Default Error Handling With RxJava
+description: Use RxJavaPlugins error handler instead of implementing onError
 categories: [ Android, RxJava, ErrorHandling ]
-tags: [red, yellow]
 image: https://miro.medium.com/max/1400/0*ckMeIWhZpuOzAd3-
-description: "Use RxJavaPlugins error handler instead of implementing onError"
 
 ---
 
