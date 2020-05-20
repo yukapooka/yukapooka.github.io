@@ -3,6 +3,10 @@ name: "Stephen Vinouze"
 title: "Stephen Vinouze"
 description: "Stephen Vinouze."
 logo: 'assets/images/favicon.png'
+email: s.vinouze@gmail.com
+medium: https://medium.com/@s.vinouze
+twitter: https://twitter.com/stephenvinouze
+linkedin: https://www.linkedin.com/in/stephenvinouze/
 favicon: 'assets/images/favicon.png'
 baseurl:
 google_analytics: 'UA-166933112-1'
