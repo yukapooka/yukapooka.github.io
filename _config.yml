@@ -3,11 +3,16 @@ name: "Stephen Vinouze"
 title: "Stephen Vinouze"
 description: "Stephen Vinouze."
 logo: 'assets/images/favicon.png'
+email: s.vinouze@gmail.com
+medium: https://medium.com/@s.vinouze
+twitter: https://twitter.com/stephenvinouze
+linkedin: https://www.linkedin.com/in/stephenvinouze/
+github: https://github.com/StephenVinouze
 favicon: 'assets/images/favicon.png'
 baseurl:
 google_analytics: 'UA-166933112-1'
 disqus: 'stephenvinouze'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://stephenvinouze.us18.list-manage.com/subscribe?u=f1f3eb2d7ae0213227f09dd2c&id=1f16cf654c'
 include: ["_pages"]
 permalink: /:title/
 
