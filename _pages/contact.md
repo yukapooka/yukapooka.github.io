@@ -16,7 +16,4 @@ comments: true
 
 </div>
 
-<div class="col-md-4">
-  <img class="img-fluid" src="https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80" alt="Let's connect">
-</div>
 </div>
