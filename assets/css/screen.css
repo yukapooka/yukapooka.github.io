@@ -274,7 +274,7 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
-    color: grey;
+    color: gray;
 }
 
 .mediumnavigation .navbar-brand {
@@ -559,8 +559,8 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-    background-color: #1C9963;
-    border-color: #1C9963;
+    background-color: #909191;
+    border-color: #909191;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     border-radius: 30px;
