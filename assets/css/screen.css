@@ -12,12 +12,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #6a6b6b;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #979999;
     text-decoration: none;
 }
 
