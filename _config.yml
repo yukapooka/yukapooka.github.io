@@ -1,30 +1,28 @@
 # Site
-name: "Stephen Vinouze"
-title: "Stephen Vinouze"
-description: "Stephen Vinouze."
+name: "Yuka Suzuki"
+title: "Yuka Suzuki"
+description: "Yuka Suzuki"
 logo: 'assets/images/favicon.png'
-email: s.vinouze@gmail.com
-medium: https://medium.com/@s.vinouze
-twitter: https://twitter.com/stephenvinouze
-linkedin: https://www.linkedin.com/in/stephenvinouze/
-github: https://github.com/StephenVinouze
+email: yuka.w.suzuki@gmail.com
+medium: https://medium.com/@yuka-suzuki
+linkedin: https://www.linkedin.com/in/suzukiyuka/
+github: https://github.com/yukapooka
 favicon: 'assets/images/favicon.png'
 baseurl:
 google_analytics: 'UA-166933112-1'
-disqus: 'stephenvinouze'
 mailchimp-list: 'https://stephenvinouze.us18.list-manage.com/subscribe?u=f1f3eb2d7ae0213227f09dd2c&id=1f16cf654c'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  stephen:
-    name: Stephen Vinouze
+  yuka:
+    name: Yuka Suzuki
     display_name: Stephen Vinouze
     avatar: 'assets/images/avatar.png'
-    email: s.vinouze@gmail.com
-    web: https://medium.com/@s.vinouze
-    twitter: https://twitter.com/stephenvinouze
+    email: yuka.w.suzuki@gmail.com
+    web: https://medium.com/@yuka-suzuki
+
 
 # Plugins
 plugins:
