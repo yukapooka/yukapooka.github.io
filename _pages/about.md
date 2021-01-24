@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
@@ -13,9 +13,10 @@ comments: true
 <p>I'm Yuka, a computational scientist...</p>
 
 <p>blah blah blah</p>
+<br />
 </div>
 
 <div class="col-md-4">
   <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/me.jpg" alt="{{ page.title }}">
 </div>
-<!--</div>-->
+</div>
