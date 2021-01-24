@@ -8,7 +8,7 @@ medium: https://medium.com/@yuka-suzuki
 linkedin: https://www.linkedin.com/in/suzukiyuka/
 github: https://github.com/yukapooka
 favicon: 'assets/images/favicon.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: 
 #google_analytics: 'UA-166933112-1'
 #mailchimp-list: 'https://stephenvinouze.us18.list-manage.com/subscribe?u=f1f3eb2d7ae0213227f09dd2c&id=1f16cf654c'
 include: ["_pages"]
