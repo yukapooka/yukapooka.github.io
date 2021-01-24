@@ -12,12 +12,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #6a6b6b;
+    color: #00ab6b;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #979999;
+    color: #038252;
     text-decoration: none;
 }
 
@@ -274,7 +274,7 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
-    color: gray;
+    color: green;
 }
 
 .mediumnavigation .navbar-brand {
