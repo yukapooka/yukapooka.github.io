@@ -13,7 +13,6 @@ comments: true
 <p>I'm Yuka, a computational scientist...</p>
 
 <p>blah blah blah</p>
-
 </div>
 
 <div class="col-md-4">
