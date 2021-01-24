@@ -9,8 +9,8 @@ linkedin: https://www.linkedin.com/in/suzukiyuka/
 github: https://github.com/yukapooka
 favicon: 'assets/images/favicon.png'
 baseurl:
-google_analytics: 'UA-166933112-1'
-mailchimp-list: 'https://stephenvinouze.us18.list-manage.com/subscribe?u=f1f3eb2d7ae0213227f09dd2c&id=1f16cf654c'
+#google_analytics: 'UA-166933112-1'
+#mailchimp-list: 'https://stephenvinouze.us18.list-manage.com/subscribe?u=f1f3eb2d7ae0213227f09dd2c&id=1f16cf654c'
 include: ["_pages"]
 permalink: /:title/
 
@@ -18,7 +18,7 @@ permalink: /:title/
 authors:
   yuka:
     name: Yuka Suzuki
-    display_name: Stephen Vinouze
+    display_name: Yuka Suzuki
     avatar: 'assets/images/avatar.png'
     email: yuka.w.suzuki@gmail.com
     web: https://medium.com/@yuka-suzuki
@@ -55,9 +55,9 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+#adsense: "disabled"
+#adsense-data-ad-client: "ca-pub-3412143450191416"
+#adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
