@@ -12,7 +12,7 @@ comments: true
 
 <p>Feel free to consult my professional page on <a href="{{ site.linkedin }}">LinkedIn</a>.</p>
 
-<p>Stay tuned with my latest articles on <a href="{{ site.medium }}">Medium</a> or have a peek at my <a href="{{ site.github }}">Github</a> contributions. Also, don't hesitate to follow me on my social profiles below!</p>
+<p>Stay tuned with my latest articles on <a href="{{ site.medium }}">Medium</a> or have a peek at my <a href="{{ site.github }}">Github</a> contributions. </p>
 
 <br />
 

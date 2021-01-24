@@ -4,7 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+<!---
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
+--->
 
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -65,12 +67,12 @@ ga('send', 'pageview');
 
 				<ul class="navbar-nav ml-auto">
 
-					{% if page.url == "/" %}
+					{% if page.url == "/portfolio" %}
 					<li class="nav-item active">
 					{% else %}
 					<li class="nav-item">
 					{% endif %}
-						<a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+						<a class="nav-link" href="{{ site.baseurl }}/index.html">Portfolio</a>
 					</li>
 
 					{% if page.url == "/about" %}
@@ -81,6 +83,14 @@ ga('send', 'pageview');
 						<a class="nav-link" href="{{ site.baseurl }}/about">About</a>
 					</li>
 
+					{% if page.url == "/medium" %}
+					<li class="nav-item active">
+					{% else %}
+					<li class="nav-item">
+					{% endif %}
+						<a class="nav-link" href="{{ site.baseurl }}/contact">Medium</a>
+					</li>
+					
 					{% if page.url == "/contact" %}
 					<li class="nav-item active">
 					{% else %}
@@ -112,10 +122,10 @@ ga('send', 'pageview');
     {{ content }}
 </div>
 
-{% if site.mailchimp-list %}
+ {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
 ================================================== -->
-<div class="alertbar">
+<!-- <div class="alertbar">
 	<div class="container text-center">
 		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b>, subscribe to my newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
@@ -126,13 +136,14 @@ ga('send', 'pageview');
         </form>
 	</div>
 </div>
-{% endif %}
+{% endif %} 
 
-</div>
+</div> -->
+
 
 <!-- Categories Jumbotron
 ================================================== -->
-<div class="jumbotron fortags">
+<!-- <div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
             <div class="d-md-flex align-items-center justify-content-center h-100">
@@ -153,7 +164,7 @@ ga('send', 'pageview');
             {% assign categories_list = nil %}
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!-- Begin Footer
 ================================================== -->
