@@ -16,7 +16,6 @@ comments: true
 
 <br />
 
-{% include contact.html %}
 
 </div>
 
