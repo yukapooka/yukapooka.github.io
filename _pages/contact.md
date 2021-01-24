@@ -14,7 +14,6 @@ comments: true
 
 <p>Stay tuned with my latest articles on <a href="{{ site.medium }}">Medium</a> or have a peek at my <a href="{{ site.github }}">Github</a> contributions. </p>
 
-<br />
 </div>
 
 <div class="col-md-4">

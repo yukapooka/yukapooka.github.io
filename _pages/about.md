@@ -14,9 +14,6 @@ comments: true
 
 <p>blah blah blah</p>
 
-<br />
-
-
 </div>
 
 <div class="col-md-4">
