@@ -9,7 +9,8 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
-</br>
+
+
 <h3>General Interests</h3>
 <ul>
   <li>Genomics</li>
