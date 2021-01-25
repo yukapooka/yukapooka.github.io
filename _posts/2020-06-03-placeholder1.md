@@ -1,9 +1,9 @@
 ---
 
 layout: post
-author: stephen
-title: How to Prevent Git Commit Naming Mistakes
-description: Throw a safety net each time you commit with Git hooks
+author: yuka
+title: Placeholder 1
+description: Placeholder 1
 categories: [ Git, Hooks ]
 image: https://cdn-images-1.medium.com/max/12032/0*21xNCoRhStuuukMA
 

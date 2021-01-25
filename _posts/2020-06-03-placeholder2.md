@@ -1,9 +1,9 @@
 ---
 
 layout: post
-author: stephen
-title: How to Swiftly Launch a Free Website With GitHub Pages
-description: No programming or cost involved! Pick a theme, configure it, then pour in your content!
+author: yuka
+title: Placeholder2
+description: Placeholder2
 categories: [ Git, Website, Jekyll ]
 image: https://cdn-images-1.medium.com/max/7080/0*7phQlfuBkk-9dlR7
 

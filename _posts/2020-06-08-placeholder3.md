@@ -1,9 +1,9 @@
 ---
 
 layout: post
-author: stephen
-title:  Git Flow Made Easy With This Complete Walkthrough
-description: Git Flow has ten years, long live Git Flow!
+author: yuka
+title:  Placeholder3
+description: Placeholder3
 categories: [ Git, GitFlow ]
 image: https://miro.medium.com/max/1400/0*dyxNHPRXxREMCAMF
 
