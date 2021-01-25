@@ -32,13 +32,14 @@ comments: false
 <br/>
 <p>For the full list of papers, see <a href="https://scholar.google.com/citations?hl=en&user=lIh6QvUAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</p>
 
-<p><b> Global expression analysis coupled with experimental knockdowns identify oncogenic lncRNAs and peptides in gastric cancer. (in preparation)</b><br />
+<p><b> "Global expression analysis coupled with experimental knockdowns identify oncogenic lncRNAs and peptides in gastric cancer." (in preparation)</b><br />
+Yuka Suzuki ,Ho Szu Chi , Fiona  Chang , Jeanie Wu ,Minghui Lee , Shanshan Cheng , Dennis Kappei , Patrick Tan , Steven G. Rozen
 </p>
 
-<p><b><a href="https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1878-0261.12012">Multiregion ultra‐deep sequencing reveals early intermixing and variable levels of intratumoral heterogeneity in colorectal cancer. Molecular Oncology, 11(2):124-139 (2016)</a></b><br />
+<p><b><a href="https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1878-0261.12012">"Multiregion ultra‐deep sequencing reveals early intermixing and variable levels of intratumoral heterogeneity in colorectal cancer. "Molecular Oncology, 11(2):124-139 (2016)</a></b><br />
 Yuka Suzuki, Sarah Boonhsi Ng, Clarinda Chua, Wei Qiang Leow, Jermain Chng, Shi Yang Liu, Kalpana Ramnarayanan, Anna Gan, Dan Liang Ho, Rachel Ten, Yan Su, Alexandar Lezhava, Jiunn Herng Lai, Dennis Koh, Kiat Hon Lim, Patrick Tan, Steven G Rozen, Iain Beehuat Tan</p>
 
-<p><b><a href="https://academic.oup.com/nargab/article-abstract/2/2/lqaa013/5763101">"A functional network of gastric-cancer-associated splicing events controlled by dysregulated splicing factors."NAR Genomics and Bioinformatics, 2(2): lqaa013</a></b><br />
+<p><b><a href="https://academic.oup.com/nargab/article-abstract/2/2/lqaa013/5763101">"A functional network of gastric-cancer-associated splicing events controlled by dysregulated splicing factors." NAR Genomics and Bioinformatics, 2(2): lqaa013</a></b><br />
 Shanshan Cheng, Debleena Ray, Raymond Teck Ho Lee, Kishore Babu Naripogu, Permeen Akhtar Bt Mohamed Yusoff, Pamela Bee Leng Goh, Yujing Liu, Yuka Suzuki, Kakoli Das, Hsiang Sui Chan, Wai Keong Wong, Weng Hoong Chan, Pierce Kah-Hoe Chow, Hock Soo Ong, Prema Raj, Khee Chee Soo, Patrick Tan, David M Epstein, Steven G Rozen</p>
 
 <p><b><a href="https://stm.sciencemag.org/content/9/412/eaan6446.short">"Aristolochic acids and their derivatives are widely implicated in liver cancers in Taiwan and throughout Asia." Science Translational Medicine, 9(412) (2017)</a></b><br />
