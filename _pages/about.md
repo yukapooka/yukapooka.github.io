@@ -11,9 +11,9 @@ comments: false
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
 
 <h3>Qualifications</h3>
-Senior Bioinformatics Scientist, Illumina
-Bioinformatics Scientist, Engine Biosciences
-Ph.D in Computational Biology, Duke-NUS Medical School
+<p>Senior Bioinformatics Scientist, Illumina</p>
+<p>Bioinformatics Scientist, Engine Biosciences</p>
+<p>Ph.D in Computational Biology, Duke-NUS Medical School</p>
 
 <h3>General Interests</h3>
 <ul>
