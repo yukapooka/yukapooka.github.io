@@ -8,11 +8,19 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hi there!</p>
+<p>I'm a computational scientist, who loves improving people's lives using data.</p>
 
-<p>I'm Yuka, a computational scientist...</p>
+<p>General Interests</p>
+<br/>
+<p>Genomics</p>
+<p>Cloud computing</p>
+<p>Transition from academia to industry</p>
 
-<p>blah blah blah</p>
+<p>Research</p>
+<p> PhD work </p>
+<p> Industry research work </p>
+<br/>
+<p>For the full list of papers, see my Google Scholar profile</p>
 <br />
 </div>
 
