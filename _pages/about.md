@@ -10,14 +10,14 @@ comments: false
 
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
 
-<p><b>General Interests</b</p>
+<h2>General Interests<h2>
 <ul>
   <li>Genomics</li>
   <li>Cloud computing</li>
   <li>Transition from academia to industry</li>
 </ul>
 
-<p><b>Research</b</p>
+<h2>Research</h2>
 <p> PhD work </p>
 <ul>
   <li>Novel Oncogenic long non-coding RNAs in Asian Gastric Tumors</li>
