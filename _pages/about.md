@@ -32,7 +32,9 @@ comments: false
 <br />
 
 
+</div>
+
 <div class="col-md-4">
   <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/me.jpg" alt="{{ page.title }}">
 </div>
-
+</div>
