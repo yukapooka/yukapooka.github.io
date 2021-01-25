@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
-
+</br>
 <h3>General Interests</h3>
 <ul>
   <li>Genomics</li>
@@ -29,7 +29,7 @@ comments: false
 <ul>
   <li>Discovery of combinatorial genetic targets for treatment of diseases using high throughput CRISPR-screens and Machine Learning</li>
 </ul>
-<br/>
+
 <p>For the full list of papers, see <a href="https://scholar.google.com/citations?hl=en&user=lIh6QvUAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</p>
 
 <p><b> "Global expression analysis coupled with experimental knockdowns identify oncogenic lncRNAs and peptides in gastric cancer." (in preparation)</b><br />
