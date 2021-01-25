@@ -10,7 +10,7 @@ comments: false
 
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
 
-<h2>General Interests<h2>
+<h2>General Interests</h2>
 <ul>
   <li>Genomics</li>
   <li>Cloud computing</li>
@@ -30,9 +30,9 @@ comments: false
 <br/>
 <p>For the full list of papers, see <a href="https://scholar.google.com/citations?hl=en&user=lIh6QvUAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</p>
 <br />
-</div>
+
 
 <div class="col-md-4">
   <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/me.jpg" alt="{{ page.title }}">
 </div>
-</div>
+
