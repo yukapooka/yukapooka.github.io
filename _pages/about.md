@@ -10,6 +10,10 @@ comments: false
 
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
 
+<h3>Qualifications</h3>
+Senior Bioinformatics Scientist, Illumina
+Bioinformatics Scientist, Engine Biosciences
+Ph.D in Computational Biology, Duke-NUS Medical School
 
 <h3>General Interests</h3>
 <ul>
@@ -53,6 +57,7 @@ I.B.Tan, S. Malik, K. Ramnarayanan, D. L. Ho, J. McPherson, Y.Suzuki, ... P. Tan
 U. Joseph, Y. Suzuki, ..., G. J. D. Smith. </p>
 <br />
 
+<h3>Certifications</h3>
 
 </div>
 
