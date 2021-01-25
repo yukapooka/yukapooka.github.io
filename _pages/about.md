@@ -10,7 +10,7 @@ comments: false
 
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
 
-<h2>General Interests</h2>
+<h3>General Interests</h3>
 <ul>
   <li>Genomics</li>
   <li>Machine Learning</li>
@@ -19,7 +19,7 @@ comments: false
   <li>Languages</li>
 </ul>
 
-<h2>Research</h2>
+<h3>Research</h3>
 <p> PhD work </p>
 <ul>
   <li>Novel Oncogenic long non-coding RNAs in Asian Gastric Tumors</li>
