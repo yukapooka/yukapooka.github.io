@@ -10,17 +10,23 @@ comments: false
 
 <p>I'm a computational scientist, who loves improving people's lives using data.</p>
 
-<p>General Interests</p>
-<p><b>Genomics</b></p>
-<p><b>Cloud computing</b></p>
-<p><b>Transition from academia to industry</b></p>
+<p><b>General Interests</b</p>
+<ul>
+  <li>Genomics</li>
+  <li>Cloud computing</li>
+  <li>Transition from academia to industry</li>
+</ul>
 
-<p>Research</p>
+<p><b>Research</b</p>
 <p> PhD work </p>
-<p><b>Novel Oncogenic long non-coding RNAs in Asian Gastric Tumors</b><p>
-<p><b> Intra-tumoral heterogeneity in Asian Colorectal Tumors </b><p>
+<ul>
+  <li>Novel Oncogenic long non-coding RNAs in Asian Gastric Tumors</li>
+  <li> Intra-tumoral heterogeneity in Asian Colorectal Tumors </li>
+</ul>
 <p> Industry research work </p>
-<p><b>Discovery of combinatorial genetic targets for treatment of diseases using CRISPR-screens and Machine Learning</b><p>
+<ul>
+  <li>Discovery of combinatorial genetic targets for treatment of diseases using CRISPR-screens and Machine Learning</li>
+</ul>
 <br/>
 <p>For the full list of papers, see <a href="https://scholar.google.com/citations?hl=en&user=lIh6QvUAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</p>
 <br />
