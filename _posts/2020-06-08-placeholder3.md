@@ -2,10 +2,10 @@
 
 layout: post
 author: yuka
-title:  Placeholder3
-description: Placeholder3
-categories: [  ]
-image: https://miro.medium.com/max/1400/0*dyxNHPRXxREMCAMF
+title:  Finding the right drug combination using Big Data and ML
+description: Drug discovery and ML
+categories: [ Genomics, Drug Discovery, ML, CRISPR ]
+image: https://source.unsplash.com/ONuLIzB0UtA/1600x1200
 
 ---
 
