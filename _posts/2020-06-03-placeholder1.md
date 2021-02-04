@@ -5,7 +5,7 @@ author: yuka
 title: Tumor Heterogeneity in Asian cancers
 description: Tumor Heterogeneity in Asian cancers
 categories: [Genomics, Oncology ]
-image: Picture: [https://unsplash.com/photos/hNrd99q5peI](https://unsplash.com/photos/hNrd99q5peI)
+image: https://unsplash.com/photos/hNrd99q5peI](https://unsplash.com/photos/hNrd99q5peI
 
 ---
 
