@@ -58,7 +58,7 @@ U. Joseph, Y. Suzuki, ..., G. J. D. Smith. </p>
 <br />
 
 <h3>Certifications</h3>
-
+<p>AWS Certified Solutions Architect - Associate</p>
 </div>
 
 <div class="col-md-4">
