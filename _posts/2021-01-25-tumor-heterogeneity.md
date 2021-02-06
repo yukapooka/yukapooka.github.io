@@ -10,3 +10,18 @@ image: https://source.unsplash.com/3vycqsMutjE/1600x1200
 ---
 <div align="center"><small>Photo by  <a href = "https://unsplash.com/photos/hNrd99q5peI">Paweł Czerwiński </a> on Unsplash</small></div>
 
+# Short Summary
+This was my first PhD publication where I studied the spatial mutational heterogeneity of 4 colorectal cancer patients to understand the aggressiveness of their disease.
+---
+# Problem
+
+---
+# Approach
+
+---
+# Outcomes of the Project
+
+---
+# Lessons Learnt
+
+---
