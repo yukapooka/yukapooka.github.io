@@ -36,7 +36,6 @@ I used deep next-generation DNA sequencing to sequence the regions of 799 known 
 
 ---
 
-<div class="col-md-4">
+<div align="center">
   <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/ith-pt1.001.png" alt="{{ page.title }}">
-</div>
 </div>
