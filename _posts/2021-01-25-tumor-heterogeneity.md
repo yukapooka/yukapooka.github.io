@@ -24,17 +24,18 @@ Heterogeneity of genetic mutations in different parts of the tumor can explain w
 
 ---
 ## Approach
-I used deep next-generation DNA sequencing to sequence the regions of 799 known cancer genes in each section of the tumor biopies taken from 4 patients. 'Deep sequencing' is needed so that my analysis can capture rarer genetic mutations that could lead to relapse if they were not identified and eradicated by treatment. I also looked at genes that might have decreased or increased number of gene copies or gene expression, which could affect the growth of cancer cells.
+I used deep next-generation DNA sequencing to sequence the regions of 799 known cancer genes in each section of the tumor biopies taken from 4 patients. 'Deep sequencing' is needed so that my analysis can capture rarer genetic mutations that could lead to relapse if they were not identified and eradicated by treatment. 
+
+
+
+Computed all pairwise correlations of gene copy number changes with gene expression values of the same gene (799 genes in total) from the same sample: Findings revealed genes that might have decreased or increased number of gene copies or gene expression, which could affect the growth of cancer cells.
 
 
 ---
 ## Outcomes of the Project
-
+Ultra‐deep sequencing dramatically improved the precision of the analyses of tumor heterogeneity within the same tissue. The different degree of heterogeneity acros different patients demonstrates that every tumor is unique on its own and that treatment decisions should be tailored to the profile of the patient. My analysis also identified some interesting genes that can serve as biomarkers for tracking or monitoring the patient's progress during treatment.
 ---
-## Lessons Learnt
 
-
----
 
 <div align="center">
   <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/ith-pt1.001.png" alt="{{ page.title }}">
