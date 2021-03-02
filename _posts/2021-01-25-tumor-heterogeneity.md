@@ -11,7 +11,7 @@ image: https://source.unsplash.com/3vycqsMutjE/1600x1200
 <div align="center"><small>Photo by  <a href = "https://unsplash.com/photos/hNrd99q5peI">Paweł Czerwiński </a> on Unsplash</small></div>
 
 ## Short Summary
-This was my first PhD project where I studied the spatial mutational heterogeneity of 4 colorectal cancer patients to understand the aggressiveness of their disease. I analyzed the targeted sequencing datasets of 24 biopsy samples taken from different parts of the tumors, identified DNA mutations and constructed phylogeny trees to understand how the patient's tumors have evolved. I also performed statistical analyses to highlight genes that are mutated and exhibit correlated changes in their gene activities using gene expression datasets profiled from the same samples.
+This was my first PhD project where I studied the mutations in 4 colorectal cancer patients to understand the aggressiveness of their disease. I analyzed the targeted sequencing datasets of 24 biopsy samples taken from different parts of the tumors, identified DNA mutations and constructed phylogeny trees to understand how the patient's tumors have evolved. I also performed statistical analyses to highlight genes that are mutated and exhibit correlated changes in their gene activities using gene expression datasets profiled from the same samples.
 
 This study was published in the Molecular Oncology journal:
 
@@ -20,12 +20,23 @@ Y.Suzuki, ..., I.B.Tan.</p>
 
 ---
 ## Problem
+Heterogeneity of genetic mutations in different parts of the tumor can explain why cancer treatments fail as diagnosis is based on focusing on one section of the tumor tissue.  This leads to treatment failure, drug resistance and metastasis in some cases. 
 
 ---
 ## Approach
+I used deep next-generation DNA sequencing to sequence the regions of 799 known cancer genes in each section of the tumor biopies taken from 4 patients. 'Deep sequencing' is needed so that my analysis can capture rarer genetic mutations that could lead to relapse if they were not identified and eradicated by treatment. I also looked at genes that might have decreased or increased number of gene copies or gene expression, which could affect the growth of cancer cells.
+
 
 ---
 ## Outcomes of the Project
 
 ---
 ## Lessons Learnt
+
+
+---
+
+<div class="col-md-4">
+  <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/ith-pt1.001.png" alt="{{ page.title }}">
+</div>
+</div>
