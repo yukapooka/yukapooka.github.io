@@ -34,6 +34,7 @@ Computed all pairwise correlations of gene copy number changes with gene express
 ---
 ## Outcomes of the Project
 Ultra‐deep sequencing dramatically improved the precision of the analyses of tumor heterogeneity within the same tissue. The different degree of heterogeneity acros different patients demonstrates that every tumor is unique on its own and that treatment decisions should be tailored to the profile of the patient. My analysis also identified some interesting genes that can serve as biomarkers for tracking or monitoring the patient's progress during treatment.
+
 ---
 
 
