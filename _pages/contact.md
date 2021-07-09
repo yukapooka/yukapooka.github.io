@@ -12,6 +12,8 @@ comments: false
 
 <p>Feel free to consult my professional page on <a href="{{ site.linkedin }}">LinkedIn</a>.</p>
 
+<p>Read about topics on bioinformatics and tech on <a href="{{ site.medium }}">Medium</a>.</p>
+
 <p>Have a peek at my <a href="{{ site.github }}">Github</a> contributions. </p>
 <br />
 </div>
