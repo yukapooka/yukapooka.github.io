@@ -18,13 +18,13 @@ Exploring roles in: Healthcare PM · TPM · Product Strategy · Innovation Strat
 
 Featured Case Studies
 
-- Building a more reusable internal analytics platform experience
+- Building a more reusable internal analytics platform experience - 
 Standardized parts of an internal analytics workflow to improve consistency, usability, and repeatability for internal users with varying technical fluency.
 
-- Escalating a recurring product risk despite resistance
+- Escalating a recurring product risk despite resistance - 
 Helped reframe an apparent one-off complaint into a broader product-risk question, enabling deeper evaluation despite competing engineering priorities.
 
-- Standing up a zero-to-one computational capability
+- Standing up a zero-to-one computational capability - 
 Helped translate an emerging scientific direction into an operational program by shaping foundational tooling, workflow, and infrastructure decisions.
 
 
