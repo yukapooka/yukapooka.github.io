@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-case-studies",
+          title: "case_studies",
+          description: "A growing collection of your cool case_studies.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/projects/";
+            window.location.href = "/portfolio/case_studies/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -391,6 +391,51 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/the_godfather/";
+            },},{id: "case_studies-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/1_project/";
+            },},{id: "case_studies-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/2_project/";
+            },},{id: "case_studies-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/3_project/";
+            },},{id: "case_studies-project-4",
+          title: 'project 4',
+          description: "another without an image",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/4_project/";
+            },},{id: "case_studies-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/5_project/";
+            },},{id: "case_studies-project-6",
+          title: 'project 6',
+          description: "a project with no image",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/6_project/";
+            },},{id: "case_studies-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/7_project/";
+            },},{id: "case_studies-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/8_project/";
+            },},{id: "case_studies-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/portfolio/case_studies/9_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -402,52 +447,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
