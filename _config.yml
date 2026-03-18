@@ -155,7 +155,7 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
+  case_studies:
     output: true
   teachings:
     output: true
@@ -657,7 +657,7 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
+  - case_studies
   - volunteer
   - awards
   - certificates

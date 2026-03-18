@@ -7,7 +7,8 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Technical, Product & Program Builder | Healthcare, Biotech & Innovation
+Technical, Product & Program Builder · Healthcare, Biotech & Innovation
+
 
 I work at the intersection of technical systems, cross-functional execution, and decision-making in healthcare and biotech environments. This portfolio shares selected case studies, writing, and frameworks in a public-safe format.
 
