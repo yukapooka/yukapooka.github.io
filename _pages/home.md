@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: home
+title: home
 permalink: /
 
 social: true # includes social icons at the bottom of the page
