@@ -1,11 +1,10 @@
 ---
 layout: page
-title: case_studies
+title: case studies
 permalink: /case_studies/
-description: A growing collection of your cool case_studies.
+description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 

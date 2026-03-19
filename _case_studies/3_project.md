@@ -2,9 +2,8 @@
 layout: page
 title: project 3
 description: another without an image
-img:
+img: assets/img/7.jpg
 importance: 3
-category: fun
 ---
 
 Every project has a beautiful feature showcase page.
