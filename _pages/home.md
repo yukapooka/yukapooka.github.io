@@ -31,7 +31,7 @@ Reframed a recurring complaint into a hroader product-risk decision.</p>
 
 ---
 
-<h4>Writing</h4>
+<h4><a href="https://yukapooka.github.io/portfolio/writing/index.html">Writing</a></h4>
 
 
 <p>How to distinguish a one-off complaint from a systemic product risk</p>
