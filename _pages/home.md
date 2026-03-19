@@ -13,10 +13,6 @@ social: true # includes social icons at the bottom of the page
 
 <p><b>Exploring roles in: </b></p>
 Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
-
-<p><a href="https://yukapooka.github.io/portfolio/case_studies/">View Case Studies</a></p>
-<p><a href="https://yukapooka.github.io/portfolio/cv/">View Resume</a></p>
-
 <br />
 
 ---
@@ -28,7 +24,7 @@ Healthcare Product Management · Technical Product Management · Product Strateg
 Standardized a fragmented analytics workflow into a more reusable internal system.</p>
 <p><b>Product risk escalation</b>: 
 Reframed an apparent one-off complaint into a broader product-risk question worth testing.</p>
-<p><b>Standing up a zero-to-one computational capability</b>: 
+<p><b>Computational capability buildout</b>: 
 Helped shape the tooling, workflow, and infrastructure foundations for a new computational program.</p>
 <p><a href="https://yukapooka.github.io/portfolio/case_studies/">View all case studies</a></p>
 <br />
@@ -62,5 +58,5 @@ Helped shape the tooling, workflow, and infrastructure foundations for a new com
 
 ---
 
-<h4><a href="https://yukapooka.github.io/portfolio/contact/">Contact</a></h4>
+<h4>Contact</h4>
 <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/portfolio/cv/">Resume</a> · <a href="https://yukapooka.github.io/portfolio/contact/yuka.w.suzuki@gmail.com">Email</a>
