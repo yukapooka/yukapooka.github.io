@@ -419,44 +419,14 @@ ninja.data = [{
               window.location.href = "/portfolio/case_studies/1_project/";
             },},{id: "case_studies-project-2",
           title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/2_project/";
-            },},{id: "case_studies-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/3_project/";
-            },},{id: "case_studies-project-4",
-          title: 'project 4',
+              window.location.href = "/portfolio/case_studies/2_project/";
+            },},{id: "case_studies-project-3",
+          title: 'project 3',
           description: "another without an image",
           section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/4_project/";
-            },},{id: "case_studies-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/5_project/";
-            },},{id: "case_studies-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/6_project/";
-            },},{id: "case_studies-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/7_project/";
-            },},{id: "case_studies-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/8_project/";
-            },},{id: "case_studies-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/9_project/";
+              window.location.href = "/portfolio/case_studies/3_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
