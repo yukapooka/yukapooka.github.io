@@ -12,23 +12,29 @@ My background gives me a strong foundation in technical and scientific environme
 
 <h4>What I’m strongest at</h4>
 
-<p>Problem framing</p>
-<p>Breaking down complex or loosely defined situations into clearer questions, priorities, and paths forward.</p>
+<p>Problem framing
 
-<p>Technical translation</p>
-<p>Connecting technical realities with stakeholder needs, workflow implications, and decision-making.</p>
+Breaking down complex or loosely defined situations into clearer questions, priorities, and paths forward.</p>
 
-<p>Workflow and platform thinking</p>
-<p>Looking beyond individual tasks or features to improve how work happens across a system.</p>
+<p>Technical translation
 
-<p>Cross-functional alignment</p>
-<p>Helping people with different perspectives move toward a shared understanding and direction.</p>
+Connecting technical realities with stakeholder needs, workflow implications, and decision-making.</p>
 
-<p>Structured execution</p>
-<p>Turning promising but abstract ideas into something more concrete, operational, and actionable.</p>
+<p>Workflow and platform thinking
 
-<p>Judgment in complex settings</p>
-<p>Recognizing tradeoffs, weak signals, and decision points in environments where certainty is limited.</p>
+Looking beyond individual tasks or features to improve how work happens across a system.</p>
+
+<p>Cross-functional alignment
+
+Helping people with different perspectives move toward a shared understanding and direction.</p>
+
+<p>Structured execution
+
+Turning promising but abstract ideas into something more concrete, operational, and actionable.</p>
+
+<p>Judgment in complex settings
+
+Recognizing tradeoffs, weak signals, and decision points in environments where certainty is limited.</p>
 
 <br />
 
