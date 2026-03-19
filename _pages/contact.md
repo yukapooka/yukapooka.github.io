@@ -1,7 +1,9 @@
 ---
-layout: contact
+layout: page
 title: contact
-permalink: /
+permalink: /contact/
+description: contact page
+
 
 ---
 <h4>Contact</h4>
