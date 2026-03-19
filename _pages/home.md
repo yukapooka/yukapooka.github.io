@@ -12,8 +12,7 @@ social: true # includes social icons at the bottom of the page
 <p>I work across technical systems, workflow design, and cross-functional execution in healthcare and biotech environments.</p>
 
 <p><b>Exploring roles in: </b></p>
-
-<p>Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles</p>
+Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
 <br />
 
 ---
@@ -55,4 +54,4 @@ Reframed a recurring complaint into a hroader product-risk decision.</p>
 
 ---
 
-<h4>Contact</h4>
+<h4><a href="https://yukapooka.github.io/portfolio/contact/">Contact</a></h4>
