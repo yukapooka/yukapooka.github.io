@@ -13,45 +13,54 @@ social: true # includes social icons at the bottom of the page
 
 <p><b>Exploring roles in: </b></p>
 Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
+
+<p><a href="https://yukapooka.github.io/portfolio/case_studies/">View Case Studies</a></p>
+<p><a href="https://yukapooka.github.io/portfolio/cv/">View Resume</a></p>
+
 <br />
 
 ---
 
-<h4><a href="https://yukapooka.github.io/portfolio/case_studies/">Featured Case Studies</a></h4>
+<h4>Featured Case Studies</h4>
 
 
 <p><b>Internal analytics platform</b>: 
 Standardized a fragmented analytics workflow into a more reusable internal system.</p>
 <p><b>Product risk escalation</b>: 
-Reframed a recurring complaint into a hroader product-risk decision.</p>
+Reframed an apparent one-off complaint into a broader product-risk question worth testing.</p>
 <p><b>Standing up a zero-to-one computational capability</b>: 
- Helped stand up a new computational program from concept to readiness.</p>
+Helped shape the tooling, workflow, and infrastructure foundations for a new computational program.</p>
+<p><a href="https://yukapooka.github.io/portfolio/case_studies/">View all case studies</a></p>
 <br />
 
 ---
 
-<h4><a href="https://yukapooka.github.io/portfolio/writing/index.html">Writing</a></h4>
+<h4>Writing</h4>
 
 
-<p>How to distinguish a one-off complaint from a systemic product risk</p>
-<p>What makes internal platforms succeed</p>
-<p>What zero-to-one technical programs need before they need scale</p>
+<p>Why healthcare product problems are often systems problems</p>
+<p>Where AI is actually useful in healthcare workflows</p>
+<p>The overlooked skill in technical organizations: translation</p>
+<p><a href="https://yukapooka.github.io/portfolio/writing/index.html"> View writing</a></p>
 <br />
 
 ---
 
-<h4><a href="https://yukapooka.github.io/portfolio/about/">About</a></h4>
+<h4>About</h4>
 
-<p>My background began in computational biology, but much of my work evolved into product-shaped problems: improving workflows, aligning stakeholders, and helping technical efforts become operationally meaningful.</p>
+<p>I started in computational biology and bioinformatics, then gradually moved toward work that sat closer to product, platforms, and strategic execution. Across healthcare and biotech settings, I found myself most drawn to clarifying complex problems, improving workflows, and helping technical efforts become more usable and actionable.</p>
+
+<p><a href="https://yukapooka.github.io/portfolio/about/">More about me</a></p>
 <br />
 
 ---
 
-<h4>Public-safe note</h4>
+<h4>Confidentiality note</h4>
 
-<p>Case studies are anonymized and abstracted to protect confidential details.</p>
+<p>Case studies are intentionally anonymized and abstracted to preserve confidentiality while retaining the core decisions and lessons.</p>
 <br />
 
 ---
 
 <h4><a href="https://yukapooka.github.io/portfolio/contact/">Contact</a></h4>
+<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/portfolio/cv/">Resume</a> · <a href="https://yukapooka.github.io/portfolio/contact/yuka.w.suzuki@gmail.com">Email</a>
