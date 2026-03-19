@@ -12,7 +12,8 @@ social: true # includes social icons at the bottom of the page
 <p>I work across technical systems, workflow design, and cross-functional execution in healthcare and biotech environments.</p>
 
 <p><b>Exploring roles in: </b></p>
-Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
+<p>Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles</p>
+<p><a href="https://yukapooka.github.io/portfolio/cv/">View Resume</a></p>
 <br />
 
 ---
@@ -59,4 +60,6 @@ Helped shape the tooling, workflow, and infrastructure foundations for a new com
 ---
 
 <h4>Contact</h4>
+<!-- ---
 <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/portfolio/cv/">Resume</a> · <a href="https://yukapooka.github.io/portfolio/contact/yuka.w.suzuki@gmail.com">Email</a>
+--- -->
