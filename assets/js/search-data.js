@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/portfolio/cv/";
           },
         },{id: "nav-case-studies",
-          title: "case_studies",
-          description: "A growing collection of your cool case_studies.",
+          title: "case studies",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/case_studies/";
