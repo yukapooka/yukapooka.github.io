@@ -12,48 +12,52 @@ My background gives me a strong foundation in technical and scientific environme
 
 <h4>What I’m strongest at</h4>
 
-Problem framing
-Breaking down complex or loosely defined situations into clearer questions, priorities, and paths forward.
+<p>Problem framing</p>
+<p>Breaking down complex or loosely defined situations into clearer questions, priorities, and paths forward.</p>
 
-Technical translation
-Connecting technical realities with stakeholder needs, workflow implications, and decision-making.
+<p>Technical translation</p>
+<p>Connecting technical realities with stakeholder needs, workflow implications, and decision-making.</p>
 
-Workflow and platform thinking
-Looking beyond individual tasks or features to improve how work happens across a system.
+<p>Workflow and platform thinking</p>
+<p>Looking beyond individual tasks or features to improve how work happens across a system.</p>
 
-Cross-functional alignment
-Helping people with different perspectives move toward a shared understanding and direction.
+<p>Cross-functional alignment</p>
+<p>Helping people with different perspectives move toward a shared understanding and direction.</p>
 
-Structured execution
-Turning promising but abstract ideas into something more concrete, operational, and actionable.
+<p>Structured execution</p>
+<p>Turning promising but abstract ideas into something more concrete, operational, and actionable.</p>
 
-Judgment in complex settings
-Recognizing tradeoffs, weak signals, and decision points in environments where certainty is limited.
+<p>Judgment in complex settings</p>
+<p>Recognizing tradeoffs, weak signals, and decision points in environments where certainty is limited.</p>
+
 <br />
 
 <h4>What I’m interested in</h4>
 
-I’m especially interested in roles and problems involving:
+<p>I’m especially interested in roles and problems involving:</p>
 
-healthcare products and platforms
+- healthcare products and platforms
 
-internal tools and workflow systems
+- internal tools and workflow systems
 
-AI-enabled operational or decision-support products
+- AI-enabled operational or decision-support products
 
-product and innovation strategy in complex domains
+- product and innovation strategy in complex domains
 
-technical programs that require cross-disciplinary coordination
+- technical programs that require cross-disciplinary coordination
+
 <br />
 
 <h4>How I work</h4>
 
-I tend to do my best work in environments where technical depth and practical decision-making need to come together. I’m motivated by problems that require more than analysis alone — the kind where progress depends on clearer framing, better coordination, stronger workflow design, or more deliberate tradeoff-making.
+<p>I tend to do my best work in environments where technical depth and practical decision-making need to come together. I’m motivated by problems that require more than analysis alone — the kind where progress depends on clearer framing, better coordination, stronger workflow design, or more deliberate tradeoff-making.
 
-In teams, I naturally gravitate toward making complexity easier to work with. That might mean structuring a messy problem, translating between different stakeholders, identifying what actually matters, or helping a new effort move from idea to operational reality.
+In teams, I naturally gravitate toward making complexity easier to work with. That might mean structuring a messy problem, translating between different stakeholders, identifying what actually matters, or helping a new effort move from idea to operational reality.</p>
+
 <br />
 
 <h4>Background</h4>
 
-My earlier training and experience were grounded in computational biology, bioinformatics, and healthcare-related technical work. That foundation still shapes how I think: analytically, systematically, and with sensitivity to complexity. Over time, though, I became increasingly interested in the product, platform, and execution side of technical work — especially in settings where the stakes are real and the systems are multi-layered.
+<p>My earlier training and experience were grounded in computational biology, bioinformatics, and healthcare-related technical work. That foundation still shapes how I think: analytically, systematically, and with sensitivity to complexity. Over time, though, I became increasingly interested in the product, platform, and execution side of technical work — especially in settings where the stakes are real and the systems are multi-layered.</p>
+
 <br />
