@@ -1,5 +1,6 @@
 ---
 layout: profiles
+title: about
 permalink: /about/
 nav: true
 nav_order: 1
@@ -11,6 +12,4 @@ profiles:
     image: IMG_5011.jpeg
     content: about_yuka.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>xxx</p>
 ---

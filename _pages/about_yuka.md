@@ -1,5 +1,3 @@
-<h3>About Me</h3>
-
 I started in computational biology and bioinformatics, working on problems at the intersection of data, systems, and healthcare. Over time, I found myself increasingly drawn to a different layer of work: not just the technical analysis itself, but the decisions, workflows, and coordination around it.
 
 Across healthcare and biotech settings, much of my work evolved toward product-shaped problems. I was often most engaged when the challenge involved clarifying a complex situation, improving how work moved across people and systems, or helping a technical effort become more usable, actionable, and operationally meaningful.
