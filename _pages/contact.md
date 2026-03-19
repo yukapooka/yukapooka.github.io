@@ -1,9 +1,7 @@
 ---
-layout: home
-title: home
+layout: contact
+title: contact
 permalink: /
-
-social: true # includes social icons at the bottom of the page
 
 ---
 <h4>Contact</h4>
