@@ -1,7 +1,6 @@
 ---
 layout: profiles
 permalink: /about/
-title: about
 nav: true
 nav_order: 1
 
