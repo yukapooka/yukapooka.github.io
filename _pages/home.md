@@ -41,7 +41,7 @@ Reframed a recurring complaint into a hroader product-risk decision.</p>
 
 ---
 
-<h4>About</h4>
+<h4><a href="https://yukapooka.github.io/portfolio/about/">About</a></h4>
 
 <p>My background began in computational biology, but much of my work evolved into product-shaped problems: improving workflows, aligning stakeholders, and helping technical efforts become operationally meaningful.</p>
 <br />
