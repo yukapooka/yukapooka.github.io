@@ -11,12 +11,14 @@ social: true # includes social icons at the bottom of the page
 
 I work across technical systems, workflow design, and cross-functional execution in healthcare and biotech environments.
 
-<b>Exploring roles in:</b> <p>Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
-</p>
+<b>Exploring roles in:
+
+Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
+
 
 
 ---
-
+<br />
 
 <h4>Featured Case Studies</h4>
 
