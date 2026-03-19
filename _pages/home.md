@@ -18,17 +18,15 @@ Healthcare Product Management · Technical Product Management · Product Strateg
 
 ---
 
-<h4>Featured Case Studies</h4>
+<h4><a href="https://yukapooka.github.io/portfolio/case_studies/">Featured Case Studies</a></h4>
 
 
-- <b>Internal analytics platform</b>
-Standardized a fragmented analytics workflow into a more reusable internal system.
-
-- <b>Product risk escalation</b>
-Reframed a recurring complaint into a hroader product-risk decision.
-
-- <b>Standing up a zero-to-one computational capability</b>
- Helped stand up a new computational program from concept to readiness.
+<p><b>Internal analytics platform</b>: 
+Standardized a fragmented analytics workflow into a more reusable internal system.</p>
+<p><b>Product risk escalation</b>: 
+Reframed a recurring complaint into a hroader product-risk decision.</p>
+<p><b>Standing up a zero-to-one computational capability</b>: 
+ Helped stand up a new computational program from concept to readiness.</p>
 <br />
 
 ---
@@ -36,11 +34,9 @@ Reframed a recurring complaint into a hroader product-risk decision.
 <h4>Writing</h4>
 
 
-- How to distinguish a one-off complaint from a systemic product risk
-
-- What makes internal platforms succeed
-
-- What zero-to-one technical programs need before they need scale
+<p>How to distinguish a one-off complaint from a systemic product risk</p>
+<p>What makes internal platforms succeed</p>
+<p>What zero-to-one technical programs need before they need scale</p>
 <br />
 
 ---
