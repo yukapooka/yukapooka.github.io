@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yukapooka.github.io/sitemap.xml
+Sitemap: https://yukapooka.github.io/portfolio//sitemap.xml
