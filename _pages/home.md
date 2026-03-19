@@ -13,7 +13,7 @@ I work across technical systems, workflow design, and cross-functional execution
 
 <b>Exploring roles in: </b>
 
-Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
+<p>Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles</p>
 <br />
 
 ---
@@ -43,14 +43,14 @@ Reframed a recurring complaint into a hroader product-risk decision.</p>
 
 <h4>About</h4>
 
-My background began in computational biology, but much of my work evolved into product-shaped problems: improving workflows, aligning stakeholders, and helping technical efforts become operationally meaningful.
+<p>My background began in computational biology, but much of my work evolved into product-shaped problems: improving workflows, aligning stakeholders, and helping technical efforts become operationally meaningful.</p>
 <br />
 
 ---
 
 <h4>Public-safe note</h4>
 
-Case studies are anonymized and abstracted to protect confidential details.
+<p>Case studies are anonymized and abstracted to protect confidential details.</p>
 <br />
 
 ---
