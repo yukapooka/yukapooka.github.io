@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-writing",
-          title: "writing",
-          description: "",
+  },{id: "nav-about",
+          title: "about",
+          description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/writing/index.html";
-          },
-        },{id: "nav-case-studies",
-          title: "case_studies",
-          description: "A growing collection of your cool case_studies.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/case_studies/";
+            window.location.href = "/portfolio/about/";
           },
         },{id: "nav-resume",
           title: "resume",
@@ -30,12 +23,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/cv/";
           },
-        },{id: "nav-about",
-          title: "about",
-          description: "members of the lab or group",
+        },{id: "nav-case-studies",
+          title: "case_studies",
+          description: "A growing collection of your cool case_studies.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/about/";
+            window.location.href = "/portfolio/case_studies/";
+          },
+        },{id: "nav-writing",
+          title: "writing",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/writing/index.html";
+          },
+        },{id: "nav-contact",
+          title: "contact",
+          description: "contact page",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/contact/";
           },
         },{id: "post-a-post-with-plotly-js",
         
