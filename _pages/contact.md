@@ -3,6 +3,8 @@ layout: page
 title: contact
 permalink: /contact/
 description: contact page
+nav: true
+nav_order: 5
 
 
 ---
