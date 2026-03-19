@@ -9,7 +9,7 @@ social: true # includes social icons at the bottom of the page
 
 <h4>Technical, Product & Strategy Builder for Healthcare and AI-Enabled Systems</h4>
 
-I work across technical systems, workflow design, and cross-functional execution in healthcare and biotech environments.
+<p>I work across technical systems, workflow design, and cross-functional execution in healthcare and biotech environments.</p>
 
 <b>Exploring roles in: </b>
 
