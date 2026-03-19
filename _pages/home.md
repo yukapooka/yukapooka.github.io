@@ -11,13 +11,12 @@ social: true # includes social icons at the bottom of the page
 
 I work across technical systems, workflow design, and cross-functional execution in healthcare and biotech environments.
 
-<li><b>Exploring roles in: </b></li>
+<h4><b>Exploring roles in: </b></h4>
 
 Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles
 <br />
 
 ---
-<br />
 
 <h4>Featured Case Studies</h4>
 
@@ -33,7 +32,6 @@ Reframed a recurring complaint into a hroader product-risk decision.
 <br />
 
 ---
-<br />
 
 <h4>Writing</h4>
 
@@ -46,7 +44,6 @@ Reframed a recurring complaint into a hroader product-risk decision.
 <br />
 
 ---
-<br />
 
 <h4>About</h4>
 
@@ -54,7 +51,6 @@ My background began in computational biology, but much of my work evolved into p
 <br />
 
 ---
-<br />
 
 <h4>Public-safe note</h4>
 
@@ -62,6 +58,5 @@ Case studies are anonymized and abstracted to protect confidential details.
 <br />
 
 ---
-<br />
 
 <h4>Contact</h4>
