@@ -7,12 +7,12 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-<h4>Technical, Product & Strategy Builder for Healthcare and AI-Enabled Systems</h4>
+<h4>Technical, Product & Strategy Builder for Healthcare, AI, and Decision Systems</h4>
 
-<p>I work across technical systems, workflow design, and cross-functional execution in healthcare and biotech environments.</p>
+<p>I work at the intersection of technical systems, human judgment, and real-world decision-making in healthcare and biotech environments. My portfolio brings together selected case studies and writing on product, AI-enabled workflows, and the design of systems that support better decisions.</p>
 
 <p><b>Exploring roles in: </b></p>
-<p>Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles</p>
+<p>Healthcare Product Management · Technical Product Management · Product Strategy · Responsible AI · Decision Science / Behavioral Science · AI-Enabled Platform Roles</p>
 <p><a href="https://yukapooka.github.io/cv/">View Resume</a></p>
 <br />
 
@@ -35,9 +35,9 @@ Helped shape the tooling, workflow, and infrastructure foundations for a new com
 <h4>Writing</h4>
 
 
-<p>Why healthcare product problems are often systems problems</p>
-<p>Where AI is actually useful in healthcare workflows</p>
-<p>The overlooked skill in technical organizations: translation</p>
+<p>Why good AI in healthcare is not just a modeling problem</p>
+<p>What decision quality looks like in AI-enabled workflows</p>
+<p>How human judgment breaks down in high-stakes technical systems</p>
 <p><a href="https://yukapooka.github.io/writing/index.html"> View writing</a></p>
 <br />
 
@@ -45,7 +45,7 @@ Helped shape the tooling, workflow, and infrastructure foundations for a new com
 
 <h4>About</h4>
 
-<p>I started in computational biology and bioinformatics, then gradually moved toward work that sat closer to product, platforms, and strategic execution. Across healthcare and biotech settings, I found myself most drawn to clarifying complex problems, improving workflows, and helping technical efforts become more usable and actionable.</p>
+<p>My background began in computational biology and analytics, but much of my work evolved toward product-shaped and decision-oriented problems: clarifying complexity, improving workflows, and thinking about how technical systems shape real-world judgment.</p>
 
 <p><a href="https://yukapooka.github.io/about/">More about me</a></p>
 <br />

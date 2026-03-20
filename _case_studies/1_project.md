@@ -5,6 +5,8 @@ description: with background image
 img: assets/img/12.jpg
 importance: 1
 related_publications: true
+category: product
+
 ---
 
 Every project has a beautiful feature showcase page.

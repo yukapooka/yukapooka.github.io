@@ -4,6 +4,8 @@ title: project 3
 description: another without an image
 img: assets/img/7.jpg
 importance: 3
+category: product
+
 ---
 
 Every project has a beautiful feature showcase page.
