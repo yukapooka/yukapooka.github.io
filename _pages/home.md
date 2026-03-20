@@ -24,11 +24,14 @@ social: false # includes social icons at the bottom of the page
 <p>Selected case studies across systems and platforms, decision environments, and risk-driven execution.</p>
 
 <p><b>Internal analytics platform</b>: 
-<p><i>Standardized a fragmented analytics workflow into a more consistent and reusable internal system.</i></p>
+
+<i>Standardized a fragmented analytics workflow into a more consistent and reusable internal system.</i></p>
 <p><b>Product risk escalation</b>:
-<p><i>Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.</i></p>
+
+<i>Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.</i></p>
 <p><b>Decision design across the oncology care pathway</b>:
-<p><i>Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.</i></p>
+
+<i>Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.</i></p>
 <p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
 <br />
 
@@ -63,8 +66,8 @@ social: false # includes social icons at the bottom of the page
 
 <h4>Contact</h4>
 
-<p>Best way to reach me: <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> or <a href="https://yukapooka.github.io/contact/yuka.w.suzuki@gmail.com">Email</a></p>
+<p>Best way to reach me: <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> or <a href="yuka.w.suzuki@gmail.com">Email</a></p>
 <br />
 <!-- ---
-<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/cv/">Resume</a> · <a href="https://yukapooka.github.io/contact/yuka.w.suzuki@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/cv/">Resume</a> · <a href="yuka.w.suzuki@gmail.com">Email</a>
 --- -->
