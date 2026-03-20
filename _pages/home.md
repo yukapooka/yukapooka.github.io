@@ -20,13 +20,13 @@ social: true # includes social icons at the bottom of the page
 
 <h4>Featured Case Studies</h4>
 
+<p>These case studies span three connected themes: systems and platforms, decision environments, and risk-driven execution. Across them, I’m interested in how technical systems shape workflows, judgment, and action in complex real-world settings.
+
+Each case study is anonymized and abstracted for public sharing while preserving the core problem, tradeoffs, and lessons.</p>
 
 <p><b>Internal analytics platform</b>: 
-Standardized a fragmented analytics workflow into a more reusable internal system.</p>
 <p><b>Product risk escalation</b>: 
-Reframed an apparent one-off complaint into a broader product-risk question worth testing.</p>
-<p><b>Computational capability buildout</b>: 
-Helped shape the tooling, workflow, and infrastructure foundations for a new computational program.</p>
+<p><b>Decision design across the oncology care pathway</b>: 
 <p><a href="https://yukapooka.github.io/case_studies/">View all case studies</a></p>
 <br />
 
