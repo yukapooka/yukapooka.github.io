@@ -13,7 +13,7 @@ social: true # includes social icons at the bottom of the page
 
 <p><b>Exploring roles in: </b></p>
 <p>Healthcare Product Management · Technical Product Management · Product Strategy · Innovation Strategy · AI-Enabled Platform Roles</p>
-<p><a href="https://yukapooka.github.io/portfolio/cv/">View Resume</a></p>
+<p><a href="https://yukapooka.github.io/cv/">View Resume</a></p>
 <br />
 
 ---
@@ -27,7 +27,7 @@ Standardized a fragmented analytics workflow into a more reusable internal syste
 Reframed an apparent one-off complaint into a broader product-risk question worth testing.</p>
 <p><b>Computational capability buildout</b>: 
 Helped shape the tooling, workflow, and infrastructure foundations for a new computational program.</p>
-<p><a href="https://yukapooka.github.io/portfolio/case_studies/">View all case studies</a></p>
+<p><a href="https://yukapooka.github.io/case_studies/">View all case studies</a></p>
 <br />
 
 ---
@@ -38,7 +38,7 @@ Helped shape the tooling, workflow, and infrastructure foundations for a new com
 <p>Why healthcare product problems are often systems problems</p>
 <p>Where AI is actually useful in healthcare workflows</p>
 <p>The overlooked skill in technical organizations: translation</p>
-<p><a href="https://yukapooka.github.io/portfolio/writing/index.html"> View writing</a></p>
+<p><a href="https://yukapooka.github.io/writing/index.html"> View writing</a></p>
 <br />
 
 ---
@@ -47,7 +47,7 @@ Helped shape the tooling, workflow, and infrastructure foundations for a new com
 
 <p>I started in computational biology and bioinformatics, then gradually moved toward work that sat closer to product, platforms, and strategic execution. Across healthcare and biotech settings, I found myself most drawn to clarifying complex problems, improving workflows, and helping technical efforts become more usable and actionable.</p>
 
-<p><a href="https://yukapooka.github.io/portfolio/about/">More about me</a></p>
+<p><a href="https://yukapooka.github.io/about/">More about me</a></p>
 <br />
 
 ---
@@ -61,5 +61,5 @@ Helped shape the tooling, workflow, and infrastructure foundations for a new com
 
 <h4>Contact</h4>
 <!-- ---
-<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/portfolio/cv/">Resume</a> · <a href="https://yukapooka.github.io/portfolio/contact/yuka.w.suzuki@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/cv/">Resume</a> · <a href="https://yukapooka.github.io/contact/yuka.w.suzuki@gmail.com">Email</a>
 --- -->
