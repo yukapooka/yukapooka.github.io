@@ -24,11 +24,11 @@ social: false # includes social icons at the bottom of the page
 <p>Selected case studies across systems and platforms, decision environments, and risk-driven execution.</p>
 
 <p><b>Internal analytics platform</b>: 
-<p>*Standardized a fragmented analytics workflow into a more consistent and reusable internal system.*</p>
+<p><i>Standardized a fragmented analytics workflow into a more consistent and reusable internal system.</i></p>
 <p><b>Product risk escalation</b>:
-<p>*Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.*</p>
+<p><i>Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.</i></p>
 <p><b>Decision design across the oncology care pathway</b>:
-<p>*Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.*</p>
+<p><i>Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.</i></p>
 <p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
 <br />
 
