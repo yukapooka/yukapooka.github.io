@@ -14,7 +14,7 @@ social: false # includes social icons at the bottom of the page
 <p><b>Exploring roles in: </b></p>
 <p>Healthcare Product Management · Technical Product Management · Product Strategy · Responsible AI · Decision Science / Behavioral Science · AI-Enabled Platform Roles</p>
 <p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
-<p><a href="https://yukapooka.github.io/cv/">View Resume</a></p>
+<p><a href="https://yukapooka.github.io/resume/">View Resume</a></p>
 <br />
 
 ---
@@ -69,5 +69,5 @@ social: false # includes social icons at the bottom of the page
 <p>Best way to reach me: <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> or <a href="yuka.w.suzuki@gmail.com">Email</a></p>
 <br />
 <!-- ---
-<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/cv/">Resume</a> · <a href="yuka.w.suzuki@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/resume/">Resume</a> · <a href="yuka.w.suzuki@gmail.com">Email</a>
 --- -->
