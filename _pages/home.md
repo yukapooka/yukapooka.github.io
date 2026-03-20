@@ -3,13 +3,13 @@ layout: home
 title: home
 permalink: /
 
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 ---
 
 <h4>Technical, Product & Strategy Builder for Healthcare, AI, and Decision Systems</h4>
 
-<p>I work at the intersection of technical systems, human judgment, and real-world decision-making in healthcare and biotech environments. My portfolio brings together selected case studies and writing on product, AI-enabled workflows, and the design of systems that support better decisions.</p>
+<p>I work at the intersection of technical systems, human judgment, and decision-making in healthcare and biotech environments. This portfolio shares selected case studies and writing on AI-enabled workflows and decision systems.</p>
 
 <p><b>Exploring roles in: </b></p>
 <p>Healthcare Product Management · Technical Product Management · Product Strategy · Responsible AI · Decision Science / Behavioral Science · AI-Enabled Platform Roles</p>
@@ -62,6 +62,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <h4>Contact</h4>
+
+<p>Best way to reach me: <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> or <a href="https://yukapooka.github.io/contact/yuka.w.suzuki@gmail.com">Email</a></p>
+<br />
 <!-- ---
 <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/cv/">Resume</a> · <a href="https://yukapooka.github.io/contact/yuka.w.suzuki@gmail.com">Email</a>
 --- -->
