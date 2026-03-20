@@ -7,42 +7,42 @@ ninja.data = [{
     title: "home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/portfolio/";
+      window.location.href = "/";
     },
   },{id: "nav-about-me",
           title: "about me",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/about/";
+            window.location.href = "/about/";
           },
         },{id: "nav-resume",
           title: "resume",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-case-studies",
           title: "case studies",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/case_studies/";
+            window.location.href = "/case_studies/";
           },
         },{id: "nav-writing",
           title: "writing",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/writing/index.html";
+            window.location.href = "/writing/index.html";
           },
         },{id: "nav-contact",
           title: "contact",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/contact/";
+            window.location.href = "/contact/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -52,7 +52,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2025/plotly/";
+            window.location.href = "/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -63,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -85,7 +85,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/tabs/";
+            window.location.href = "/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-with-typograms",
@@ -96,7 +96,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/typograms/";
+            window.location.href = "/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -107,7 +107,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/post-citation/";
+            window.location.href = "/blog/2024/post-citation/";
           
         },
       },{id: "post-a-post-with-pseudo-code",
@@ -118,7 +118,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/pseudocode/";
+            window.location.href = "/blog/2024/pseudocode/";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -129,7 +129,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/code-diff/";
+            window.location.href = "/blog/2024/code-diff/";
           
         },
       },{id: "post-a-post-with-advanced-image-components",
@@ -140,7 +140,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/advanced-images/";
+            window.location.href = "/blog/2024/advanced-images/";
           
         },
       },{id: "post-a-post-with-vega-lite",
@@ -151,7 +151,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/vega-lite/";
+            window.location.href = "/blog/2024/vega-lite/";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -162,7 +162,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/geojson-map/";
+            window.location.href = "/blog/2024/geojson-map/";
           
         },
       },{id: "post-a-post-with-echarts",
@@ -173,7 +173,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/echarts/";
+            window.location.href = "/blog/2024/echarts/";
           
         },
       },{id: "post-a-post-with-chart-js",
@@ -184,7 +184,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2024/chartjs/";
+            window.location.href = "/blog/2024/chartjs/";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -195,7 +195,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/tikzjax/";
+            window.location.href = "/blog/2023/tikzjax/";
           
         },
       },{id: "post-a-post-with-bibliography",
@@ -206,7 +206,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/post-bibliography/";
+            window.location.href = "/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -217,7 +217,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/jupyter-notebook/";
+            window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -228,7 +228,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/custom-blockquotes/";
+            window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -239,7 +239,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
       },{id: "post-a-post-with-audios",
@@ -250,7 +250,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/audios/";
+            window.location.href = "/blog/2023/audios/";
           
         },
       },{id: "post-a-post-with-videos",
@@ -261,7 +261,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/videos/";
+            window.location.href = "/blog/2023/videos/";
           
         },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -272,7 +272,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/tables/";
+            window.location.href = "/blog/2023/tables/";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -283,7 +283,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2023/table-of-contents/";
+            window.location.href = "/blog/2023/table-of-contents/";
           
         },
       },{id: "post-a-post-with-giscus-comments",
@@ -294,7 +294,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2022/giscus-comments/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -316,7 +316,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -327,7 +327,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2021/diagrams/";
+            window.location.href = "/blog/2021/diagrams/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -338,7 +338,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2021/distill/";
+            window.location.href = "/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -349,7 +349,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2020/twitter/";
+            window.location.href = "/blog/2020/twitter/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -360,7 +360,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2015/disqus-comments/";
+            window.location.href = "/blog/2015/disqus-comments/";
           
         },
       },{id: "post-a-post-with-math",
@@ -371,7 +371,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2015/math/";
+            window.location.href = "/blog/2015/math/";
           
         },
       },{id: "post-a-post-with-code",
@@ -382,7 +382,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2015/code/";
+            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
@@ -393,7 +393,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2015/images/";
+            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
@@ -404,29 +404,29 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/portfolio/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "case_studies-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/1_project/";
+              window.location.href = "/case_studies/1_project/";
             },},{id: "case_studies-project-2",
           title: 'project 2',
           description: "a project that redirects to another website",
           section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/2_project/";
+              window.location.href = "/case_studies/2_project/";
             },},{id: "case_studies-project-3",
           title: 'project 3',
           description: "another without an image",
           section: "Case_studies",handler: () => {
-              window.location.href = "/portfolio/case_studies/3_project/";
+              window.location.href = "/case_studies/3_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -434,7 +434,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/portfolio/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -442,12 +442,12 @@ ninja.data = [{
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/portfolio/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/portfolio/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
