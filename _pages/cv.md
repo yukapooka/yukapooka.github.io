@@ -77,9 +77,7 @@ National University of Singapore
 
 ---
 
-<h4>Download PDF</h4>
-
-<a href="https://github.com/yukapooka/yukapooka.github.io/blob/main/assets/pdf/example_pdf.pdf" download>Link</a>
+<h4><a href="https://github.com/yukapooka/yukapooka.github.io/blob/main/assets/pdf/example_pdf.pdf" download>Download PDF</a></h4
 
 <br />
 
