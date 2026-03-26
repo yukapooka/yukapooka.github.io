@@ -4,6 +4,8 @@ permalink: /resume/
 title: resume
 nav: true
 nav_order: 2
+cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_format: rendercv # options: rendercv, jsonresume
 
 ---
 <p>My background spans genomics, analytics, and cross-functional work in healthcare and biotech environments. I’m particularly interested in product, decision systems, and Responsible AI roles that sit at the intersection of technical depth, workflow design, and real-world decision-making.</p>
