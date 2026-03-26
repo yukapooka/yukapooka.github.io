@@ -77,32 +77,9 @@ National University of Singapore
 
 ---
 <h4>View my Resume</h4>
-<!-- ---
-<a href="https://github.com/yukapooka/yukapooka.github.io/blob/main/assets/pdf/example_pdf.pdf" download >Download</a>
---- -->
 
-<div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block" data-aspect-ratio="0.1267427122940431" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7034baa1-7726-4a53-9890-eda60a3d72b0_662/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7034baa1-7726-4a53-9890-eda60a3d72b0_662/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" id="block-yui_3_17_2_1_1684190367416_61080"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-button button-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/39c8fc5c-56b3-4692-9b33-b39068f2dfe4_509/website.components.button.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/39c8fc5c-56b3-4692-9b33-b39068f2dfe4_509/website.components.button.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.button" data-sqsp-block="button" id="block-yui_3_17_2_1_1684291683232_19322"><div class="sqs-block-content">
+<a href="assets/pdf/example_pdf.pdf" download>Download</a>
 
-
-<div
-class="sqs-block-button-container  sqs-block-button-container--center "
-data-animation-role="button"
-data-button-size="small"
-data-button-type="tertiary"
-
-> 
-<a 
-    href="/assets/pdf/example_pdf.pdf" 
-    class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element"
-    data-sqsp-button
-    target="_blank"
->
-    View resume
-</a>
-
-
-
-</div>
 <br />
 
 ---
