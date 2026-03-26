@@ -78,7 +78,7 @@ National University of Singapore
 ---
 <h4>View my Resume</h4>
 
-<a href="yukapooka.github.io/assets/pdf/example_pdf.pdf"  target="_blank">PDF.</a>
+<a href="../assets/pdf/example_pdf.pdf"  target="_blank">PDF</a>
 
 <br />
 
