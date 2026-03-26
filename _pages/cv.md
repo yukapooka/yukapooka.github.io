@@ -4,8 +4,6 @@ permalink: /resume/
 title: resume
 nav: true
 nav_order: 2
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
 
 ---
 <p>My background spans genomics, analytics, and cross-functional work in healthcare and biotech environments. I’m particularly interested in product, decision systems, and Responsible AI roles that sit at the intersection of technical depth, workflow design, and real-world decision-making.</p>
@@ -80,7 +78,7 @@ National University of Singapore
 ---
 <h4>View my Resume</h4>
 
-<a href="https://github.com/yukapooka/yukapooka.github.io/blob/main/assets/pdf/example_pdf.pdf" download>Download</a>
+<a href="username.github.io/assets/pdf/example_pdf.pdf"  target="_blank">PDF.</a>
 
 <br />
 
