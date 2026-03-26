@@ -13,16 +13,72 @@ nav_order: 2
 
 <h4>Selected Experience</h4>
 
+<h5>Illumina</h5>
+<h6>Genomics / Product-Adjacent / Decision-Oriented Work</h6>
+<i>Singapore</i>
+
+<p>Worked in regulated healthcare and genomics contexts where technical outputs needed to support real-world interpretation and action.</p>
+
+<ul style="padding-left: 30px;">
+    <li>Contributed to work across oncology, testing, and decision-support contexts where workflow design and judgment materially affected outcomes.</li>
+    <li>Engaged with questions around how technical systems influence trust, interpretation, and decision quality in high-stakes environments.</li>
+    <li>Worked at the intersection of analytics, stakeholder needs, and operational realities in healthcare-related settings.</li>
+    <li>Developed a stronger interest in decision systems, human judgment, and the practical use of predictive or data-driven tools.</li>
+</ul>
+
+---
+
 <h5>Engine Biosciences</h5>
 <h6>Computational Biology / Cross-Functional Technical Leadership</h6>
 <i>Singapore</i>
 
 <p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech environment.</p>
 
-<li>Helped translate emerging technical and scientific directions into operational requirements, tooling, and workflow decisions.</li>
+<ul style="padding-left: 30px;">
+    <li>Helped translate emerging technical and scientific directions into operational requirements, tooling, and workflow decisions.</li>
+    <li>Contributed to standing up foundational computational capabilities and infrastructure for new programs.</li>
+    <li>Worked across technical and cross-functional boundaries to improve clarity, coordination, and execution in complex settings.</li>
+    <li>Focused on making technical efforts more usable, actionable, and operationally meaningful.</li>
+</ul>
 
-<li>Contributed to standing up foundational computational capabilities and infrastructure for new programs.</li>
+---
 
-<li>Worked across technical and cross-functional boundaries to improve clarity, coordination, and execution in complex settings.</li>
+<h5>Earlier Research and Technical Work</h5>
+<h6>Computational Biology / Bioinformatics / Analytics</h6>
 
-<li>Focused on making technical efforts more usable, actionable, and operationally meaningful.</li>
+<p>Built a strong technical foundation in computational biology, genomics, and data-intensive work.</p>
+
+<ul style="padding-left: 30px;">
+    <li>Developed analytical and systems thinking through research and technical problem-solving.</li>
+    <li>Worked with complex biological data and technical workflows in healthcare-relevant contexts.</li>
+    <li>Built the foundation for later work spanning product, workflow design, and decision-support environments.</li>
+</ul>
+
+---
+
+<h4>Core Strengths</h4>
+
+<ul style="padding-left: 30px;">
+    <li>Problem framing</li>
+    <li>Technical translation</li>
+    <li>Systems and workflow thinking</li>
+    <li>Cross-functional execution</li>
+    <li>Decision systems thinking</li>
+    <li>Judgement under uncertainty</li>
+</ul>
+
+---
+
+<h4>Education</h4>
+
+PhD, Computational Biology
+Duke-NUS Medical School
+
+MSc, Cancer Biology
+University College London
+
+BSc, Biomedical Sciences
+National University of Singapore
+
+---
+
