@@ -65,15 +65,15 @@ nav_order: 2
 <h4>Education</h4>
 
 PhD, Computational Biology,  
-Duke-NUS Medical School, Singapore
+Duke-NUS Medical School, Singapore. 
 <i>2013-2018</i>
 
 MSc, Cancer Biology,  
-University College London, United Kingdom
+University College London, United Kingdom. 
 <i>2010-2011</i>
 
 BSc, Biomedical Sciences,  
-National University of Singapore, Singapore
+National University of Singapore, Singapore. 
 <i>2006-2010</i>
 
 <br />
