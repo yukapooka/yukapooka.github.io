@@ -26,6 +26,8 @@ nav_order: 2
     <li>Developed a stronger interest in decision systems, human judgment, and the practical use of predictive or data-driven tools.</li>
 </ul>
 
+<br />
+
 ---
 
 <h5>Engine Biosciences</h5>
@@ -41,6 +43,8 @@ nav_order: 2
     <li>Focused on making technical efforts more usable, actionable, and operationally meaningful.</li>
 </ul>
 
+<br />
+
 ---
 
 <h5>Earlier Research and Technical Work</h5>
@@ -54,18 +58,22 @@ nav_order: 2
     <li>Built the foundation for later work spanning product, workflow design, and decision-support environments.</li>
 </ul>
 
+<br />
+
 ---
 
 <h4>Education</h4>
 
-PhD, Computational Biology,
+PhD, Computational Biology,  
 Duke-NUS Medical School
 
-MSc, Cancer Biology,
+MSc, Cancer Biology,  
 University College London
 
-BSc, Biomedical Sciences,
+BSc, Biomedical Sciences,  
 National University of Singapore
+
+<br />
 
 ---
 
