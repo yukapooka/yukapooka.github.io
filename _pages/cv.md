@@ -13,7 +13,7 @@ nav_order: 2
 
 <h4>Selected Experience</h4>
 
-<h5>Illumina<a href="https://www.illumina.com/"></a></h5>
+<h5><a href="https://www.illumina.com/">Illumina</a></h5>
 <h6>Genomics / Product-Adjacent / Decision-Oriented Work</h6>
 <i>Singapore</i>
 
@@ -30,7 +30,7 @@ nav_order: 2
 
 ---
 
-<h5>Engine Biosciences<a href="https://www.enginebio.com/"></a></h5>
+<h5><a href="https://www.enginebio.com/">Engine Biosciences</a></h5>
 <h6>Computational Biology / Cross-Functional Technical Leadership</h6>
 <i>Singapore</i>
 
