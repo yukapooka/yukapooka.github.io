@@ -56,29 +56,17 @@ nav_order: 2
 
 ---
 
-<h4>Core Strengths</h4>
-
-<ul style="padding-left: 30px;">
-    <li>Problem framing</li>
-    <li>Technical translation</li>
-    <li>Systems and workflow thinking</li>
-    <li>Cross-functional execution</li>
-    <li>Decision systems thinking</li>
-    <li>Judgement under uncertainty</li>
-</ul>
-
----
-
 <h4>Education</h4>
 
-PhD, Computational Biology
+PhD, Computational Biology,
 Duke-NUS Medical School
 
-MSc, Cancer Biology
+MSc, Cancer Biology,
 University College London
 
-BSc, Biomedical Sciences
+BSc, Biomedical Sciences,
 National University of Singapore
 
 ---
+
 
