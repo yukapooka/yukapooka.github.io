@@ -13,7 +13,7 @@ nav_order: 2
 
 <h4>Selected Experience</h4>
 
-<h5>Illumina</h5>
+<h5>Illumina<a href="https://www.illumina.com/"></a></h5>
 <h6>Genomics / Product-Adjacent / Decision-Oriented Work</h6>
 <i>Singapore</i>
 
@@ -30,7 +30,7 @@ nav_order: 2
 
 ---
 
-<h5>Engine Biosciences</h5>
+<h5>Engine Biosciences<a href="https://www.enginebio.com/"></a></h5>
 <h6>Computational Biology / Cross-Functional Technical Leadership</h6>
 <i>Singapore</i>
 
@@ -65,13 +65,16 @@ nav_order: 2
 <h4>Education</h4>
 
 PhD, Computational Biology,  
-Duke-NUS Medical School
+Duke-NUS Medical School, Singapore
+<i>2013-2018</i>
 
 MSc, Cancer Biology,  
-University College London
+University College London, United Kingdom
+<i>2010-2011</i>
 
 BSc, Biomedical Sciences,  
-National University of Singapore
+National University of Singapore, Singapore
+<i>2006-2010</i>
 
 <br />
 
