@@ -8,6 +8,8 @@ Today, I’m most drawn to work at the intersection of healthcare product, decis
 
 <br />
 
+---
+
 <h4>What I’m strongest at</h4>
 
 | Strength | Description |
@@ -19,6 +21,8 @@ Today, I’m most drawn to work at the intersection of healthcare product, decis
 | Judgment under uncertainty | Recognizing tradeoffs, weak signals, and decision points in environments where certainty is limited.|
 
 <br />
+
+---
 
 <h4>What I’m interested in</h4>
 
@@ -33,6 +37,8 @@ Today, I’m most drawn to work at the intersection of healthcare product, decis
 - Product, innovation, and cross-functional strategy in complex domains
 
 <br />
+
+---
 
 <h4>How I work</h4>
 
