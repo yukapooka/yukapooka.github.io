@@ -5,7 +5,7 @@ permalink: /case_studies/
 description: 
 nav: true
 nav_order: 3
-display_categories: [systems and platforms, decision environments, risk and execution]
+display_categories: [systems_and_platforms, decision_environments, risk_and_execution]
 horizontal: false
 ---
 
