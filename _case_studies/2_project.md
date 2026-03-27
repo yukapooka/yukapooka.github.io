@@ -4,8 +4,8 @@ title: project 2
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 2
 category: Systems and Platforms
+importance: 2
 
 ---
 
