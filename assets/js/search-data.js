@@ -412,6 +412,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "case_studies-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/case_studies/1_project/";
+            },},{id: "case_studies-project-2",
+          title: 'project 2',
+          description: "a project that redirects to another website",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/case_studies/2_project/";
+            },},{id: "case_studies-project-3",
+          title: 'project 3',
+          description: "another without an image",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/case_studies/3_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
