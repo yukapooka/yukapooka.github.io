@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 
 ---
-<p>My background spans genomics, analytics, and cross-functional work in healthcare and biotech environments. I’m particularly interested in product, decision systems, and Responsible AI roles that sit at the intersection of technical depth, workflow design, and real-world decision-making.</p>
+<p>My background spans genomics, analytics, and cross-functional work in healthcare and biotech environments. I’ve worked across analytical workflows, technical requirements, and computational infrastructure, with experience translating scientific and operational needs into usable tools and processes. I’m particularly interested in product, decision systems, and Responsible AI roles that sit at the intersection of technical depth, workflow design, and real-world decision-making.</p>
 <br />
 
 ---
@@ -20,10 +20,10 @@ nav_order: 2
 <p>Worked in regulated healthcare and genomics contexts where technical outputs needed to support real-world interpretation and action.</p>
 
 <ul style="padding-left: 30px;">
-    <li>Contributed to work across oncology, testing, and decision-support contexts where workflow design and judgment materially affected outcomes.</li>
-    <li>Engaged with questions around how technical systems influence trust, interpretation, and decision quality in high-stakes environments.</li>
-    <li>Worked at the intersection of analytics, stakeholder needs, and operational realities in healthcare-related settings.</li>
-    <li>Developed a stronger interest in decision systems, human judgment, and the practical use of predictive or data-driven tools.</li>
+    <li>Contributed to analytics and software-related initiatives supporting next-generation sequencing platform development.</li>
+    <li>Helped define user requirements, document workflows, and translate internal user needs into clearer specifications for software teams.</li>
+    <li>Worked across oncology, population genomics, and customer-facing contexts where analytical outputs needed to be robust, interpretable, and fit for real operational use.</li>
+    <li>Helped surface and investigate product limitations through customer feedback, technical assessment, and cross-functional coordination.</li>
 </ul>
 
 <br />
@@ -37,25 +37,39 @@ nav_order: 2
 <p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech environment.</p>
 
 <ul style="padding-left: 30px;">
-    <li>Helped translate emerging technical and scientific directions into operational requirements, tooling, and workflow decisions.</li>
-    <li>Contributed to standing up foundational computational capabilities and infrastructure for new programs.</li>
-    <li>Worked across technical and cross-functional boundaries to improve clarity, coordination, and execution in complex settings.</li>
-    <li>Focused on making technical efforts more usable, actionable, and operationally meaningful.</li>
+    <li>Helped stand up the company’s first computational drug discovery program by defining requirements for compute, tooling, and analytical workflows.</li>
+    <li>Built foundational computational infrastructure and processes needed to support early-stage discovery work.</li>
+    <li>Worked with scientists, technical teams, and stakeholders to translate research goals into practical execution plans.</li>
+    <li>Supported the operational setup of computational work so it could be used effectively in active discovery programs.</li>
 </ul>
 
 <br />
 
 ---
 
-<h5>Earlier Research and Technical Work</h5>
+<h5>Duke-NUS Medical School</h5>
 <h6>Computational Biology / Bioinformatics / Analytics</h6>
 
 <p>Built a strong technical foundation in computational biology, genomics, and data-intensive work.</p>
 
 <ul style="padding-left: 30px;">
-    <li>Developed analytical and systems thinking through research and technical problem-solving.</li>
-    <li>Worked with complex biological data and technical workflows in healthcare-relevant contexts.</li>
-    <li>Built the foundation for later work spanning product, workflow design, and decision-support environments.</li>
+    <li>Worked with complex biological datasets, statistical analysis, and computational methods in research and translational settings.</li>
+    <li>Developed a strong foundation in technically rigorous, healthcare-relevant analytical work.</li>
+    <li>Built experience turning computational and statistical work into outputs that could support broader scientific or operational use.</li>
+</ul>
+
+<br />
+
+---
+<h4>Core Strengths </h4>
+
+<ul style="padding-left: 30px;">
+    <li>Workflow and requirements definition</li>
+    <li>Technical translation across scientific and software teams</li>
+    <li>Analytical workflow development</li>
+    <li>Cross-functional program execution</li>
+    <li>Risk assessment and issue escalation</li>
+    <li>Healthcare, genomics, and regulated-environment context</li>
 </ul>
 
 <br />
