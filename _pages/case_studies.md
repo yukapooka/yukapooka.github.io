@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [systems_and_platforms, decision_environments, risk_and_execution]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/[case_studies].md -->
@@ -24,7 +24,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_case_studies %}
-      {% include case_studies_horizontal.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
