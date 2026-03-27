@@ -47,10 +47,10 @@ nav_order: 2
 
 ---
 
-<h5>Duke-NUS Medical School</h5>
+<h5><a href="https://www.duke-nus.edu.sg/admissions/phd">Duke-NUS Medical School</a></h5>
 <h6>Computational Biology / Bioinformatics / Analytics</h6>
 
-<p>Built a strong technical foundation in computational biology, genomics, and data-intensive work.</p>
+<p>Built a strong technical foundation in computational biology, genomics, and data-intensive research through PhD training.</p>
 
 <ul style="padding-left: 30px;">
     <li>Worked with complex biological datasets, statistical analysis, and computational methods in research and translational settings.</li>
