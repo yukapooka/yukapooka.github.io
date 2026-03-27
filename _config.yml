@@ -152,7 +152,7 @@ collections:
     defaults:
       layout: post
     output: true
-  case_studies:
+  projects:
     output: true
   teachings:
     output: true
