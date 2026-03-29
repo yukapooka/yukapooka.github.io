@@ -2,12 +2,22 @@
 layout: page
 title: Internal analytics platform
 description: From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for Sequencing R&D
-img: assets/img/12.jpg
+img: assets/img/peyman-farmani-unsplash.jpg
 importance: 1
 category: systems and platforms
-related_publications: true
+related_publications: false
 
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Image from link.
+</div>
+
 
 <h4>Context</h4>
 <p>At Illumina, sequencing R&D teams relied on a patchwork of individual scripts and ad hoc workflows to evaluate platform performance. There was no shared system, no consistent methodology, and no way for teams to build on each other's work. Every analysis started from scratch.</p>
