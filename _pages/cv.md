@@ -59,7 +59,7 @@ nav_order: 2
 <p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech environment.</p>
 
 
-<h6><b>Lead Bioinformatics Scientist Engine Biosciences</b> <i>Apr 2018 – Oct 2019</i></h6>
+<h6><b>Lead Bioinformatics R&D</b> <i>Apr 2018 – Oct 2019</i></h6>
 
 <ul style="padding-left: 30px;">
     <li>Built the company's first computational drug discovery programme from zero — defining requirements for compute, tooling, and analytical workflows.</li>
