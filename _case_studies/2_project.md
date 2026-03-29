@@ -8,17 +8,6 @@ category: systems and platforms
 related_publications: false
 
 ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Image from link.
-</div>
-
-
 <h4>Context</h4>
 <p>In an early-stage biotech environment, I joined as the first computational hire to help establish the infrastructure, workflows, and analytical foundations for a new discovery programme. The challenge was to build a credible operating capability quickly while working under significant time and business pressure.</p>
 
