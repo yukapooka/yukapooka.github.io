@@ -50,7 +50,9 @@ social: false # includes social icons at the bottom of the page
 
 <h4>About</h4>
 
-<p>My background began in computational biology and analytics, but much of my work evolved toward product-shaped and decision-oriented problems: clarifying complexity, improving workflows, and thinking about how technical systems shape real-world judgment.</p>
+<p>My background began in computational biology and analytics, but much of my work evolved toward product-shaped problems: defining requirements, aligning stakeholders, and translating technical complexity into usable systems across healthcare and genomics environments. I'm now focused on product and technical product roles where that foundation matters.
+
+</p>
 
 <p><a href="https://yukapooka.github.io/about/">More About Me</a></p>
 <br />
