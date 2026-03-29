@@ -2,7 +2,7 @@
 layout: page
 title: Computational capability buildout
 description: Building a Drug Discovery Platform from Zero — and Making It Count
-img: assets/img/peyman-farmani-unsplash.jpg
+img: assets/img/glen-carrie-unsplash.jpg
 importance: 2
 category: systems and platforms
 related_publications: false
