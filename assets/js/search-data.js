@@ -420,6 +420,11 @@ ninja.data = [{
           description: "Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/3_project/";
+            },},{id: "case_studies-decision-design-across-the-oncology-care-pathway",
+          title: 'Decision Design Across the Oncology Care Pathway',
+          description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
+          section: "Case_studies",handler: () => {
+              window.location.href = "/case_studies/4_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
