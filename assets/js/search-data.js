@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/case_studies/";
           },
-        },{id: "nav-writing",
-          title: "writing",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/writing/index.html";
-          },
         },{id: "nav-contact",
           title: "contact",
           description: "",
@@ -412,9 +405,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "case_studies-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "case_studies-",
+          title: '',
+          description: "",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/1_project/";
             },},{id: "case_studies-project-2",
