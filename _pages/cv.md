@@ -11,7 +11,7 @@ nav_order: 2
 
 ---
 
-<h4>Selected Experience</h4>
+<h4>Experience</h4>
 
 <h5><a href="https://www.illumina.com/">Illumina</a></h5>
 <h6>Genomics / Product-Adjacent / Decision-Oriented Work</h6>
@@ -19,13 +19,33 @@ nav_order: 2
 
 <p>Worked in regulated healthcare and genomics contexts where technical outputs needed to support real-world interpretation and action.</p>
 
+<h6>Staff Bioinformatics Scientist, Clinical Genomics <i>May 2023 – Aug 2025</i></h6>
+
 <ul style="padding-left: 30px;">
-    <li>Contributed to analytics and software-related initiatives supporting next-generation sequencing platform development.</li>
-    <li>Helped define user requirements, document workflows, and translate internal user needs into clearer specifications for software teams.</li>
-    <li>Worked across oncology, population genomics, and customer-facing contexts where analytical outputs needed to be robust, interpretable, and fit for real operational use.</li>
-    <li>Helped surface and investigate product limitations through customer feedback, technical assessment, and cross-functional coordination.</li>
+    <li>Led requirements definition and delivery of an internal cloud-based sequencing analytics platform, reducing time-to-insight by 70%.</li>
+    <li>Defined product metrics and benchmarking frameworks for a clinical oncology MRD detection algorithm under a Janssen Pharma partnership.</li>
+    <li>Automated design verification test pipelines in Jenkins CI/CD, increasing analysis speed by 30% and enabling non-technical self-serve QC.</li>
+    <li>Mentored 8 scientists across Singapore and the US on data workflows and reusable code practices.</li>
 </ul>
 
+
+<h6>Staff Bioinformatics Scientist, Open Innovation <i>Oct 2021 – May 2023</i></h6>
+
+<ul style="padding-left: 30px;">
+    <li>Delivered a cloud-scale ML platform (XGBoost, UK Biobank, Snowflake) for Deerfield Management across 3 disease indications; work contributed to the spin-off of Xaira Therapeutics.</li>
+    <li>Defined use cases and product requirements for new analytical features on Illumina Connected Analytics (ICA).</li>
+    <li>Evaluated privacy-preserving technologies to scope requirements for a federated genomic data exchange platform.</li>
+    <li>Translated research user needs into reproducible product demonstrations for population genomics customers.</li>
+<ul>
+
+
+<h6>Senior Bioinformatics Scientist, Commercial Bioinformatics <i>Oct 2019 – Oct 2021</i></h6>
+
+<ul style="padding-left: 30px;">
+    <li>Captured and synthesised customer feature requests and pain points across APJ, directly influencing product roadmap and quality improvement cycles for BaseSpace, DRAGEN, and ICA.</li>
+    <li>Identified and escalated an undocumented product risk, coordinating engineering stress-testing and driving documentation of the constraint.</li>
+    <li>Developed and delivered technical training workshops and product demos for customers and partners across APJ.</li>
+<ul>
 <br />
 
 ---
@@ -36,11 +56,15 @@ nav_order: 2
 
 <p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech environment.</p>
 
+<h6>Lead Bioinformatics Scientist Engine Biosciences · Singapore & San Francisco <i>Apr 2018 – Oct 2019</i></h6>
+
 <ul style="padding-left: 30px;">
-    <li>Helped stand up the company’s first computational drug discovery program by defining requirements for compute, tooling, and analytical workflows.</li>
-    <li>Built foundational computational infrastructure and processes needed to support early-stage discovery work.</li>
-    <li>Worked with scientists, technical teams, and stakeholders to translate research goals into practical execution plans.</li>
-    <li>Supported the operational setup of computational work so it could be used effectively in active discovery programs.</li>
+    <li>Built the company's first computational drug discovery programme from zero — defining requirements for compute, tooling, and analytical workflows.</li>
+    <li>Architected AWS infrastructure (S3, Batch, CodePipeline) and translated research goals into practical execution plans across scientific and engineering teams.</li>
+    <li>Managed a cross-functional team of 10 scientists across two offices, ensuring analytical deliverables aligned with partnership timelines and funding cycles.</li>
+    <li>Defined the precision oncology analytics product vision and business case, presenting to C-suite — contributing to USD $7M in venture funding within 18 months.</li>
+    <li>Automated a CRISPR genetic screening pipeline, reducing analysis time from 3 weeks to 30 minutes.</li>
+    <li>Recruited and built a team of 6 computational scientists.</li>
 </ul>
 
 <br />
@@ -49,13 +73,16 @@ nav_order: 2
 
 <h5><a href="https://www.duke-nus.edu.sg/admissions/phd">Duke-NUS Medical School</a></h5>
 <h6>Computational Biology / Bioinformatics / Analytics</h6>
+<i>Singapore</i>
 
 <p>Built a strong technical foundation in computational biology, genomics, and data-intensive research through PhD training.</p>
 
+<h6>PhD Researcher, Computational Cancer Genomics <i>May 2013 – Apr 2018</i></h6>
+
 <ul style="padding-left: 30px;">
-    <li>Worked with complex biological datasets, statistical analysis, and computational methods in research and translational settings.</li>
-    <li>Developed a strong foundation in technically rigorous, healthcare-relevant analytical work.</li>
-    <li>Built experience turning computational and statistical work into outputs that could support broader scientific or operational use.</li>
+    <li>Designed and launched the POLARIS Xplora™ NGS cancer gene panel — defining the clinical use case and leading cross-disciplinary development with clinicians and biologists.</li>
+    <li>Co-authored 10 peer-reviewed publications in computational cancer genomics.</li>
+    <li>Organised annual data analytics workshops for 40+ postdoctoral fellows and clinician scientists across 3 years, translating complex computational methods for non-technical healthcare audiences.</li>
 </ul>
 
 <br />
@@ -71,24 +98,6 @@ nav_order: 2
     <li>Risk assessment and issue escalation</li>
     <li>Healthcare, genomics, and regulated-environment context</li>
 </ul>
-
-<br />
-
----
-
-<h4>Education</h4>
-
-PhD, Computational Biology,  
-Duke-NUS Medical School, Singapore  
-<i>2013-2018</i>
-
-MSc, Cancer Biology,  
-University College London, United Kingdom  
-<i>2010-2011</i>
-
-BSc, Biomedical Sciences,  
-National University of Singapore, Singapore  
-<i>2006-2010</i>
 
 <br />
 
