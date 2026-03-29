@@ -20,8 +20,7 @@ related_publications: false
 
 
 <h4>Context</h4>
-<p>In an early-stage biotech environment, there was no computational infrastructure, no established workflows, and no prior computational hire. I was the first. The company had a scientific vision — applying machine learning to drug target discovery — but no platform to execute it on while needing to produce credible early results quickly.
-The mandate was effectively two things at once: build the foundation, and immediately generate results credible enough to anchor a funding narrative.</p>
+<p>In an early-stage biotech environment, I joined as the first computational hire to help establish the infrastructure, workflows, and analytical foundations for a new discovery program. The challenge was to build a credible operating capability quickly while working under significant time and business pressure.</p>
 
 
 <h4>The Problem</h4>
@@ -35,7 +34,7 @@ The third thread was the validation bottleneck. Automating the screening analysi
 
 
 <h4>The Outcome</h4>
-<p>The platform POC generated credible results across multiple disease indications. The automated screening pipeline enabled the iterative R&D cadence the ML platform required.</p>
+<p>The resulting capability supported faster experimental iteration, enabled early proof-of-concept work across multiple indications, and contributed to the organization’s next phase of growth.</p>
 
 
 <h4>What This Illustrates</h4>
