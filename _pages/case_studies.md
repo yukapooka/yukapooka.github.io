@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [systems and platforms, decision environments, risk and execution]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/[case_studies].md -->
