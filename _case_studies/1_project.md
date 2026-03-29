@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internal analytics platform
-description: From Fragmented Scripts to a Shared Platform: Building an Internal Analytics System for Sequencing R&D
+description: From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for Sequencing R&D
 img: assets/img/12.jpg
 importance: 1
 category: systems and platforms
