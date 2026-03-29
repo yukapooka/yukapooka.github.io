@@ -420,9 +420,9 @@ ninja.data = [{
           description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/3_project/";
-            },},{id: "case_studies-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "case_studies-decision-design-in-population-genomics-and-data-sharing",
+          title: 'Decision Design in Population Genomics and Data Sharing',
+          description: "Considered how governance choices, trust, and data-sharing structures influence participation, access, and downstream decision-making.",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/4_project/";
             },},{id: "case_studies-project-1",
