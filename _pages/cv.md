@@ -24,7 +24,7 @@ nav_order: 2
 
 <ul style="padding-left: 30px;">
     <li>Led requirements definition and delivery of an internal cloud-based sequencing analytics platform, reducing time-to-insight by 70%.</li>
-    <li>Defined product metrics and benchmarking frameworks for a clinical oncology MRD detection algorithm under a Janssen Pharma partnership.</li>
+    <li>Defined product metrics and benchmarking frameworks for a clinical oncology algorithm.</li>
     <li>Automated design verification test pipelines in Jenkins CI/CD, increasing analysis speed by 30% and enabling non-technical self-serve QC.</li>
     <li>Mentored 8 scientists across Singapore and the US on data workflows and reusable code practices.</li>
 </ul>
@@ -33,9 +33,9 @@ nav_order: 2
 <h6><b>Staff Bioinformatics Scientist, Open Innovation</b> <i>Oct 2021 – May 2023</i></h6>
 
 <ul style="padding-left: 30px;">
-    <li>Delivered a cloud-scale ML platform (XGBoost, UK Biobank, Snowflake) for Deerfield Management across 3 disease indications; work contributed to the spin-off of Xaira Therapeutics.</li>
+    <li>Delivered a cloud-scale ML platform for drug discovery; work contributed to the spin-off of Xaira Therapeutics.</li>
     <li>Defined use cases and product requirements for new analytical features on Illumina Connected Analytics (ICA).</li>
-    <li>Evaluated privacy-preserving technologies to scope requirements for a federated genomic data exchange platform.</li>
+    <li>Evaluated privacy-preserving technologies to scope requirements data sharing</li>
     <li>Translated research user needs into reproducible product demonstrations for population genomics customers.</li>
 </ul>
 

@@ -20,15 +20,15 @@ related_publications: false
 
 
 <h4>Context</h4>
-<p>At Illumina, sequencing R&D teams relied on a patchwork of individual scripts and ad hoc workflows to evaluate platform performance. There was no shared system, no consistent methodology, and no way for teams to build on each other's work. Every analysis started from scratch.</p>
+<p>Different platform teams had independently built their own tools and infrastructure to process and analyse data which over time, turned into a fragmented analytical landscape. Each team worked with different methods, different scripts, and different standards, with no shared system and no consistent way to evaluate performance across the organisation.</p>
 
 
 <h4>The Problem</h4>
-<p>The fragmentation wasn't just inefficient — it created interpretation risk. When different scientists used different methods on the same data, results weren't comparable. Leadership couldn't trust aggregate performance signals, and time-to-insight was slow enough to create bottlenecks in platform development cycles.</p>
+<p>The fragmentation wasn't just inefficient — it created interpretation risk. When different scientists used different methods on the same data, results weren't comparable. Time-to-insight was slow enough to create bottlenecks in platform development cycles.</p>
 
 
 <h4>What I Did</h4>
-<p>I led the end-to-end definition and delivery of a cloud-based analytics platform to standardise how R&D teams evaluated sequencing performance. Specifically:</p>
+<p>I led the definition and delivery of a cloud-based analytics platform to standardise how R&D teams evaluated sequencing performance. Specifically:</p>
 
 <ul style="padding-left: 30px;">
     <li>Ran structured requirements-gathering sessions with cross-functional scientific stakeholders to surface what a shared platform actually needed to do</li>
