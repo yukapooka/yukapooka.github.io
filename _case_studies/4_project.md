@@ -5,7 +5,7 @@ description: Considered how governance choices, trust, and data-sharing structur
 img: assets/img/12.jpg
 importance: 4
 category: decision environments
-related_publications: true
+related_publications: false
 
 ---
 

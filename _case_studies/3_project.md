@@ -5,6 +5,7 @@ description: Examined how diagnostic and monitoring systems influence interpreta
 img: assets/img/curated_lifestyle.jpg
 importance: 3
 category: decision environments
+related_publications: false
 
 ---
 
