@@ -405,9 +405,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "case_studies-",
-          title: '',
-          description: "",
+            },},{id: "case_studies-internal-analytics-platform",
+          title: 'Internal analytics platform',
+          description: "From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for Sequencing R&amp;D",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/1_project/";
             },},{id: "case_studies-project-2",
