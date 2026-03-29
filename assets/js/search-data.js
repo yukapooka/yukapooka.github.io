@@ -430,11 +430,6 @@ ninja.data = [{
           description: "with background image",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/5_project/";
-            },},{id: "case_studies-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/6_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
