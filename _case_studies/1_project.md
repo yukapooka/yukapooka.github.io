@@ -39,8 +39,7 @@ related_publications: false
 
 
 <h4>The Outcome</h4>
-<p>Reduced time-to-insight by 70%. 
-Scientists could access consistent, reproducible analytics without starting from zero each time. Platform performance reporting to product and scientific leadership became a weekly cadence rather than an occasional exercise.</p>
+<p>Scientists could access consistent, reproducible analytics without starting from zero each time. Platform performance reporting to product and scientific leadership became a weekly cadence rather than an occasional exercise.</p>
 
 
 <h4>What This Illustrates</h4>
