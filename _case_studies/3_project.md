@@ -19,7 +19,7 @@ The product and engineering teams were not yet seeing this as a systemic risk. M
 
 
 <h4>What I Did</h4>
-<p>I reframed the individual complaint as a product-risk question worth structured evaluation. This meant first building the case internally — synthesising the pattern across CRM logs, articulating why this was a systemic issue rather than an edge case, and making the risk legible to stakeholders who hadn't seen the full picture.
+<p>I reframed the individual complaint as a product-risk question worth structured evaluation. This meant first building the case internally — synthesising the pattern across customer support records, articulating why this was a systemic issue rather than an edge case, and making the risk legible to stakeholders who hadn't seen the full picture.
 Once the investigation was prioritised, I coordinated stress-testing with the engineering team — replicating edge case conditions and pushing the system beyond normal operating parameters to characterise the limitation and understand its boundaries.
 Keeping an important affected customer informed and engaged throughout was also critical. The risk of losing trust was real, and managing that relationship in parallel with the internal investigation required careful communication across sales and product stakeholders.</p>
 
