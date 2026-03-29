@@ -3,7 +3,7 @@ layout: page
 title: project 1
 description: with background image
 img: assets/img/12.jpg
-importance: 1
+importance: 6
 category: risk and execution
 related_publications: true
 
