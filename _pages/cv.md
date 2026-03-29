@@ -20,7 +20,7 @@ nav_order: 2
 <p>Worked in regulated healthcare and genomics contexts where technical outputs needed to support real-world interpretation and action.</p>
 
 
-<h6>Staff Bioinformatics Scientist, Clinical Genomics <i>May 2023 – Aug 2025</i></h6>
+<h6><b>Staff Bioinformatics Scientist, Clinical Genomics</b> <i>May 2023 – Aug 2025</i></h6>
 
 <ul style="padding-left: 30px;">
     <li>Led requirements definition and delivery of an internal cloud-based sequencing analytics platform, reducing time-to-insight by 70%.</li>
@@ -30,7 +30,7 @@ nav_order: 2
 </ul>
 
 
-<h6>Staff Bioinformatics Scientist, Open Innovation <i>Oct 2021 – May 2023</i></h6>
+<h6><b>Staff Bioinformatics Scientist, Open Innovation</b> <i>Oct 2021 – May 2023</i></h6>
 
 <ul style="padding-left: 30px;">
     <li>Delivered a cloud-scale ML platform (XGBoost, UK Biobank, Snowflake) for Deerfield Management across 3 disease indications; work contributed to the spin-off of Xaira Therapeutics.</li>
@@ -40,7 +40,7 @@ nav_order: 2
 </ul>
 
 
-<h6>Senior Bioinformatics Scientist, Commercial Bioinformatics <i>Oct 2019 – Oct 2021</i></h6>
+<h6><b>Senior Bioinformatics Scientist, Commercial Bioinformatics</b> <i>Oct 2019 – Oct 2021</i></h6>
 
 <ul style="padding-left: 30px;">
     <li>Captured and synthesised customer feature requests and pain points across APJ, directly influencing product roadmap and quality improvement cycles for BaseSpace, DRAGEN, and ICA.</li>
@@ -59,7 +59,7 @@ nav_order: 2
 <p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech environment.</p>
 
 
-<h6>Lead Bioinformatics Scientist Engine Biosciences · Singapore & San Francisco <i>Apr 2018 – Oct 2019</i></h6>
+<h6><b>Lead Bioinformatics Scientist Engine Biosciences</b> <i>Apr 2018 – Oct 2019</i></h6>
 
 <ul style="padding-left: 30px;">
     <li>Built the company's first computational drug discovery programme from zero — defining requirements for compute, tooling, and analytical workflows.</li>
@@ -81,7 +81,7 @@ nav_order: 2
 <p>Built a strong technical foundation in computational biology, genomics, and data-intensive research through PhD training.</p>
 
 
-<h6>PhD Researcher, Computational Cancer Genomics <i>May 2013 – Apr 2018</i></h6>
+<h6><b>PhD Researcher, Computational Cancer Genomics</b> <i>May 2013 – Apr 2018</i></h6>
 
 <ul style="padding-left: 30px;">
     <li>Designed and launched the POLARIS Xplora™ NGS cancer gene panel — defining the clinical use case and leading cross-disciplinary development with clinicians and biologists.</li>
