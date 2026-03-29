@@ -2,7 +2,7 @@
 layout: page
 title:  Decision Design Across the Oncology Care Pathway
 description: Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.
-img: assets/img/7.jpg
+img: assets/img/curated_lifestyle.jpg
 importance: 3
 category: decision environments
 
