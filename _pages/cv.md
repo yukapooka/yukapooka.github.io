@@ -19,6 +19,7 @@ nav_order: 2
 
 <p>Worked in regulated healthcare and genomics contexts where technical outputs needed to support real-world interpretation and action.</p>
 
+
 <h6>Staff Bioinformatics Scientist, Clinical Genomics <i>May 2023 – Aug 2025</i></h6>
 
 <ul style="padding-left: 30px;">
@@ -36,7 +37,7 @@ nav_order: 2
     <li>Defined use cases and product requirements for new analytical features on Illumina Connected Analytics (ICA).</li>
     <li>Evaluated privacy-preserving technologies to scope requirements for a federated genomic data exchange platform.</li>
     <li>Translated research user needs into reproducible product demonstrations for population genomics customers.</li>
-<ul>
+</ul>
 
 
 <h6>Senior Bioinformatics Scientist, Commercial Bioinformatics <i>Oct 2019 – Oct 2021</i></h6>
@@ -45,7 +46,8 @@ nav_order: 2
     <li>Captured and synthesised customer feature requests and pain points across APJ, directly influencing product roadmap and quality improvement cycles for BaseSpace, DRAGEN, and ICA.</li>
     <li>Identified and escalated an undocumented product risk, coordinating engineering stress-testing and driving documentation of the constraint.</li>
     <li>Developed and delivered technical training workshops and product demos for customers and partners across APJ.</li>
-<ul>
+</ul>
+
 <br />
 
 ---
@@ -55,6 +57,7 @@ nav_order: 2
 <i>Singapore</i>
 
 <p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech environment.</p>
+
 
 <h6>Lead Bioinformatics Scientist Engine Biosciences · Singapore & San Francisco <i>Apr 2018 – Oct 2019</i></h6>
 
@@ -76,6 +79,7 @@ nav_order: 2
 <i>Singapore</i>
 
 <p>Built a strong technical foundation in computational biology, genomics, and data-intensive research through PhD training.</p>
+
 
 <h6>PhD Researcher, Computational Cancer Genomics <i>May 2013 – Apr 2018</i></h6>
 
