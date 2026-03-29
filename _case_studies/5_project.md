@@ -4,8 +4,8 @@ title: project 1
 description: with background image
 img: assets/img/12.jpg
 importance: 5
-category: decision environments
-related_publications: true
+category: risk and execution
+related_publications: false
 
 ---
 
