@@ -412,19 +412,14 @@ ninja.data = [{
               window.location.href = "/case_studies/1_project/";
             },},{id: "case_studies-computational-capability-buildout",
           title: 'Computational capability buildout',
-          description: "Building a Drug Discovery Platform from Zero — and Making It Count",
+          description: "Building a Drug Discovery Platform from Zero",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/2_project/";
-            },},{id: "case_studies-decision-design-across-the-oncology-care-pathway",
-          title: 'Decision Design Across the Oncology Care Pathway',
-          description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/3_project/";
             },},{id: "case_studies-product-risk-escalation",
           title: 'Product Risk Escalation',
           description: "Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/4_project/";
+              window.location.href = "/case_studies/3_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
