@@ -106,6 +106,7 @@ nav_order: 2
 <br />
 
 ---
+<!-- ---
 <h4>View my Resume</h4>
 
 <a href="../assets/pdf/example_pdf.pdf"  target="_blank">PDF</a>
@@ -113,3 +114,4 @@ nav_order: 2
 <br />
 
 ---
+--- -->
