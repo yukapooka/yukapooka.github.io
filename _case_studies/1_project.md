@@ -32,7 +32,7 @@ related_publications: false
 
 <ul style="padding-left: 30px;">
     <li>Ran structured requirements-gathering sessions with cross-functional scientific stakeholders to surface what a shared platform actually needed to do</li>
-    <li>Authored full product specifications in Confluence, with LucidChart process diagrams to make workflows legible across technical and non-technical audiences</li>
+    <li>Authored full product specifications with process diagrams to make workflows legible across technical and non-technical audiences</li>
     <li>Managed the JIRA backlog and ran weekly delivery syncs with the software engineering team to keep scope clear and progress visible</li>
     <li>Mentored two teams of scientists across two offices on the new workflows and reusable code practices so adoption wasn't dependent on me as a bottleneck</li>
 </ul>
