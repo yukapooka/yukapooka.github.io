@@ -34,7 +34,7 @@ The third thread was the validation bottleneck. Automating the screening analysi
 
 
 <h4>The Outcome</h4>
-<p>The resulting capability supported faster experimental iteration, enabled early proof-of-concept work across multiple indications, and contributed to the organization’s next phase of growth.</p>
+<p>The resulting capability supported faster experimental iteration, enabled early proof-of-concept work across multiple indications, and contributed directly to a significant funding milestone within 18 months.</p>
 
 
 <h4>What This Illustrates</h4>
