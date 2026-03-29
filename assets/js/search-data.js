@@ -420,16 +420,11 @@ ninja.data = [{
           description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/3_project/";
-            },},{id: "case_studies-decision-design-in-population-genomics-and-data-sharing",
-          title: 'Decision Design in Population Genomics and Data Sharing',
-          description: "Considered how governance choices, trust, and data-sharing structures influence participation, access, and downstream decision-making.",
+            },},{id: "case_studies-product-risk-escalation",
+          title: 'Product Risk Escalation',
+          description: "Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/4_project/";
-            },},{id: "case_studies-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/5_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
