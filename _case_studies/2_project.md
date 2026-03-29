@@ -20,7 +20,7 @@ related_publications: false
 
 
 <h4>Context</h4>
-<p>When I joined Engine Biosciences, there was no computational infrastructure, no established workflows, and no prior computational hire. I was the first. The company had a scientific vision — applying machine learning to drug target discovery — but no platform to execute it on, and an active fundraising clock running in the background.
+<p>In an early-stage biotech environment, there was no computational infrastructure, no established workflows, and no prior computational hire. I was the first. The company had a scientific vision — applying machine learning to drug target discovery — but no platform to execute it on while needing to produce credible early results quickly.
 The mandate was effectively two things at once: build the foundation, and immediately generate results credible enough to anchor a funding narrative.</p>
 
 
@@ -30,13 +30,13 @@ The mandate was effectively two things at once: build the foundation, and immedi
 
 <h4>What I Did</h4>
 <p>The first task was infrastructure — defining requirements for compute, tooling, and analytical workflows from scratch, and architecting the AWS environment that would underpin all downstream work.
-In parallel, I worked with the founders and biology team to define a more focused product angle — one grounded in where the company had genuine scientific and operational advantages — and translated that into a product vision and roadmap that could hold up to investor scrutiny.
+In parallel, I worked with the founders and biology team to define a more focused product angle — one grounded in where the company had genuine scientific and operational advantages — and translated that into a product vision and roadmap.
 The third thread was the validation bottleneck. Automating the screening analysis pipeline compressed turnaround from three weeks to 30 minutes, turning a slow sequential handoff into a rapid feedback loop for the biology team. This wasn't a secondary project — it was what made the R&D loop viable. Speed and rigour were no longer in direct conflict.
 Bridging the founders was the hardest stakeholder challenge throughout — keeping scientific credibility and commercial urgency in view simultaneously.</p>
 
 
 <h4>The Outcome</h4>
-<p>The platform POC generated credible results across multiple disease indications. The automated screening pipeline enabled the iterative R&D cadence the ML platform required. The programme became the primary vehicle for fundraising, contributing directly to <b>USD $7M in venture funding within 18 months</b>.</p>
+<p>The platform POC generated credible results across multiple disease indications. The automated screening pipeline enabled the iterative R&D cadence the ML platform required.</p>
 
 
 <h4>What This Illustrates</h4>

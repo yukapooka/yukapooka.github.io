@@ -14,14 +14,14 @@ related_publications: false
 
 
 <h4>The Problem</h4>
-<p>A customer reported analysis failures attributed to a limitation in an informatics product. On the surface it appeared to be a standalone issue — an unusual use case, unlikely to recur. But a closer look at the CRM revealed a pattern: multiple customers had logged similar complaints, across different contexts, over a period of time. The complaints hadn't been connected. Each had been treated individually.
+<p>A customer reported analysis failures attributed to a limitation in an informatics product. On the surface it appeared to be a standalone issue — an unusual use case, unlikely to recur. But a closer look at the customer support records revealed a pattern: multiple customers had logged similar complaints, across different contexts, over a period of time. The complaints hadn't been connected. Each had been treated individually.
 The product and engineering teams were not yet seeing this as a systemic risk. Making the case for deeper investigation required cutting across functions — product, engineering, management, and sales — and navigating resistance from teams with competing priorities.</p>
 
 
 <h4>What I Did</h4>
 <p>I reframed the individual complaint as a product-risk question worth structured evaluation. This meant first building the case internally — synthesising the pattern across CRM logs, articulating why this was a systemic issue rather than an edge case, and making the risk legible to stakeholders who hadn't seen the full picture.
 Once the investigation was prioritised, I coordinated stress-testing with the engineering team — replicating edge case conditions and pushing the system beyond normal operating parameters to characterise the limitation and understand its boundaries.
-Keeping a key affected customer informed and engaged throughout was also critical. The risk of losing trust was real, and managing that relationship in parallel with the internal investigation required careful communication across sales and product stakeholders.</p>
+Keeping an important affected customer informed and engaged throughout was also critical. The risk of losing trust was real, and managing that relationship in parallel with the internal investigation required careful communication across sales and product stakeholders.</p>
 
 
 
