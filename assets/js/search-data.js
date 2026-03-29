@@ -415,9 +415,9 @@ ninja.data = [{
           description: "Building a Drug Discovery Platform from Zero — and Making It Count",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/2_project/";
-            },},{id: "case_studies-project-3",
-          title: 'project 3',
-          description: "another without an image",
+            },},{id: "case_studies-decision-design-across-the-oncology-care-pathway",
+          title: 'Decision Design Across the Oncology Care Pathway',
+          description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/3_project/";
             },},{id: "case_studies-project-1",
