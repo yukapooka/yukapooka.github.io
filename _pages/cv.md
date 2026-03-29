@@ -33,7 +33,7 @@ nav_order: 2
 <h6><b>Staff Bioinformatics Scientist, Open Innovation</b> <i>Oct 2021 – May 2023</i></h6>
 
 <ul style="padding-left: 30px;">
-    <li>Delivered a cloud-scale ML platform for drug discovery; work contributed to the spin-off of Xaira Therapeutics.</li>
+    <li>Delivered a cloud-scale ML platform for a US-based drug discovery partnership</li>
     <li>Defined use cases and product requirements for new analytical features on Illumina Connected Analytics (ICA).</li>
     <li>Evaluated privacy-preserving technologies to scope requirements data sharing</li>
     <li>Translated research user needs into reproducible product demonstrations for population genomics customers.</li>
