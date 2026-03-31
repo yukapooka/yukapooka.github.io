@@ -63,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/sample-posts/2023/04/25/sidebar-table-of-contents.html";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/table-of-contents/";
+            window.location.href = "/sample-posts/2023/03/20/table-of-contents.html";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -96,34 +96,34 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/diagrams/";
+            window.location.href = "/2021/07/04/diagrams.html";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the_godfather.html";
             },},{id: "case_studies-internal-analytics-platform",
           title: 'Internal analytics platform',
           description: "From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for R&amp;D",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/1_project/";
+              window.location.href = "/case_studies/1_project.html";
             },},{id: "case_studies-computational-capability-buildout",
           title: 'Computational capability buildout',
           description: "Building a Drug Discovery Platform from Zero",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/2_project/";
+              window.location.href = "/case_studies/2_project.html";
             },},{id: "case_studies-product-risk-escalation",
           title: 'Product Risk Escalation',
           description: "Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/3_project/";
+              window.location.href = "/case_studies/3_project.html";
             },},{id: "case_studies-decision-design-across-the-oncology-care-pathway",
           title: 'Decision Design Across the Oncology Care Pathway',
           description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/4_project/";
+              window.location.href = "/case_studies/4_project.html";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -131,7 +131,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_2.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -139,12 +139,12 @@ ninja.data = [{
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals.html";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
         id: 'social-email',
         title: 'email',
