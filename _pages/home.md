@@ -23,7 +23,6 @@ social: false # includes social icons at the bottom of the page
 
 <p>Selected case studies across systems and platforms, decision environments, and risk-driven execution.</p>
 
-
 <div style="
   display: flex;
   gap: 20px;
@@ -31,7 +30,7 @@ social: false # includes social icons at the bottom of the page
   margin-top: 32px;
 ">
 
-  <!-- CARD -->
+  <!-- CARD 1 -->
   <a href="/case_studies/1_project.html" style="
     display: block;
     width: 23%;
@@ -47,54 +46,27 @@ social: false # includes social icons at the bottom of the page
   onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
-    <!-- IMAGE -->
-    <div style="
-      aspect-ratio: 1 / 1;
-      background: #eef3f8;
-      overflow: hidden;
-    ">
-      <img src="/assets/img/internal_analytics.jpg" style="
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-      ">
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/internal_analytics.jpg" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
-    <!-- CONTENT -->
-    <div style="padding: 16px 16px 18px 16px;">
-
-      <div style="
-        font-size: 10px;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        color: #8aa0b5;
-        margin-bottom: 8px;
-      ">
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
         Systems
       </div>
 
-      <h3 style="
-        margin: 0 0 8px 0;
-        font-size: 16px;
-        font-weight: 600;
-        line-height: 1.4;
-      ">
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
         Internal Analytics Platform
       </h3>
 
-      <p style="
-        margin: 0;
-        font-size: 13px;
-        line-height: 1.5;
-        color: #6b7c8f;
-      ">
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
         Standardized a fragmented analytics workflow.
       </p>
-
     </div>
   </a>
 
-  <!-- Duplicate for other 3 cards -->
+
+  <!-- CARD 2 -->
   <a href="/case_studies/2_project.html" style="
     display: block;
     width: 23%;
@@ -110,54 +82,28 @@ social: false # includes social icons at the bottom of the page
   onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
-    <!-- IMAGE -->
-    <div style="
-      aspect-ratio: 1 / 1;
-      background: #eef3f8;
-      overflow: hidden;
-    ">
-      <img src="/assets/img/internal_analytics.jpg" style="
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-      ">
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/computational_buildout.jpg" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
-    <!-- CONTENT -->
-    <div style="padding: 16px 16px 18px 16px;">
-
-      <div style="
-        font-size: 10px;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        color: #8aa0b5;
-        margin-bottom: 8px;
-      ">
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
         Systems
       </div>
 
-      <h3 style="
-        margin: 0 0 8px 0;
-        font-size: 16px;
-        font-weight: 600;
-        line-height: 1.4;
-      ">
-        Internal Analytics Platform
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
+        Computational Capability Buildout
       </h3>
 
-      <p style="
-        margin: 0;
-        font-size: 13px;
-        line-height: 1.5;
-        color: #6b7c8f;
-      ">
-        Standardized a fragmented analytics workflow.
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
+        Built the tooling and infrastructure foundations for a new computational program.
       </p>
-
     </div>
   </a>
 
-<a href="/case_studies/3_project.html" style="
+
+  <!-- CARD 3 -->
+  <a href="/case_studies/3_project.html" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -172,52 +118,27 @@ social: false # includes social icons at the bottom of the page
   onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
-    <!-- IMAGE -->
-    <div style="
-      aspect-ratio: 1 / 1;
-      background: #eef3f8;
-      overflow: hidden;
-    ">
-      <img src="/assets/img/internal_analytics.jpg" style="
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-      ">
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/oncology_decision.jpg" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
-    <!-- CONTENT -->
-    <div style="padding: 16px 16px 18px 16px;">
-
-      <div style="
-        font-size: 10px;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        color: #8aa0b5;
-        margin-bottom: 8px;
-      ">
-        Systems
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
+        Decision
       </div>
 
-      <h3 style="
-        margin: 0 0 8px 0;
-        font-size: 16px;
-        font-weight: 600;
-        line-height: 1.4;
-      ">
-        Internal Analytics Platform
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
+        Oncology Decision Support
       </h3>
 
-      <p style="
-        margin: 0;
-        font-size: 13px;
-        line-height: 1.5;
-        color: #6b7c8f;
-      ">
-        Standardized a fragmented analytics workflow.
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
+        Explored how outputs and workflows shape interpretation in oncology care.
       </p>
-
     </div>
   </a>
+
+
+  <!-- CARD 4 -->
   <a href="/case_studies/4_project.html" style="
     display: block;
     width: 23%;
@@ -233,54 +154,27 @@ social: false # includes social icons at the bottom of the page
   onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
-    <!-- IMAGE -->
-    <div style="
-      aspect-ratio: 1 / 1;
-      background: #eef3f8;
-      overflow: hidden;
-    ">
-      <img src="/assets/img/internal_analytics.jpg" style="
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-      ">
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/product_risk.jpg" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
-    <!-- CONTENT -->
-    <div style="padding: 16px 16px 18px 16px;">
-
-      <div style="
-        font-size: 10px;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        color: #8aa0b5;
-        margin-bottom: 8px;
-      ">
-        Systems
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
+        Risk
       </div>
 
-      <h3 style="
-        margin: 0 0 8px 0;
-        font-size: 16px;
-        font-weight: 600;
-        line-height: 1.4;
-      ">
-        Internal Analytics Platform
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
+        Product Risk Escalation
       </h3>
 
-      <p style="
-        margin: 0;
-        font-size: 13px;
-        line-height: 1.5;
-        color: #6b7c8f;
-      ">
-        Standardized a fragmented analytics workflow.
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
+        Reframed a single issue into a broader product risk decision.
       </p>
-
     </div>
   </a>
 
 </div>
+
 
 <p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
 <br />
