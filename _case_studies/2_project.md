@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computational capability buildout
+title: Computation-al capability buildout
 description: Building a Drug Discovery Platform from Zero
 img: assets/img/computational_buildout.jpg
 importance: 2
