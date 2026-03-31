@@ -37,42 +37,259 @@ social: false # includes social icons at the bottom of the page
 <p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
 <br />
 
-<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: stretch;
+">
 
+  <!-- Card 1 -->
   <a href="/case_studies/1_project.html" style="
     display: block;
-    background-color: #6b859f;
-    color: white;
-    width: 220px;
-    padding: 16px;
-    border-radius: 12px;
-    font-family: sans-serif;
+    width: 280px;
+    background: #f7f9fb;
+    border: 1px solid #dfe7ef;
+    border-radius: 16px;
+    overflow: hidden;
     text-decoration: none;
-  ">
-    <h3 style="margin: 0 0 8px 0; font-size: 16px; color: white;">
-      Internal Analytics Platform
-    </h3>
-    <p style="margin: 0; font-size: 13px; color: white; opacity: 0.9;">
-      Standardized a fragmented analytics workflow.
-    </p>
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.2s ease;
+  "
+  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      background: #edf2f7;
+      overflow: hidden;
+    ">
+      <img src="/assets/img/internal_analytics.jpg" alt="Internal Analytics Platform" style="
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      ">
+    </div>
+
+    <div style="padding: 16px 18px 18px 18px;">
+      <div style="
+        font-size: 11px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #7c92a8;
+        margin-bottom: 8px;
+      ">
+        Systems &amp; Platforms
+      </div>
+
+      <h3 style="
+        margin: 0 0 8px 0;
+        font-size: 17px;
+        line-height: 1.35;
+        font-weight: 600;
+        color: #2f3e4e;
+      ">
+        Internal Analytics Platform
+      </h3>
+
+      <p style="
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #66788a;
+      ">
+        Standardized a fragmented analytics workflow into a more consistent and reusable internal system.
+      </p>
+    </div>
   </a>
 
+  <!-- Card 2 -->
   <a href="/case_studies/2_project.html" style="
     display: block;
-    background-color: #6b859f;
-    color: white;
-    width: 220px;
-    padding: 16px;
-    border-radius: 12px;
-    font-family: sans-serif;
+    width: 280px;
+    background: #f7f9fb;
+    border: 1px solid #dfe7ef;
+    border-radius: 16px;
+    overflow: hidden;
     text-decoration: none;
-  ">
-    <h3 style="margin: 0 0 8px 0; font-size: 16px; color: white;">
-      Computational Capability Buildout
-    </h3>
-    <p style="margin: 0; font-size: 13px; color: white; opacity: 0.9;">
-      Built foundations for a new computational program.
-    </p>
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.2s ease;
+  "
+  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      background: #edf2f7;
+      overflow: hidden;
+    ">
+      <img src="/assets/img/computational_buildout.jpg" alt="Computational Capability Buildout" style="
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      ">
+    </div>
+
+    <div style="padding: 16px 18px 18px 18px;">
+      <div style="
+        font-size: 11px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #7c92a8;
+        margin-bottom: 8px;
+      ">
+        Systems &amp; Platforms
+      </div>
+
+      <h3 style="
+        margin: 0 0 8px 0;
+        font-size: 17px;
+        line-height: 1.35;
+        font-weight: 600;
+        color: #2f3e4e;
+      ">
+        Computational Capability Buildout
+      </h3>
+
+      <p style="
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #66788a;
+      ">
+        Built the tooling, workflow, and infrastructure foundations for a new computational program.
+      </p>
+    </div>
+  </a>
+
+  <!-- Card 3 -->
+  <a href="/case_studies/3_project.html" style="
+    display: block;
+    width: 280px;
+    background: #f7f9fb;
+    border: 1px solid #dfe7ef;
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.2s ease;
+  "
+  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      background: #edf2f7;
+      overflow: hidden;
+    ">
+      <img src="/assets/img/oncology_decision.jpg" alt="Oncology Decision Support" style="
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      ">
+    </div>
+
+    <div style="padding: 16px 18px 18px 18px;">
+      <div style="
+        font-size: 11px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #7c92a8;
+        margin-bottom: 8px;
+      ">
+        Decision Environments
+      </div>
+
+      <h3 style="
+        margin: 0 0 8px 0;
+        font-size: 17px;
+        line-height: 1.35;
+        font-weight: 600;
+        color: #2f3e4e;
+      ">
+        Oncology Decision Support
+      </h3>
+
+      <p style="
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #66788a;
+      ">
+        Explored how technical outputs and workflow design shape interpretation and action in high-stakes oncology settings.
+      </p>
+    </div>
+  </a>
+
+  <!-- Card 4 -->
+  <a href="/case_studies/4_project.html" style="
+    display: block;
+    width: 280px;
+    background: #f7f9fb;
+    border: 1px solid #dfe7ef;
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.2s ease;
+  "
+  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      background: #edf2f7;
+      overflow: hidden;
+    ">
+      <img src="/assets/img/product_risk.jpg" alt="Product Risk Escalation" style="
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      ">
+    </div>
+
+    <div style="padding: 16px 18px 18px 18px;">
+      <div style="
+        font-size: 11px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #7c92a8;
+        margin-bottom: 8px;
+      ">
+        Risk &amp; Execution
+      </div>
+
+      <h3 style="
+        margin: 0 0 8px 0;
+        font-size: 17px;
+        line-height: 1.35;
+        font-weight: 600;
+        color: #2f3e4e;
+      ">
+        Product Risk Escalation
+      </h3>
+
+      <p style="
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #66788a;
+      ">
+        Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.
+      </p>
+    </div>
   </a>
 
 </div>
