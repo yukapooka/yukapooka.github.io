@@ -156,6 +156,8 @@ collections:
     output: true
   teachings:
     output: true
+  posts:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
