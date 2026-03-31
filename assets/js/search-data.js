@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/sample-posts/2023/04/25/sidebar-table-of-contents.html";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
+        },{id: "post-a-post-with-table-of-contents",
         
           title: "a post with table of contents",
         
