@@ -26,6 +26,13 @@ social: false # includes social icons at the bottom of the page
 <p><b>Internal analytics platform</b>: 
 
 <i>Standardized a fragmented analytics workflow into a more consistent and reusable internal system.</i></p>
+
+<div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <h3>Internal Analytics Platform</h3>
+  <p>Standardized a fragmented analytics workflow.</p>
+  <a href="https://yukapooka.github.io/case_studies/1_project.html">Link</a>
+</div>
+
 <p><b>Computational capability buildout</b>:
 
 <i>Building a Drug Discovery Platform from Zero.</i></p>
