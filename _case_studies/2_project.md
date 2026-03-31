@@ -2,7 +2,7 @@
 layout: page
 title: Computational capability buildout
 description: Building a Drug Discovery Platform from Zero
-img: assets/img/glen-carrie-unsplash.jpg
+img: assets/img/computational_buildout.jpg
 importance: 2
 category: systems and platforms
 related_publications: false

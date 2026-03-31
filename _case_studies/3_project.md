@@ -2,7 +2,7 @@
 layout: page
 title: Product Risk Escalation
 description: Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.
-img: assets/img/round-icons-unsplash.jpg
+img: assets/img/product_risk.jpg
 importance: 3
 category: risk and execution
 related_publications: false

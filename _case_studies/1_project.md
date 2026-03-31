@@ -2,7 +2,7 @@
 layout: page
 title: Internal analytics platform
 description: From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for R&D
-img: assets/img/peyman-farmani-unsplash.jpg
+img: assets/img/internal_analytics.jpg
 importance: 1
 category: systems and platforms
 related_publications: false
