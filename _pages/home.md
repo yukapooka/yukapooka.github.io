@@ -27,11 +27,12 @@ social: false # includes social icons at the bottom of the page
 
 <i>Standardized a fragmented analytics workflow into a more consistent and reusable internal system.</i></p>
 
-<div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+<div style="background-color: #3178c6; color: white; width: 150px; height: 150px; padding: 20px; border-radius: 10px; text-align: center; display: flex; align-items: center; justify-content: center; font-weight: bold;">
   <h3>Internal Analytics Platform</h3>
   <p>Standardized a fragmented analytics workflow.</p>
   <a href="https://yukapooka.github.io/case_studies/1_project.html">Link</a>
 </div>
+
 
 <p><b>Computational capability buildout</b>:
 
