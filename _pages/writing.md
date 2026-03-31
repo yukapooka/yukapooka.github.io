@@ -1,4 +1,3 @@
-<!-- ---
 
 ---
 layout: default
@@ -17,7 +16,6 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
---- -->
 
 <div class="post">
 
