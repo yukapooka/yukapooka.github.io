@@ -22,6 +22,8 @@ social: false # includes social icons at the bottom of the page
 <h4>Featured Case Studies</h4>
 
 <p>Selected case studies across systems and platforms, decision environments, and risk-driven execution.</p>
+<p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
+
 
 <div style="
   display: flex;
@@ -176,7 +178,6 @@ social: false # includes social icons at the bottom of the page
 </div>
 
 
-<p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
 <br />
 
 ---
@@ -184,9 +185,8 @@ social: false # includes social icons at the bottom of the page
 <h4>Selected Writing</h4>
 
 
-<p><b>Why good AI in healthcare is not just a modeling problem</b></p>
-<p><b>What decision quality looks like in AI-enabled workflows</b></p>
-<p><b>How human judgment breaks down in high-stakes technical systems</b></p>
+<p><b>To be updated</b></p>
+
 <p><a href="https://yukapooka.github.io/writing/index.html"> View Writing</a></p>
 <br />
 
