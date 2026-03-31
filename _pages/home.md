@@ -27,25 +27,6 @@ social: false # includes social icons at the bottom of the page
 
 <i>Standardized a fragmented analytics workflow into a more consistent and reusable internal system.</i></p>
 
-<a href="/case_studies/1_project.html" style="
-  display: block;
-  background-color: #6b859f;
-  color: white;
-  width: 220px;
-  padding: 16px;
-  border-radius: 12px;
-  font-family: sans-serif;
-  text-decoration: none;
-">
-  <h3 style="margin: 0 0 8px 0; font-size: 16px; color: white;">
-    Internal Analytics Platform
-  </h3>
-  <p style="margin: 0; font-size: 13px; opacity: 0.9; color: white;">
-    Standardized a fragmented analytics workflow.
-  </p>
-</a>
-
-
 <p><b>Computational capability buildout</b>:
 
 <i>Building a Drug Discovery Platform from Zero.</i></p>
@@ -55,6 +36,46 @@ social: false # includes social icons at the bottom of the page
 
 <p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
 <br />
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+
+  <a href="/case_studies/1_project.html" style="
+    display: block;
+    background-color: #6b859f;
+    color: white;
+    width: 220px;
+    padding: 16px;
+    border-radius: 12px;
+    font-family: sans-serif;
+    text-decoration: none;
+  ">
+    <h3 style="margin: 0 0 8px 0; font-size: 16px; color: white;">
+      Internal Analytics Platform
+    </h3>
+    <p style="margin: 0; font-size: 13px; color: white; opacity: 0.9;">
+      Standardized a fragmented analytics workflow.
+    </p>
+  </a>
+
+  <a href="/case_studies/2_project.html" style="
+    display: block;
+    background-color: #6b859f;
+    color: white;
+    width: 220px;
+    padding: 16px;
+    border-radius: 12px;
+    font-family: sans-serif;
+    text-decoration: none;
+  ">
+    <h3 style="margin: 0 0 8px 0; font-size: 16px; color: white;">
+      Computational Capability Buildout
+    </h3>
+    <p style="margin: 0; font-size: 13px; color: white; opacity: 0.9;">
+      Built foundations for a new computational program.
+    </p>
+  </a>
+
+</div>
 
 ---
 
