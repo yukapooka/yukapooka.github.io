@@ -23,276 +23,267 @@ social: false # includes social icons at the bottom of the page
 
 <p>Selected case studies across systems and platforms, decision environments, and risk-driven execution.</p>
 
-<p><b>Internal analytics platform</b>: 
-
-<i>Standardized a fragmented analytics workflow into a more consistent and reusable internal system.</i></p>
-
-<p><b>Computational capability buildout</b>:
-
-<i>Building a Drug Discovery Platform from Zero.</i></p>
-<p><b>Product risk escalation</b>:
-
-<i>Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.</i></p>
-
-<p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
-<br />
 
 <div style="
   display: flex;
+  gap: 20px;
   flex-wrap: wrap;
-  gap: 24px;
-  align-items: stretch;
+  margin-top: 32px;
 ">
 
-  <!-- Card 1 -->
+  <!-- CARD -->
   <a href="/case_studies/1_project.html" style="
     display: block;
-    width: 280px;
-    background: #f7f9fb;
-    border: 1px solid #dfe7ef;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
     border-radius: 16px;
     overflow: hidden;
     text-decoration: none;
     color: #2f3e4e;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    transition: all 0.2s ease;
+    transition: all 0.25s ease;
   "
-  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
+    <!-- IMAGE -->
     <div style="
-      width: 100%;
       aspect-ratio: 1 / 1;
-      background: #edf2f7;
+      background: #eef3f8;
       overflow: hidden;
     ">
-      <img src="/assets/img/internal_analytics.jpg" alt="Internal Analytics Platform" style="
+      <img src="/assets/img/internal_analytics.jpg" style="
         width: 100%;
         height: 100%;
         object-fit: cover;
-        display: block;
       ">
     </div>
 
-    <div style="padding: 16px 18px 18px 18px;">
+    <!-- CONTENT -->
+    <div style="padding: 16px 16px 18px 16px;">
+
       <div style="
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.08em;
         text-transform: uppercase;
-        color: #7c92a8;
+        color: #8aa0b5;
         margin-bottom: 8px;
       ">
-        Systems &amp; Platforms
+        Systems
       </div>
 
       <h3 style="
         margin: 0 0 8px 0;
-        font-size: 17px;
-        line-height: 1.35;
+        font-size: 16px;
         font-weight: 600;
-        color: #2f3e4e;
+        line-height: 1.4;
       ">
         Internal Analytics Platform
       </h3>
 
       <p style="
         margin: 0;
-        font-size: 14px;
+        font-size: 13px;
         line-height: 1.5;
-        color: #66788a;
+        color: #6b7c8f;
       ">
-        Standardized a fragmented analytics workflow into a more consistent and reusable internal system.
+        Standardized a fragmented analytics workflow.
       </p>
+
     </div>
   </a>
 
-  <!-- Card 2 -->
+  <!-- Duplicate for other 3 cards -->
   <a href="/case_studies/2_project.html" style="
     display: block;
-    width: 280px;
-    background: #f7f9fb;
-    border: 1px solid #dfe7ef;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
     border-radius: 16px;
     overflow: hidden;
     text-decoration: none;
     color: #2f3e4e;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    transition: all 0.2s ease;
+    transition: all 0.25s ease;
   "
-  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
+    <!-- IMAGE -->
     <div style="
-      width: 100%;
       aspect-ratio: 1 / 1;
-      background: #edf2f7;
+      background: #eef3f8;
       overflow: hidden;
     ">
-      <img src="/assets/img/computational_buildout.jpg" alt="Computational Capability Buildout" style="
+      <img src="/assets/img/internal_analytics.jpg" style="
         width: 100%;
         height: 100%;
         object-fit: cover;
-        display: block;
       ">
     </div>
 
-    <div style="padding: 16px 18px 18px 18px;">
+    <!-- CONTENT -->
+    <div style="padding: 16px 16px 18px 16px;">
+
       <div style="
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.08em;
         text-transform: uppercase;
-        color: #7c92a8;
+        color: #8aa0b5;
         margin-bottom: 8px;
       ">
-        Systems &amp; Platforms
+        Systems
       </div>
 
       <h3 style="
         margin: 0 0 8px 0;
-        font-size: 17px;
-        line-height: 1.35;
+        font-size: 16px;
         font-weight: 600;
-        color: #2f3e4e;
+        line-height: 1.4;
       ">
-        Computational Capability Buildout
+        Internal Analytics Platform
       </h3>
 
       <p style="
         margin: 0;
-        font-size: 14px;
+        font-size: 13px;
         line-height: 1.5;
-        color: #66788a;
+        color: #6b7c8f;
       ">
-        Built the tooling, workflow, and infrastructure foundations for a new computational program.
+        Standardized a fragmented analytics workflow.
       </p>
+
     </div>
   </a>
 
-  <!-- Card 3 -->
-  <a href="/case_studies/3_project.html" style="
+<a href="/case_studies/3_project.html" style="
     display: block;
-    width: 280px;
-    background: #f7f9fb;
-    border: 1px solid #dfe7ef;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
     border-radius: 16px;
     overflow: hidden;
     text-decoration: none;
     color: #2f3e4e;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    transition: all 0.2s ease;
+    transition: all 0.25s ease;
   "
-  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
+    <!-- IMAGE -->
     <div style="
-      width: 100%;
       aspect-ratio: 1 / 1;
-      background: #edf2f7;
+      background: #eef3f8;
       overflow: hidden;
     ">
-      <img src="/assets/img/oncology_decision.jpg" alt="Oncology Decision Support" style="
+      <img src="/assets/img/internal_analytics.jpg" style="
         width: 100%;
         height: 100%;
         object-fit: cover;
-        display: block;
       ">
     </div>
 
-    <div style="padding: 16px 18px 18px 18px;">
+    <!-- CONTENT -->
+    <div style="padding: 16px 16px 18px 16px;">
+
       <div style="
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.08em;
         text-transform: uppercase;
-        color: #7c92a8;
+        color: #8aa0b5;
         margin-bottom: 8px;
       ">
-        Decision Environments
+        Systems
       </div>
 
       <h3 style="
         margin: 0 0 8px 0;
-        font-size: 17px;
-        line-height: 1.35;
+        font-size: 16px;
         font-weight: 600;
-        color: #2f3e4e;
+        line-height: 1.4;
       ">
-        Oncology Decision Support
+        Internal Analytics Platform
       </h3>
 
       <p style="
         margin: 0;
-        font-size: 14px;
+        font-size: 13px;
         line-height: 1.5;
-        color: #66788a;
+        color: #6b7c8f;
       ">
-        Explored how technical outputs and workflow design shape interpretation and action in high-stakes oncology settings.
+        Standardized a fragmented analytics workflow.
       </p>
+
     </div>
   </a>
-
-  <!-- Card 4 -->
   <a href="/case_studies/4_project.html" style="
     display: block;
-    width: 280px;
-    background: #f7f9fb;
-    border: 1px solid #dfe7ef;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
     border-radius: 16px;
     overflow: hidden;
     text-decoration: none;
     color: #2f3e4e;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    transition: all 0.2s ease;
+    transition: all 0.25s ease;
   "
-  onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 24px rgba(34,52,71,0.10)'"
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
+    <!-- IMAGE -->
     <div style="
-      width: 100%;
       aspect-ratio: 1 / 1;
-      background: #edf2f7;
+      background: #eef3f8;
       overflow: hidden;
     ">
-      <img src="/assets/img/product_risk.jpg" alt="Product Risk Escalation" style="
+      <img src="/assets/img/internal_analytics.jpg" style="
         width: 100%;
         height: 100%;
         object-fit: cover;
-        display: block;
       ">
     </div>
 
-    <div style="padding: 16px 18px 18px 18px;">
+    <!-- CONTENT -->
+    <div style="padding: 16px 16px 18px 16px;">
+
       <div style="
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.08em;
         text-transform: uppercase;
-        color: #7c92a8;
+        color: #8aa0b5;
         margin-bottom: 8px;
       ">
-        Risk &amp; Execution
+        Systems
       </div>
 
       <h3 style="
         margin: 0 0 8px 0;
-        font-size: 17px;
-        line-height: 1.35;
+        font-size: 16px;
         font-weight: 600;
-        color: #2f3e4e;
+        line-height: 1.4;
       ">
-        Product Risk Escalation
+        Internal Analytics Platform
       </h3>
 
       <p style="
         margin: 0;
-        font-size: 14px;
+        font-size: 13px;
         line-height: 1.5;
-        color: #66788a;
+        color: #6b7c8f;
       ">
-        Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.
+        Standardized a fragmented analytics workflow.
       </p>
+
     </div>
   </a>
 
 </div>
+
+<p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
+<br />
 
 ---
 
