@@ -48,11 +48,11 @@ ninja.data = [{
         
           title: "Why “responsible AI” is really a human behavior problem",
         
-        description: "an example of a blog post with table of contents",
+        description: "xxx",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/responsible_ai,/trust,/behavioral_science/2026/04/01/responsible-AI-post.html";
+            window.location.href = "/responsible_ai/trust/behavioral_science/2026/04/01/responsible-AI-post.html";
           
         },
       },{id: "books-the-godfather",
