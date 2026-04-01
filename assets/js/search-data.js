@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "What high-stakes healthcare systems taught me about designing for trust",
         
-        description: "xxx",
+        description: "In healthcare, trust is not something added after technical validation. It is built through evidence, workflow fit, communication, governance, and the way uncertainty is handled in practice.*",
         section: "Posts",
         handler: () => {
           
@@ -70,7 +70,7 @@ ninja.data = [{
         
           title: "Translating complexity is not a soft skill — it is strategic work",
         
-        description: "xxx",
+        description: "In technical environments, clarity is often treated as communication polish. In practice, it shapes alignment, prioritization, decision quality, and what gets built.",
         section: "Posts",
         handler: () => {
           
