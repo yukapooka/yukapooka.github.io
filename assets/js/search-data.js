@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-why-responsible-ai-is-really-a-human-behavior-problem",
-        
-          title: "Why “responsible AI” is really a human behavior problem",
-        
-        description: "xxx",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/responsible-AI-post/";
-          
-        },
-      },{id: "post-what-high-stakes-healthcare-systems-taught-me-about-designing-for-trust",
+        },{id: "post-what-high-stakes-healthcare-systems-taught-me-about-designing-for-trust",
         
           title: "What high-stakes healthcare systems taught me about designing for trust",
         
@@ -64,6 +53,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/healthcare-systems-trust-post/";
+          
+        },
+      },{id: "post-why-responsible-ai-is-really-a-human-behavior-problem",
+        
+          title: "Why “responsible AI” is really a human behavior problem",
+        
+        description: "xxx",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/responsible-AI-post/";
           
         },
       },{id: "books-the-godfather",
