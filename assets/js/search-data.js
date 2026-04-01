@@ -52,34 +52,34 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/responsible_ai/trust/behavioral_science/2026/04/01/responsible-AI-post.html";
+            window.location.href = "/blog/2026/responsible-AI-post/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
+              window.location.href = "/books/the_godfather/";
             },},{id: "case_studies-internal-analytics-platform",
           title: 'Internal analytics platform',
           description: "From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for R&amp;D",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/1_project.html";
+              window.location.href = "/case_studies/1_project/";
             },},{id: "case_studies-computational-capability-buildout",
           title: 'Computational capability buildout',
           description: "Building a Drug Discovery Platform from Zero",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/2_project.html";
+              window.location.href = "/case_studies/2_project/";
             },},{id: "case_studies-product-risk-escalation",
           title: 'Product Risk Escalation',
           description: "Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/3_project.html";
+              window.location.href = "/case_studies/3_project/";
             },},{id: "case_studies-decision-design-across-the-oncology-care-pathway",
           title: 'Decision Design Across the Oncology Care Pathway',
           description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/4_project.html";
+              window.location.href = "/case_studies/4_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -87,7 +87,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -95,12 +95,12 @@ ninja.data = [{
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals.html";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning.html";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
