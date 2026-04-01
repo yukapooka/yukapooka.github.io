@@ -2,9 +2,9 @@
 layout: post
 title: Why “responsible AI” is really a human behavior problem
 date: 2026-04-01
-description: an example of a blog post with table of contents
+description: xxx
 #tags: responsible_ai
-categories: responsible_ai, trust, behavioral_science
+categories: responsible_ai trust behavioral_science
 giscus_comments: false
 related_posts: false
 toc:
