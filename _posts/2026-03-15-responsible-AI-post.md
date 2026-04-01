@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why “responsible AI” is really a human behavior problem
-date: 2026-04-01
+date: 2026-03-15
 description: xxx
 #tags: responsible_ai
 categories: responsible_ai trust behavioral_science
