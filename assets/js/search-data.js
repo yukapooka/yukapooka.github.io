@@ -52,7 +52,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/ai,/trust/&/human/decisions/2026/04/01/table-of-contents.html";
+            window.location.href = "/ai,/trust/&/human/decisions/2026/04/01/responsible-AI-post.html";
           
         },
       },{id: "books-the-godfather",
