@@ -2,12 +2,12 @@
 layout: post
 title: What high-stakes healthcare systems taught me about designing for trust
 date: 2026-04-01
-description: In healthcare, trust is not something added after technical validation. It is built through evidence, workflow fit, communication, governance, and the way uncertainty is handled in practice.*
 #tags: responsible_ai
 categories: healthcare systems trust
 giscus_comments: false
 related_posts: false
 ---
+*In healthcare, trust is not something added after technical validation. It is built through evidence, workflow fit, communication, governance, and the way uncertainty is handled in practice.*
 
 ### Opening Tension
 xxx
