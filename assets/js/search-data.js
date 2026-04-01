@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "What high-stakes healthcare systems taught me about designing for trust",
         
-        description: "In healthcare, trust is not something added after technical validation. It is built through evidence, workflow fit, communication, governance, and the way uncertainty is handled in practice.*",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -59,7 +59,7 @@ ninja.data = [{
         
           title: "Why “responsible AI” is really a human behavior problem",
         
-        description: "Many AI discussions focus on model quality, fairness, or regulation. But in practice, some of the most important failures happen in how people interpret, trust, and act on system outputs.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -70,7 +70,7 @@ ninja.data = [{
         
           title: "Translating complexity is not a soft skill — it is strategic work",
         
-        description: "In technical environments, clarity is often treated as communication polish. In practice, it shapes alignment, prioritization, decision quality, and what gets built.",
+        description: "",
         section: "Posts",
         handler: () => {
           
