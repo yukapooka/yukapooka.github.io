@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/responsible-AI-post/";
           
         },
+      },{id: "post-translating-complexity-is-not-a-soft-skill-it-is-strategic-work",
+        
+          title: "Translating complexity is not a soft skill — it is strategic work",
+        
+        description: "xxx",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/translating-complexity-post/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
