@@ -7,8 +7,6 @@ description: In healthcare, trust is not something added after technical validat
 categories: healthcare systems trust
 giscus_comments: false
 related_posts: false
-toc:
-  beginning: true
 ---
 
 ### Opening Tension
