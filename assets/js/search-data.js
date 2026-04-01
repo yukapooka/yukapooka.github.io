@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-a-post-with-table-of-contents",
+        },{id: "post-why-responsible-ai-is-really-a-human-behavior-problem",
         
-          title: "a post with table of contents",
+          title: "Why “responsible AI” is really a human behavior problem",
         
         description: "an example of a blog post with table of contents",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/sample-posts/2023/03/20/table-of-contents.html";
+            window.location.href = "/ai,/trust/&/human/decisions/2026/04/01/table-of-contents.html";
           
         },
       },{id: "books-the-godfather",
