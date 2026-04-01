@@ -65,8 +65,8 @@ ninja.data = [{
           description: "From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for R&amp;D",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/1_project.html";
-            },},{id: "case_studies-computation-al-capability-buildout",
-          title: 'Computation-al capability buildout',
+            },},{id: "case_studies-computational-capability-buildout",
+          title: 'Computational capability buildout',
           description: "Building a Drug Discovery Platform from Zero",
           section: "Case_studies",handler: () => {
               window.location.href = "/case_studies/2_project.html";
