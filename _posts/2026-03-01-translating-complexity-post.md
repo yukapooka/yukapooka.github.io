@@ -10,6 +10,10 @@ related_posts: false
 ---
 *In technical environments, clarity is often treated as communication polish. In practice, it shapes alignment, prioritization, decision quality, and what gets built.*
 
+<br />
+
+---
+
 ### Opening Tension
 xxx
 

@@ -9,6 +9,10 @@ related_posts: false
 ---
 *In healthcare, trust is not something added after technical validation. It is built through evidence, workflow fit, communication, governance, and the way uncertainty is handled in practice.*
 
+<br />
+
+---
+
 ### Opening Tension
 xxx
 
