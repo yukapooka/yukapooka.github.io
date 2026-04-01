@@ -7,30 +7,30 @@ description: Many AI discussions focus on model quality, fairness, or regulation
 categories: responsible_ai trust behavioral_science
 giscus_comments: false
 related_posts: false
-toc:
-  beginning: true
+#toc:
+#  beginning: true
 ---
 
 ### Opening Tension
 xxx
 
-### Why this matters now
+### Why This Matters
 xxx
 
-### What the evidence shows
+### What the Evidence Shows
 xxx
 
-### My Synthesis
+### What This Suggests
 xxx
 
-### Implications for practice
+### Implications for Practice
 xxx
 
-### A practical note
+### One Pattern From Practice
 xxx
 
 ### Closing Takeaway
 xxx
 
-### References/Further Reading
+### References
 xxx
