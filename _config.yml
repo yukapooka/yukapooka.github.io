@@ -83,8 +83,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: writings # blog_name will be displayed in your blog page
-#blog_description: a simple whitespace theme for academics
+#blog_name: writings # blog_name will be displayed in your blog page
+blog_description: writing
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
