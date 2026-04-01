@@ -11,21 +11,26 @@ toc:
   beginning: true
 ---
 
-## Opening Tension
-
-### Sub-Heading 1
+### Opening Tension
 xxx
 
-## Why this matters now
+### Why this matters now
+xxx
 
-## What the evidence shows
+### What the evidence shows
+xxx
 
-## My Synthesis
+### My Synthesis
+xxx
 
-## Implications for practice
+### Implications for practice
+xxx
 
-## A practical note
+### A practical note
+xxx
 
-## Closing Takeaway
+### Closing Takeaway
+xxx
 
-## References/Further Reading
+### References/Further Reading
+xxx
