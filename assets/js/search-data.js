@@ -59,7 +59,7 @@ ninja.data = [{
         
           title: "Why “responsible AI” is really a human behavior problem",
         
-        description: "xxx",
+        description: "Many AI discussions focus on model quality, fairness, or regulation. But in practice, some of the most important failures happen in how people interpret, trust, and act on system outputs.",
         section: "Posts",
         handler: () => {
           
