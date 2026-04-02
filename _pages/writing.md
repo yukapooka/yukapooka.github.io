@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /writing/
+permalink: /writings/
 title: writings
 nav: true
 nav_order: 4
