@@ -6,7 +6,6 @@ Today I'm drawn to roles at the intersection of healthcare product, decision sys
 
 <br />
 
----
 
 <h4>What I’m strongest at</h4>
 
