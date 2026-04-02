@@ -187,7 +187,7 @@ social: false # includes social icons at the bottom of the page
 
 <p><b>To be updated</b></p>
 
-<p><a href="https://yukapooka.github.io/writing/index.html"> View Writing</a></p>
+<p><a href="https://yukapooka.github.io/writings/index.html"> View Writing</a></p>
 <br />
 
 ---
@@ -212,7 +212,7 @@ social: false # includes social icons at the bottom of the page
 
 <h4>Contact</h4>
 
-<p>Best way to reach me: <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> or <a href="yuka.w.suzuki@gmail.com">Email</a></p>
+<p>Best way to reach me: <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> or <a href="../yuka.w.suzuki@gmail.com">Email</a></p>
 <br />
 <!-- ---
 <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/resume/">Resume</a> · <a href="yuka.w.suzuki@gmail.com">Email</a>
