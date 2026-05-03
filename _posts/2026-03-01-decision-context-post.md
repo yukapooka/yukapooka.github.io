@@ -3,12 +3,12 @@ layout: post
 title: The Hard Part of AI Products Is Not the Model. It Is the Decision Context
 date: 2026-03-01
 #tags: responsible_ai
-categories: product_thinking strategy clarity systems
+categories: ai_products responsible_ai trust product_thinking
 giscus_comments: false
 related_posts: false
 
 ---
-*Unlike traditional software, AI products produce probabilistic outputs that people must interpret, trust, override, or misuse—making decision context, not just model quality, the real product challenge.*
+*AI products are often discussed as if they were simply better software. But once outputs influence human judgment under uncertainty, product thinking must account for trust, misuse, override, and the uneven consequences of error.*
 
 <br />
 
@@ -17,13 +17,13 @@ related_posts: false
 ### Opening Tension
 xxx
 
-### Why Complexity Breaks Teams
+### Why AI Product Development Is Different
 xxx
 
 ### What the Evidence Shows
 xxx
 
-### What Strategic Clarity Actually Does
+### Where Software Product Thinking Falls Short
 xxx
 
 ### Implications for Product and Cross-Functional Work
