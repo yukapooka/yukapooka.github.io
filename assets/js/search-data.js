@@ -66,15 +66,15 @@ ninja.data = [{
             window.location.href = "/blog/2026/responsible-AI-post/";
           
         },
-      },{id: "post-translating-complexity-is-not-a-soft-skill-it-is-strategic-work",
+      },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
         
-          title: "Translating complexity is not a soft skill — it is strategic work",
+          title: "The Hard Part of AI Products Is Not the Model. It Is the...",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/translating-complexity-post/";
+            window.location.href = "/blog/2026/decision-context-post/";
           
         },
       },{id: "books-the-godfather",
