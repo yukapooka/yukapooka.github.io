@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Translating complexity is not a soft skill — it is strategic work
+title: The Hard Part of AI Products Is Not the Model. It Is the Decision Context
 date: 2026-03-01
 #tags: responsible_ai
 categories: product_thinking strategy clarity systems
@@ -8,7 +8,7 @@ giscus_comments: false
 related_posts: false
 
 ---
-*In technical environments, clarity is often treated as communication polish. In practice, it shapes alignment, prioritization, decision quality, and what gets built.*
+*Unlike traditional software, AI products produce probabilistic outputs that people must interpret, trust, override, or misuse—making decision context, not just model quality, the real product challenge.*
 
 <br />
 
