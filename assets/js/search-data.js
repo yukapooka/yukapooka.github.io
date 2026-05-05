@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-what-high-stakes-healthcare-systems-taught-me-about-designing-for-trust",
+        },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
         
-          title: "What high-stakes healthcare systems taught me about designing for trust",
+          title: "The Hard Part of AI Products Is Not the Model. It Is the...",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/healthcare-systems-trust-post/";
+            window.location.href = "/blog/2026/decision-context-post/";
           
         },
       },{id: "post-in-high-stakes-systems-trust-is-an-infrastructure-problem",
@@ -63,18 +63,18 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/responsible-AI-post/";
+            window.location.href = "/blog/2026/trust-infrastructure-problem-post/";
           
         },
-      },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
+      },{id: "post-responsible-ai-is-also-a-human-behavior-problem",
         
-          title: "The Hard Part of AI Products Is Not the Model. It Is the...",
+          title: "Responsible AI Is Also a Human Behavior Problem",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/decision-context-post/";
+            window.location.href = "/blog/2026/responsible-AI-post/";
           
         },
       },{id: "books-the-godfather",
