@@ -9,8 +9,8 @@ related_posts: false
 
 ---
 *AI products are often discussed as if they were simply better software. But once outputs influence human judgment under uncertainty, product thinking must account for trust, misuse, override, and the uneven consequences of error.*
-
 <br />
+
 ---
 
 ### Opening Tension

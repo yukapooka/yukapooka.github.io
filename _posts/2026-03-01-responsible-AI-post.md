@@ -10,8 +10,8 @@ related_posts: false
 #  beginning: true
 ---
 *Many Responsible AI discussions focus on fairness, transparency, or governance. But some of the most important failures emerge in how people interpret, react to, and act around AI systems in practice.*
-
 <br />
+
 ---
 
 ### Opening Tension

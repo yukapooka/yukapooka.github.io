@@ -10,8 +10,8 @@ related_posts: false
 #  beginning: true
 ---
 *When the stakes are high, trust depends less on what a model can do than on the infrastructure around it: evidence, oversight, accountability, implementation, and long-term stewardship.*
-
 <br />
+
 ---
 
 ### Opening Tension
