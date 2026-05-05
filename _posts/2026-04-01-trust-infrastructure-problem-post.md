@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In High-Stakes Systems, Trust Is an Infrastructure Problem
-date: 2026-03-15
+date: 2026-04-01
 #tags: responsible_ai
 categories: healthcare trust infrastructure governance
 giscus_comments: false
@@ -22,6 +22,9 @@ xxx
 xxx
 
 ### What the Evidence Shows
+xxx
+
+### What This Looks Like in Healthcare
 xxx
 
 ### What Infrastructure Actually Builds Trust

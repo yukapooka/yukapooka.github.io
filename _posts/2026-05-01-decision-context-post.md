@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Hard Part of AI Products Is Not the Model. It Is the Decision Context
-date: 2026-03-01
+date: 2026-05-01
 #tags: responsible_ai
 categories: ai_products responsible_ai trust product_thinking
 giscus_comments: false
@@ -21,6 +21,9 @@ xxx
 xxx
 
 ### What the Evidence Shows
+xxx
+
+### What This Looks Like in Healthcare
 xxx
 
 ### Where Software Product Thinking Falls Short
