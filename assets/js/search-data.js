@@ -55,9 +55,9 @@ ninja.data = [{
             window.location.href = "/blog/2026/healthcare-systems-trust-post/";
           
         },
-      },{id: "post-why-responsible-ai-is-really-a-human-behavior-problem",
+      },{id: "post-in-high-stakes-systems-trust-is-an-infrastructure-problem",
         
-          title: "Why “responsible AI” is really a human behavior problem",
+          title: "In High-Stakes Systems, Trust Is an Infrastructure Problem",
         
         description: "",
         section: "Posts",
