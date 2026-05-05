@@ -26,7 +26,7 @@ xxx
 ### Where Software Product Thinking Falls Short
 xxx
 
-### Implications for Product and Cross-Functional Work
+### Why Responsible AI Has to Be a Product Discipline
 xxx
 
 ### One Pattern From Practice

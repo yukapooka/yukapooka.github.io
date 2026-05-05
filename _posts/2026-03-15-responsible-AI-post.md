@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Why “responsible AI” is really a human behavior problem
+title: In High-Stakes Systems, Trust Is an Infrastructure Problem
 date: 2026-03-15
 #tags: responsible_ai
-categories: responsible_ai trust behavioral_science
+categories: healthcare trust infrastructure governance
 giscus_comments: false
 related_posts: false
 #toc:
 #  beginning: true
 ---
-*Many AI discussions focus on model quality, fairness, or regulation. But in practice, some of the most important failures happen in how people interpret, trust, and act on system outputs.*
+*When the stakes are high, trust depends less on what a model can do than on the infrastructure around it: evidence, oversight, accountability, implementation, and long-term stewardship.*
 
 <br />
 
@@ -18,16 +18,16 @@ related_posts: false
 ### Opening Tension
 xxx
 
-### Why This Matters
+### Why Trust Breaks in High-Stakes Systems
 xxx
 
 ### What the Evidence Shows
 xxx
 
-### What This Suggests
+### What Infrastructure Actually Builds Trust
 xxx
 
-### Implications for Practice
+### Implications for Builders and Institutions
 xxx
 
 ### One Pattern From Practice
