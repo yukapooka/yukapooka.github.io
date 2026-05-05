@@ -17,27 +17,36 @@ related_posts: false
 
 ### Opening Tension
 xxx
+<br />
 
 ### Why Responsible AI Often Frames the Problem Too Narrowly
 xxx
+<br />
 
 ### What the Evidence Shows
 xxx
+<br />
 
 ### What This Looks Like in Healthcare
 xxx
+<br />
 
 ### The Missing Behavioral Layer
 xxx
+<br />
 
 ### What This Changes for Responsible AI Practice
 xxx
+<br />
 
 ### One Pattern From Practice
 xxx
+<br />
 
 ### Closing Takeaway
 xxx
+<br />
 
 ### References
 xxx
+<br />

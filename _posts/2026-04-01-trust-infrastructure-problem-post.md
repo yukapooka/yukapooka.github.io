@@ -17,27 +17,36 @@ related_posts: false
 
 ### Opening Tension
 xxx
+<br />
 
 ### Why Trust Breaks in High-Stakes Systems
 xxx
+<br />
 
 ### What the Evidence Shows
 xxx
+<br />
 
 ### What This Looks Like in Healthcare
 xxx
+<br />
 
 ### What Infrastructure Actually Builds Trust
 xxx
+<br />
 
 ### Implications for Builders and Institutions
 xxx
+<br />
 
 ### One Pattern From Practice
 xxx
+<br />
 
 ### Closing Takeaway
 xxx
+<br />
 
 ### References
 xxx
+<br />
