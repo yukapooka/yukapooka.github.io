@@ -46,7 +46,7 @@ related_posts: false
 
 
 ### One Pattern From Practice
-xxx
+<p>xxx</p>
 <br />
 
 
@@ -56,6 +56,6 @@ xxx
 
 
 ### References
-xxx
+<p>xxx</p>
 <br />
 
