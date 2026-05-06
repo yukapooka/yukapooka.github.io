@@ -55,18 +55,19 @@ related_posts: false
 
 
 ### References
-<p>Knop, M., Weber, S., Mueller, M., Niehaves, B., & Schneeberger, D. (2022). Human factors and technological characteristics influencing the interaction of medical professionals with artificial intelligence-enabled clinical decision support systems: Literature review. JMIR Human Factors, 9(1), e28639. https://doi.org/10.2196/28639
+<div class="references">
+  <p>Knop, M., Weber, S., Mueller, M., Niehaves, B., &amp; Schneeberger, D. (2022). Human factors and technological characteristics influencing the interaction of medical professionals with artificial intelligence-enabled clinical decision support systems: Literature review. <em>JMIR Human Factors, 9</em>(1), e28639. https://doi.org/10.2196/28639</p>
 
-Kostick-Quenet, K. M., & Gerke, S. (2022). AI in the hands of imperfect users. npj Digital Medicine, 5(1), Article 197. https://doi.org/10.1038/s41746-022-00737-z
+  <p>Kostick-Quenet, K. M., &amp; Gerke, S. (2022). AI in the hands of imperfect users. <em>npj Digital Medicine, 5</em>(1), Article 197. https://doi.org/10.1038/s41746-022-00737-z</p>
 
-National Institute of Standards and Technology. (2023). Artificial intelligence risk management framework (AI RMF 1.0) (NIST AI 100-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1
+  <p>National Institute of Standards and Technology. (2023). <em>Artificial intelligence risk management framework (AI RMF 1.0)</em> (NIST AI 100-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1</p>
 
-Organisation for Economic Co-operation and Development. (2025). Towards a common reporting framework for AI incidents (OECD Artificial Intelligence Papers No. 34). OECD Publishing. https://doi.org/10.1787/f326d4ac-en
+  <p>Organisation for Economic Co-operation and Development. (2025). <em>Towards a common reporting framework for AI incidents</em> (OECD Artificial Intelligence Papers No. 34). OECD Publishing. https://doi.org/10.1787/f326d4ac-en</p>
 
-Tomsett, R., Preece, A., Braines, D., Cerutti, F., Chakraborty, S., Srivastava, M., Pearson, G., & Kaplan, L. (2020). Rapid trust calibration through interpretable and uncertainty-aware AI. Patterns, 1(4), Article 100049. https://doi.org/10.1016/j.patter.2020.100049
+  <p>Tomsett, R., Preece, A., Braines, D., Cerutti, F., Chakraborty, S., Srivastava, M., Pearson, G., &amp; Kaplan, L. (2020). Rapid trust calibration through interpretable and uncertainty-aware AI. <em>Patterns, 1</em>(4), Article 100049. https://doi.org/10.1016/j.patter.2020.100049</p>
 
-Tun, H. M., Rahman, H. A., Naing, L., & Malik, O. A. (2025). Trust in artificial intelligence–based clinical decision support systems among health care workers: Systematic review. Journal of Medical Internet Research, 27, e69678. https://doi.org/10.2196/69678
+  <p>Tun, H. M., Rahman, H. A., Naing, L., &amp; Malik, O. A. (2025). Trust in artificial intelligence–based clinical decision support systems among health care workers: Systematic review. <em>Journal of Medical Internet Research, 27</em>, e69678. https://doi.org/10.2196/69678</p>
 
-Wilhelm, C., Steckelberg, A., & Rebitschek, F. G. (2025). Benefits and harms associated with the use of AI-related algorithmic decision-making systems by healthcare professionals: A systematic review. The Lancet Regional Health – Europe, 50, Article 101145. https://doi.org/10.1016/j.lanepe.2024.101145</p>
-<br />
+  <p>Wilhelm, C., Steckelberg, A., &amp; Rebitschek, F. G. (2025). Benefits and harms associated with the use of AI-related algorithmic decision-making systems by healthcare professionals: A systematic review. <em>The Lancet Regional Health – Europe, 50</em>, Article 101145. https://doi.org/10.1016/j.lanepe.2024.101145</p>
+</div>
 

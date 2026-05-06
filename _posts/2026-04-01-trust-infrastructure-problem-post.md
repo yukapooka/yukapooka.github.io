@@ -56,16 +56,16 @@ related_posts: false
 
 
 ### References
-<p>Hogg, H. D. J., Al-Zubaidy, M., Technology Enhanced Macular Services Study Reference Group, Talks, J., Denniston, A. K., Kelly, C. J., Malawana, J., Papoutsi, C., Teare, M. D., Keane, P. A., Beyer, F. R., & Maniatopoulos, G. (2023). Stakeholder perspectives of clinical artificial intelligence implementation: Systematic review of qualitative evidence. Journal of Medical Internet Research, 25, e39742. https://doi.org/10.2196/39742
+<div class="references">
+  <p>Hogg, H. D. J., Al-Zubaidy, M., Technology Enhanced Macular Services Study Reference Group, Talks, J., Denniston, A. K., Kelly, C. J., Malawana, J., Papoutsi, C., Teare, M. D., Keane, P. A., Beyer, F. R., &amp; Maniatopoulos, G. (2023). Stakeholder perspectives of clinical artificial intelligence implementation: Systematic review of qualitative evidence. <em>Journal of Medical Internet Research, 25</em>, e39742. https://doi.org/10.2196/39742</p>
 
-Kerasidou, A., & Kerasidou, C. (2023). Data-driven research and healthcare: Public trust, data governance and the NHS. BMC Medical Ethics, 24(1), Article 51. https://doi.org/10.1186/s12910-023-00922-z
+  <p>Kerasidou, A., &amp; Kerasidou, C. (2023). Data-driven research and healthcare: Public trust, data governance and the NHS. <em>BMC Medical Ethics, 24</em>(1), Article 51. https://doi.org/10.1186/s12910-023-00922-z</p>
 
-Milne, R., Morley, K. I., Almarri, M. A., Anwer, S., Bianco, E., Carinci, F., Cubitt, J., et al. (2021). Demonstrating trustworthiness when collecting and sharing genomic data: Public views across 22 countries. Genome Medicine, 13(1), Article 92. https://doi.org/10.1186/s13073-021-00903-0
+  <p>Milne, R., Morley, K. I., Almarri, M. A., Anwer, S., Bianco, E., Carinci, F., Cubitt, J., et al. (2021). Demonstrating trustworthiness when collecting and sharing genomic data: Public views across 22 countries. <em>Genome Medicine, 13</em>(1), Article 92. https://doi.org/10.1186/s13073-021-00903-0</p>
 
-Nong, P., Hamasha, L., Qureshi, R., et al. (2024). How academic medical centers govern AI prediction tools in the context of uncertainty and evolving regulation. NEJM AI, 1(3), AIp2300048. https://doi.org/10.1056/AIp2300048
+  <p>Nong, P., Hamasha, L., Qureshi, R., et al. (2024). How academic medical centers govern AI prediction tools in the context of uncertainty and evolving regulation. <em>NEJM AI, 1</em>(3), AIp2300048. https://doi.org/10.1056/AIp2300048</p>
 
-O’Doherty, K. C., Shabani, M., Dove, E. S., Bentzen, H. B., Borry, P., Burgess, M. M., Chalmers, D., De Vries, J., Eckstein, L., Fullerton, S. M., Juengst, E., Kato, K., Kaye, J., Knoppers, B. M., Koenig, B. A., Manson, S. M., McGrail, K. M., McGuire, A. L., Meslin, E. M., ... Burke, W. (2021). Toward better governance of human genomic data. Nature Genetics, 53(1), 2–8. https://doi.org/10.1038/s41588-020-00742-6
+  <p>O’Doherty, K. C., Shabani, M., Dove, E. S., Bentzen, H. B., Borry, P., Burgess, M. M., Chalmers, D., De Vries, J., Eckstein, L., Fullerton, S. M., Juengst, E., Kato, K., Kaye, J., Knoppers, B. M., Koenig, B. A., Manson, S. M., McGrail, K. M., McGuire, A. L., Meslin, E. M., ... Burke, W. (2021). Toward better governance of human genomic data. <em>Nature Genetics, 53</em>(1), 2–8. https://doi.org/10.1038/s41588-020-00742-6</p>
 
-Organisation for Economic Co-operation and Development. (2023). Data stewardship, access, sharing and control. OECD. https://one.oecd.org/document/DSTI/CDEP%282022%296/FINAL/en/pdf</p>
-<br />
-
+  <p>Organisation for Economic Co-operation and Development. (2023). <em>Data stewardship, access, sharing and control</em>. OECD. https://one.oecd.org/document/DSTI/CDEP%282022%296/FINAL/en/pdf</p>
+</div>

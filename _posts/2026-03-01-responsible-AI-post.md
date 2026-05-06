@@ -56,16 +56,16 @@ related_posts: false
 
 
 ### References
-<p>Dietvorst, B. J., Simmons, J. P., & Massey, C. (2015). Algorithm aversion: People erroneously avoid algorithms after seeing them err. Journal of Experimental Psychology: General, 144(1), 114–126. https://doi.org/10.1037/xge0000033
+<div class="references">
+  <p>Dietvorst, B. J., Simmons, J. P., &amp; Massey, C. (2015). Algorithm aversion: People erroneously avoid algorithms after seeing them err. <em>Journal of Experimental Psychology: General, 144</em>(1), 114–126. https://doi.org/10.1037/xge0000033</p>
 
-Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151, 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005
+  <p>Logg, J. M., Minson, J. A., &amp; Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. <em>Organizational Behavior and Human Decision Processes, 151</em>, 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005</p>
 
-Steerling, E., Siira, E., Nilsen, P., & Nygren, J. M. (2023). Implementing AI in healthcare—the relevance of trust: A scoping review. Frontiers in Health Services, 3, Article 1211150. https://doi.org/10.3389/frhs.2023.1211150
+  <p>Steerling, E., Siira, E., Nilsen, P., &amp; Nygren, J. M. (2023). Implementing AI in healthcare—the relevance of trust: A scoping review. <em>Frontiers in Health Services, 3</em>, Article 1211150. https://doi.org/10.3389/frhs.2023.1211150</p>
 
-Tomsett, R., Preece, A., Braines, D., Cerutti, F., Chakraborty, S., Srivastava, M., Pearson, G., & Kaplan, L. (2020). Rapid trust calibration through interpretable and uncertainty-aware AI. Patterns, 1(4), Article 100049. https://doi.org/10.1016/j.patter.2020.100049
+  <p>Tomsett, R., Preece, A., Braines, D., Cerutti, F., Chakraborty, S., Srivastava, M., Pearson, G., &amp; Kaplan, L. (2020). Rapid trust calibration through interpretable and uncertainty-aware AI. <em>Patterns, 1</em>(4), Article 100049. https://doi.org/10.1016/j.patter.2020.100049</p>
 
-Vo, V., Auroy, L., Sarradon-Eck, A., et al. (2023). Multi-stakeholder preferences for the use of artificial intelligence in healthcare: A systematic review and thematic analysis. Social Science & Medicine, 338, Article 116326. https://doi.org/10.1016/j.socscimed.2023.116326
+  <p>Vo, V., Auroy, L., Sarradon-Eck, A., et al. (2023). Multi-stakeholder preferences for the use of artificial intelligence in healthcare: A systematic review and thematic analysis. <em>Social Science &amp; Medicine, 338</em>, Article 116326. https://doi.org/10.1016/j.socscimed.2023.116326</p>
 
-Wilhelm, C., Steckelberg, A., & Rebitschek, F. G. (2025). Benefits and harms associated with the use of AI-related algorithmic decision-making systems by healthcare professionals: A systematic review. The Lancet Regional Health – Europe, 50, Article 101145. https://doi.org/10.1016/j.lanepe.2024.101145</p>
-<br />
-
+  <p>Wilhelm, C., Steckelberg, A., &amp; Rebitschek, F. G. (2025). Benefits and harms associated with the use of AI-related algorithmic decision-making systems by healthcare professionals: A systematic review. <em>The Lancet Regional Health – Europe, 50</em>, Article 101145. https://doi.org/10.1016/j.lanepe.2024.101145</p>
+</div>
