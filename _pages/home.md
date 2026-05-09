@@ -33,7 +33,7 @@ social: false # includes social icons at the bottom of the page
 ">
 
   <!-- CARD 1 -->
-  <a href="/case_studies/1_project.html" style="
+  <a href="/case_studies/1_project.md" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -69,7 +69,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 2 -->
-  <a href="/case_studies/2_project.html" style="
+  <a href="/case_studies/2_project.md" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -105,7 +105,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 3 -->
-  <a href="/case_studies/3_project.html" style="
+  <a href="/case_studies/3_project.md" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -141,7 +141,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 4 -->
-  <a href="/case_studies/4_project.html" style="
+  <a href="/case_studies/4_project.md" style="
     display: block;
     width: 23%;
     min-width: 240px;
