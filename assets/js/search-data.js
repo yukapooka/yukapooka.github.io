@@ -44,33 +44,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-04-01-trust-infrastructure-problem-post/";
-          
-        },
-      },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
+        },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
         
           title: "The Hard Part of AI Products Is Not the Model. It Is the...",
         
-        description: "AI products are often discussed as if they were simply better software. But once outputs influence human judgment under uncertainty, product thinking must account for trust, misuse, override, and the uneven consequences of error.",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/decision-context-post/";
           
         },
+      },{id: "post-in-high-stakes-systems-trust-is-an-infrastructure-problem",
+        
+          title: "In High-Stakes Systems, Trust Is an Infrastructure Problem",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/trust-infrastructure-problem-post/";
+          
+        },
       },{id: "post-responsible-ai-is-also-a-human-behavior-problem",
         
           title: "Responsible AI Is Also a Human Behavior Problem",
         
-        description: "Many Responsible AI discussions focus on fairness, transparency, or governance. But some of the most important failures emerge in how people interpret, react to, and act around AI systems in practice.",
+        description: "",
         section: "Posts",
         handler: () => {
           
