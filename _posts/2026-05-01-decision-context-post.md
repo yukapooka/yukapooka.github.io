@@ -2,6 +2,7 @@
 layout: post
 title: The Hard Part of AI Products Is Not the Model. It Is the Decision Context.
 date: 2026-05-01
+description: AI products are often discussed as if they were simply better software. But once outputs influence human judgment under uncertainty, product thinking must account for trust, misuse, override, and the uneven consequences of error.
 #tags: responsible_ai
 categories: ai_products responsible_ai trust product_thinking
 giscus_comments: false

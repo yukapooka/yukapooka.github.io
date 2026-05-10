@@ -2,6 +2,7 @@
 layout: post
 title: Responsible AI Is Also a Human Behavior Problem
 date: 2026-03-01
+description: Many Responsible AI discussions focus on fairness, transparency, or governance. But some of the most important failures emerge in how people interpret, react to, and act around AI systems in practice.
 #tags: responsible_ai
 categories: responsible_ai behavioral_science ai_trust human_judgement
 giscus_comments: false
