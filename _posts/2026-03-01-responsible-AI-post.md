@@ -9,6 +9,16 @@ related_posts: false
 #toc:
 #  beginning: true
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/thinking-man-article3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Many Responsible AI discussions focus on fairness, transparency, or governance. But some of the most important failures emerge in how people interpret, react to, and act around AI systems in practice.
+</div>
+
 *Many Responsible AI discussions focus on fairness, transparency, or governance. But some of the most important failures emerge in how people interpret, react to, and act around AI systems in practice.*
 <br />
 
