@@ -6,7 +6,6 @@ date: 2026-05-01
 categories: ai_products responsible_ai trust product_thinking
 giscus_comments: false
 related_posts: false
-thumbnail: assets/img/decision-article3.jpg
 
 ---
 
@@ -16,9 +15,8 @@ thumbnail: assets/img/decision-article3.jpg
     </div>
 </div>
 <div class="caption">
-    I products are often discussed as if they were simply better software. But once outputs influence human judgment under uncertainty, product thinking must account for trust, misuse, override, and the uneven consequences of error.
+    AI products are often discussed as if they were simply better software. But once outputs influence human judgment under uncertainty, product thinking must account for trust, misuse, override, and the uneven consequences of error.
 </div>
-
 <br />
 
 ---

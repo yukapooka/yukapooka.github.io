@@ -6,7 +6,6 @@ date: 2026-04-01
 categories: healthcare trust infrastructure governance
 giscus_comments: false
 related_posts: false
-thumbnail: assets/img/infrastructure-article2.jpg
 
 #toc:
 #  beginning: true
@@ -20,7 +19,6 @@ thumbnail: assets/img/infrastructure-article2.jpg
 <div class="caption">
     When the stakes are high, trust depends less on what a model can do than on the infrastructure around it: evidence, oversight, accountability, implementation, and long-term stewardship.
 </div>
-
 <br />
 
 ---
