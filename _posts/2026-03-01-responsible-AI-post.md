@@ -6,6 +6,7 @@ date: 2026-03-01
 categories: responsible_ai behavioral_science ai_trust human_judgement
 giscus_comments: false
 related_posts: false
+thumbnail: assets/img/thinking-man-article1.jpg
 #toc:
 #  beginning: true
 ---
@@ -19,7 +20,6 @@ related_posts: false
     Many Responsible AI discussions focus on fairness, transparency, or governance. But some of the most important failures emerge in how people interpret, react to, and act around AI systems in practice.
 </div>
 
-*Many Responsible AI discussions focus on fairness, transparency, or governance. But some of the most important failures emerge in how people interpret, react to, and act around AI systems in practice.*
 <br />
 
 ---
