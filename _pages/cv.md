@@ -66,7 +66,7 @@ nav_order: 2
     <li>Built cloud-based computational infrastructure and translated research goals into practical execution plans across scientific and engineering teams.</li>
     <li>Coordinated cross-functional work across multiple teams to keep analytical deliverables aligned with collaboration timelines and broader business priorities.</li>
     <li>Helped shape the direction of an oncology analytics effort by clarifying use cases, analytical needs, and execution priorities for leadership discussions.</li>
-    <li>Automated a genetic-screening analysis workflow, materially reducing turnaround time and improving reproducibility.</li>
+    <li>Automated a high throughput genetic-screening analysis workflow, materially reducing turnaround time and improving reproducibility.</li>
     <li>Hired and supported a growing computational team during an early stage of capability buildout.</li>
 </ul>
 
@@ -84,7 +84,7 @@ nav_order: 2
 <h6><b>PhD Researcher, Computational Cancer Genomics</b> <i>May 2013 – Apr 2018</i></h6>
 
 <ul style="padding-left: 30px;">
-    <li>Designed and launched an NGS cancer gene panel, defining the clinical use case and leading cross-disciplinary development with clinicians and biologists.</li>
+    <li>Designed and launched an next-generation sequencing (NGS) cancer gene panel, defining the clinical use case and leading cross-disciplinary development with clinicians and biologists.</li>
     <li>Co-authored 10 peer-reviewed publications in computational cancer genomics.</li>
     <li>Organised annual data analytics workshops for 40+ postdoctoral fellows and clinician scientists across 3 years, translating complex computational methods for non-technical healthcare audiences.</li>
 </ul>
