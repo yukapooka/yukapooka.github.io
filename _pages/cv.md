@@ -56,7 +56,7 @@ nav_order: 2
 <h6>Computational Biology / Infrastructure and Workflow Development</h6>
 <i>Singapore</i>
 
-<p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech environment.</p>
+<p>Worked across technical systems, scientific workflows, and early capability building in a fast-moving biotech startup environment.</p>
 
 
 <h6><b>Lead Bioinformatics R&D</b> <i>Apr 2018 – Oct 2019</i></h6>
