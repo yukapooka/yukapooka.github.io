@@ -21,7 +21,6 @@ related_posts: false
 <br />
 
 ---
-<br />
 
 ### Opening Tension
 <p>Responsible AI is often discussed as if the main challenge lies inside the model: make it fairer, more transparent, more explainable, and better governed. But important failures often emerge later, when people interpret AI outputs, trust them too much, dismiss them too quickly, or use them outside the conditions they were designed for (Dietvorst et al., 2015; Logg et al., 2019). Responsible AI is therefore not only a technical or policy problem. It is also a human behavior problem.</p>
@@ -30,14 +29,12 @@ related_posts: false
 <br />
 
 ---
-<br />
 
 ### The technical frame is incomplete
 <p>Responsible AI discussions often center on fairness, transparency, explainability, and governance. These are necessary, but they do not fully explain what happens once a system enters practice. What is often missing is the behavioral layer: how people interpret outputs, when they defer to them, when they override them, and when they assume the system is more general than it is. A model can perform well on paper and still produce poor outcomes if users misunderstand what it is for. Governance matters too, but a policy cannot guarantee good judgment in the moment. Real-world use is shaped by framing, habits, incentives, and context.</p>
 <br />
 
 ---
-<br />
 
 ### People do not respond to AI in one stable way
 <p>The evidence does not support a simple story of people either trusting or distrusting AI. People may reject algorithmic advice after seeing it make a mistake, yet in other settings prefer algorithmic judgment over human judgment (Dietvorst et al., 2015; Logg et al., 2019). The more useful question is not whether users trust AI, but whether their reliance is calibrated to the task.</p>
@@ -48,7 +45,6 @@ related_posts: false
 <br />
 
 ---
-<br />
 
 ### Uncertainty changes the problem
 <p>When AI outputs are probabilistic or context-sensitive, users still have to decide how much weight to give them. In these settings, uncertainty communication is not a cosmetic feature; it shapes whether reliance is appropriate (Tomsett et al., 2020).</p>
@@ -60,7 +56,6 @@ related_posts: false
 <br />
 
 ---
-<br />
 
 ### The same pattern appears wherever stakes are high and decisions are consequential
 <p>Healthcare is useful here because the stakes are high, uncertainty is common, and decisions are rarely made from model outputs alone. Reviews of AI implementation show that trust depends not only on technical performance but also on workflow fit, training, and accountability structures (Steerling et al., 2023; Vo et al., 2023).</p>
@@ -71,7 +66,6 @@ related_posts: false
 <br />
 
 ---
-<br />
 
 ### What This Changes for Responsible AI
 <p>The Tesla and radiology cases point in the same direction, though through different mechanisms. In Tesla’s case, the problem was not fully correctable through model improvement alone; it also depended on how the product communicated its operating limits. In radiology, the way uncertainty is expressed at the point of decision affects how outputs are used, independently of model accuracy. In both cases, behavioral response is part of system performance, not external to it.</p>
@@ -88,7 +82,6 @@ related_posts: false
 <br />
 
 ---
-<br />
 
 ### References
 <div class="references">
