@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-03-01-responsible-AI-post/";
-          
-        },
-      },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
+        },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
         
           title: "The Hard Part of AI Products Is Not the Model. It Is the...",
         
@@ -75,6 +64,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/trust-infrastructure-problem-post/";
+          
+        },
+      },{id: "post-how-people-actually-respond-to-ai-the-case-for-calibrated-reliance",
+        
+          title: "How People Actually Respond to AI - The Case for Calibrated Reliance",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/responsible-AI-post/";
           
         },
       },{id: "books-the-godfather",
