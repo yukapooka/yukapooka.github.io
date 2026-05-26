@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-03-01-responsible-AI-post/";
+          
+        },
+      },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
         
           title: "The Hard Part of AI Products Is Not the Model. It Is the...",
         
@@ -64,17 +75,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/trust-infrastructure-problem-post/";
-          
-        },
-      },{id: "post-responsible-ai-is-also-a-human-behavior-problem",
-        
-          title: "Responsible AI Is Also a Human Behavior Problem",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/responsible-AI-post/";
           
         },
       },{id: "books-the-godfather",
