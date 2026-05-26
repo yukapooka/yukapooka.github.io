@@ -29,11 +29,15 @@ related_posts: false
 <p>Two examples clarify this. Tesla Autopilot shows how trust built in routine conditions can extend beyond the system’s actual limits. Diagnostic radiology AI shows that uncertainty communication, not just model accuracy, shapes whether people rely on a system appropriately.</p>
 <br />
 
+---
+<br />
 
 ### The technical frame is incomplete
 <p>Responsible AI discussions often center on fairness, transparency, explainability, and governance. These are necessary, but they do not fully explain what happens once a system enters practice. What is often missing is the behavioral layer: how people interpret outputs, when they defer to them, when they override them, and when they assume the system is more general than it is. A model can perform well on paper and still produce poor outcomes if users misunderstand what it is for. Governance matters too, but a policy cannot guarantee good judgment in the moment. Real-world use is shaped by framing, habits, incentives, and context.</p>
 <br />
 
+---
+<br />
 
 ### People do not respond to AI in one stable way
 <p>The evidence does not support a simple story of people either trusting or distrusting AI. People may reject algorithmic advice after seeing it make a mistake, yet in other settings prefer algorithmic judgment over human judgment (Dietvorst et al., 2015; Logg et al., 2019). The more useful question is not whether users trust AI, but whether their reliance is calibrated to the task.</p>
@@ -43,6 +47,8 @@ related_posts: false
 <p>Miscalibration cuts both ways. Overreliance can lead users to miss warning signs or fail to notice when a system is out of scope. Underreliance can lead them to ignore useful advice or fail to benefit from a system that outperforms unaided judgment. The goal is not more trust. It is calibrated reliance: enough confidence to use the system well, and enough skepticism to question it when context requires it (Logg et al., 2019).</p>
 <br />
 
+---
+<br />
 
 ### Uncertainty changes the problem
 <p>When AI outputs are probabilistic or context-sensitive, users still have to decide how much weight to give them. In these settings, uncertainty communication is not a cosmetic feature; it shapes whether reliance is appropriate (Tomsett et al., 2020).</p>
@@ -53,6 +59,8 @@ related_posts: false
 
 <br />
 
+---
+<br />
 
 ### The same pattern appears wherever stakes are high and decisions are consequential
 <p>Healthcare is useful here because the stakes are high, uncertainty is common, and decisions are rarely made from model outputs alone. Reviews of AI implementation show that trust depends not only on technical performance but also on workflow fit, training, and accountability structures (Steerling et al., 2023; Vo et al., 2023).</p>
@@ -62,6 +70,8 @@ related_posts: false
 <p>This pattern is not unique to healthcare, though it should not be generalized too broadly. The radiology findings come from a specialized professional setting with trained users, formal accountability, and structured feedback. Similar dynamics are likely in other high-stakes expert settings, such as legal review, financial analysis, and infrastructure monitoring. Whether the same mechanisms apply in lower-stakes consumer settings is a separate question. Healthcare does not establish a universal claim, but it shows the pattern clearly in one important class of decisions.</p>
 <br />
 
+---
+<br />
 
 ### What This Changes for Responsible AI
 <p>The Tesla and radiology cases point in the same direction, though through different mechanisms. In Tesla’s case, the problem was not fully correctable through model improvement alone; it also depended on how the product communicated its operating limits. In radiology, the way uncertainty is expressed at the point of decision affects how outputs are used, independently of model accuracy. In both cases, behavioral response is part of system performance, not external to it.</p>
@@ -77,6 +87,8 @@ related_posts: false
 <p>These recommendations treat human response as part of the system, which is where it belongs. Responsible AI is not only about building systems that are technically sound. It is also about understanding the behavioral, organizational, and design conditions under which people use them well, badly, or somewhere in between (Dietvorst et al., 2015; Tomsett et al., 2020).</p>
 <br />
 
+---
+<br />
 
 ### References
 <div class="references">
