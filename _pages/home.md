@@ -49,7 +49,7 @@ social: false # includes social icons at the bottom of the page
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
     <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
-      <img src="/assets/img/internal_analytics.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="/assets/img/internal_analytics.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
     <div style="padding: 16px;">
@@ -85,7 +85,7 @@ social: false # includes social icons at the bottom of the page
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
     <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
-      <img src="/assets/img/computational_buildout.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="/assets/img/computational_buildout.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
     <div style="padding: 16px;">
@@ -121,7 +121,7 @@ social: false # includes social icons at the bottom of the page
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
     <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
-      <img src="/assets/img/oncology_decision.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="/assets/img/oncology_decision.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
     <div style="padding: 16px;">
@@ -157,7 +157,7 @@ social: false # includes social icons at the bottom of the page
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
     <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
-      <img src="/assets/img/product_risk.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="/assets/img/product_risk.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
     <div style="padding: 16px;">
@@ -212,7 +212,7 @@ social: false # includes social icons at the bottom of the page
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
     <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
-      <img src="/assets/img/internal_analytics.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="/assets/img/writing_topic1.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
     <div style="padding: 16px;">
@@ -225,7 +225,7 @@ social: false # includes social icons at the bottom of the page
       </h3>
 
       <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
-        Standardized a fragmented analytics workflow.
+        How trust, uncertainty, and product framing shape human reliance on AI.
       </p>
     </div>
   </a>
@@ -248,7 +248,7 @@ social: false # includes social icons at the bottom of the page
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
     <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
-      <img src="/assets/img/computational_buildout.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="/assets/img/writing_topic2.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
     <div style="padding: 16px;">
@@ -261,7 +261,7 @@ social: false # includes social icons at the bottom of the page
       </h3>
 
       <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
-        Built the tooling and infrastructure foundations for a new computational program.
+        Trust depends on governance, workflow, and accountability — not just model performance.
       </p>
     </div>
   </a>
@@ -284,7 +284,7 @@ social: false # includes social icons at the bottom of the page
   onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
 
     <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
-      <img src="/assets/img/oncology_decision.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <img src="/assets/img/writing_topic3.png" style="width:100%; height:100%; object-fit:cover;">
     </div>
 
     <div style="padding: 16px;">
@@ -297,7 +297,7 @@ social: false # includes social icons at the bottom of the page
       </h3>
 
       <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
-        Explored how outputs and workflows shape interpretation in oncology care.
+        A strong model is not enough if the product is misaligned with the decision it shapes.
       </p>
     </div>
   </a>
