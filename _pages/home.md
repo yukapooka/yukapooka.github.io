@@ -217,11 +217,11 @@ social: false # includes social icons at the bottom of the page
 
     <div style="padding: 16px;">
       <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
-        Systems
+        Responsible AI
       </div>
 
       <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
-        Internal Analytics Platform
+        Calibrated Reliance in Responsible AI
       </h3>
 
       <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
@@ -253,11 +253,11 @@ social: false # includes social icons at the bottom of the page
 
     <div style="padding: 16px;">
       <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
-        Systems
+        Governance
       </div>
 
       <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
-        Computational Capability Buildout
+        Trust as Infrastructure
       </h3>
 
       <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
@@ -293,7 +293,7 @@ social: false # includes social icons at the bottom of the page
       </div>
 
       <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
-        Oncology Decision Support
+        Decision context matters
       </h3>
 
       <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
