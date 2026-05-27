@@ -23,7 +23,7 @@ related_posts: false
 ---
 
 ### Opening Tension
-<p>Responsible AI is often framed as a problem inside the model: make it fairer, more transparent, more explainable, and better governed. But many important failures emerge later, in use — when people interpret outputs too confidently, dismiss them too quickly, or extend them beyond the conditions they were designed for (Dietvorst et al., 2015; Logg et al., 2019). Responsible AI is therefore not only a technical or policy problem. It is also a behavioral one.</p>
+<p>Responsible AI is often framed as a problem inside the model: make it fairer, more transparent, more explainable, and better governed. But many important failures emerge later, in use — when people interpret outputs too confidently, dismiss them too quickly, or extend them beyond the conditions they were designed for (Dietvorst et al., 2015; Logg et al., 2019). Responsible AI is therefore not only a technical or policy problem. It is also a behavioral one..</p>
 
 <p>Two examples make this easier to see. Tesla Autopilot shows how trust built under routine conditions can travel beyond the system’s actual limits. Diagnostic radiology AI shows that uncertainty communication, not just model accuracy, shapes whether reliance is appropriate.</p>
 <br />
