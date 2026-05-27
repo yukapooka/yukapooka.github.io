@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2026-04-01-trust-infrastructure-problem-post/";
-          
-        },
-      },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
+        },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
         
           title: "The Hard Part of AI Products Is Not the Model. It Is the...",
         
@@ -64,6 +53,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/decision-context-post/";
+          
+        },
+      },{id: "post-trust-as-infrastructure-what-organizational-conditions-make-ai-trust-possible",
+        
+          title: "Trust as Infrastructure - What Organizational Conditions Make AI Trust Possible",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/trust-infrastructure-problem-post/";
           
         },
       },{id: "post-how-people-actually-respond-to-ai-the-case-for-calibrated-reliance",
