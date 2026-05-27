@@ -26,64 +26,74 @@ related_posts: false
 ### Opening Tension
 <p>In high-stakes systems, trust is often treated as a confidence problem: if performance is demonstrated clearly enough and communication is effective enough, adoption will follow. But confidence in a system is not the same as the conditions that make its use reliable in practice. In these settings, trust depends not only on technical performance but also on governance, workflow design, accountability, and monitoring (Steerling et al., 2023; Afroogh et al., 2024).</p>
 
-<p>Two examples make this visible. CrowdStrike’s global outage in July 2024 shows the effects of a gap between formal and operational governance in a widely deployed AI-enabled system. The deployment of clinical prediction models during COVID-19 shows a similar pattern in healthcare, distributed across many clinical decisions rather than concentrated in a single event.</p>
+<p>Two examples make this visible. CrowdStrike’s global outage in July 2024 shows what happens when formal governance does not adequately reach operational decisions in a widely deployed AI-enabled system. The deployment of clinical prediction models during COVID-19 shows a similar pattern in healthcare, distributed across many clinical decisions rather than concentrated in a single event.</p>
 <br />
 
 ---
 
 ### Trust is not a standalone variable
-<p>The relevant question is not simply whether people trust an AI system, but whether that trust is appropriate to the system’s actual capabilities and limits in use. This depends on whether users understand what the system can do reliably, how durable that understanding remains over time, and where independent judgment is still needed. Too little trust can limit adoption, while too much can lead to overreliance. The aim is not to maximize trust, but to align it with what the organization has made dependable in practice. That alignment depends on conditions beyond the model itself, including workflow, governance, and operational support.</p>
+<p>The relevant question is not simply whether people trust an AI system, but whether that trust is appropriate to the system’s actual capabilities and limits in use. This depends on whether users understand what the system can do reliably, how durable that understanding remains over time, and where independent judgment is still needed. Too little trust can limit adoption, while too much can lead to overreliance. The aim is not to maximize trust, but to align it with what the organization has actually made dependable in practice. That alignment depends on conditions beyond the model itself, including workflow, governance, and operational support.</p>
 <br />
 
 ---
 
-### What the Evidence Shows
-<p>Trust in high-stakes settings depends on governance, implementation capacity, and demonstrated trustworthiness rather than claims alone (Milne, O’Doherty, Hogg).</p>
+### Governance has to operate, not just exist
+<p>There is a difference between governance as documentation and governance as practice. Documentation produces policies, compliance artifacts, and approval records. Practice produces monitoring, clear ownership, escalation paths, and defined triggers for intervention. Documentation matters because it establishes accountability, audit expectations, and institutional memory. In high-stakes environments, however, it does little on its own when a system fails in real time. Governance changes outcomes only when it shapes operational decisions under pressure (Afroogh et al., 2024).</p>
+
+<p>CrowdStrike’s Falcon platform makes this visible. Falcon uses behavioral AI models for threat detection and is updated through rapid content releases, making it a useful case for AI systems that operate at scale through frequent automated updates in production environments. On July 19, 2024, a faulty update to the Falcon sensor caused widespread crashes across Windows systems globally, disrupting services across healthcare, aviation, banking, and government. Roughly 8.5 million systems were affected worldwide (Baladari, 2025). Post-incident analyses pointed to weaknesses in the operational layer, including limited validation pathways for rapid content updates, lack of staged rollout controls, and limited mechanisms to halt deployment after failures began to emerge (Baladari, 2025).</p>
+
+<p>The important point is not that governance was absent. It is that governance did not extend far enough into the operational decisions that mattered: who could pause a deployment, at what threshold, and with what authority. Measures that might have reduced this risk include staged rollout through canary deployment, automated monitoring tied to defined pause thresholds, equivalent validation standards for rapid content updates and full sensor releases, and an explicitly designated role with authority to suspend deployment.</p>
 <br />
 
 ---
 
-### What This Looks Like in Healthcare
-<p>Healthcare makes infrastructure visible because oversight, organizational readiness, and data governance directly affect whether technical systems become acceptable in practice (Kerasidou, Nong, Hogg).</p>
+### Workflow fit determines whether trust becomes use
+<p>AI systems enter existing workflows, and those workflows shape whether trust translates into safe and appropriate use or creates operational friction and accountability gaps. Different groups encounter the same system from different positions, with different responsibilities and different exposure to risk (Vo et al., 2023).</p>
+
+<p>CrowdStrike illustrates this at the organizational level. Customers operating critical infrastructure had little visibility into the deployment process and limited opportunity to intervene before the update reached production systems. The people closest to operational risk were structurally separated from the people making deployment decisions. That gap between where risk was experienced and where decisions were made was a workflow design issue, not only a technical one.</p>
+
+<p>A similar gap appeared in the deployment of COVID-19 clinical models. Model developers and clinical teams were often not the same people, and the institutional processes linking them were frequently underdeveloped. In many cases, developers were not required to demonstrate validation against local patient populations before clinical adoption. As a result, the people most familiar with model limitations were not necessarily the people deciding whether the models should be used. In both cases, the separation between risk proximity and decision authority contributed to the same general problem, although at different speeds and in different domains.</p>
+
+<p>Trust therefore has to be built for multiple actors at once: users relying on the system, operators monitoring it, and decision-makers accountable when it fails. Designing for one while leaving the others structurally underinformed creates governance gaps that often become visible only when something goes wrong.</p>
 <br />
 
 ---
 
-### What Infrastructure Actually Builds Trust
-<p>Trust is built through governance functions, stewardship, accountability, and credible operating arrangements (O’Doherty, OECD).</p>
+### Healthcare makes the infrastructure problem harder to ignore
+<p>Healthcare makes this problem especially visible because organizational failures have direct clinical consequences. Trust in healthcare AI depends not only on technical performance but also on training, workflow integration, legal accountability, and organizational readiness (Steerling et al., 2023).</p>
+
+<p>A BMJ systematic review of AI prediction models used during COVID-19 found that all models assessed had a high risk of bias, with common problems including inadequate sample sizes, poor handling of missing data, and insufficient external validation (Wynants et al., 2020). The review focuses on the quality of published models, but it also indicates that many models entered clinical use without the validation standards needed to support appropriate trust in practice. In those conditions, clinicians had limited basis for knowing when model outputs could be relied on and when they could not, because external validation requirements, outcome monitoring, and defined deployment thresholds were not consistently in place.</p>
+
+<p>The underlying pattern is similar to the CrowdStrike case. In both situations, systems were used with a level of trust that was not fully supported by the surrounding organizational conditions. In software infrastructure, weaknesses in operational governance produced a rapid and highly visible failure. In healthcare, the effects were less immediate and more distributed, emerging across many clinical decisions rather than through a single identifiable event.</p>
 <br />
 
 ---
 
-### Implications for Builders and Institutions
-<p>Trustworthy high-stakes systems require more than strong models: they need evaluation pathways, oversight bodies, governance routines, data stewardship, and implementation support. </p>
+### What AI teams and institutions should do differently
+<p>If trust depends on infrastructure, improving it requires more than changes to the model or the policy framework. It also depends on the organizational conditions that support reliable use in practice, including governance that functions during real operations, workflows that reflect how decisions are made, and clear accountability when conditions change or systems fail.</p>
+
+<p>For AI teams and institutions, the CrowdStrike and COVID-19 cases suggest four practical areas of focus:</p>
+<ul>
+  <li><b>Deployment governance in real time:</b> define who has authority to pause or suspend a system during deployment, at what threshold, and independent of product or commercial pressure.</li>
+  <li><b>Staged rollout as standard practice:</b> limit initial exposure to environments where the system has been most thoroughly validated, and expand only when monitoring shows expected performance in each new context.</li>
+  <li><b>Validation as an entry condition, not a retrospective exercise:</b> require evidence of performance in the specific population or environment where the system will be used before deployment.</li>
+  <li><b>Post-deployment monitoring with defined intervention triggers:</b> establish what deviation from expected performance requires review, pause, or withdrawal, and assign that decision to a named role before the system goes live.</li>
+</ul>
 <br />
 
----
-
-### One Pattern From Practice
-<p>xxx</p>
-<br />
-
----
-
-### Closing Takeaway
-<p>In high-stakes systems, trust is not a feature that can be claimed at launch. It is an infrastructural achievement that has to be built, maintained, and demonstrated over time. </p>
-<br />
+<p>These are issues of organizational design rather than model quality alone. In the CrowdStrike case, the central weakness was not the model itself but the surrounding operational controls. In the COVID-19 prediction model case, the main concern was not that every model failed in the same way, but that deployment often outpaced the validation and governance needed to support appropriate use. In both settings, the limiting factor was the absence of infrastructure needed to support trust that was well-founded, durable, and appropriately constrained. That organizational layer is part of what Responsible AI teams need to address.</p>
 
 ---
 
 ### References
 <div class="references">
-  <p>Hogg, H. D. J., Al-Zubaidy, M., Technology Enhanced Macular Services Study Reference Group, Talks, J., Denniston, A. K., Kelly, C. J., Malawana, J., Papoutsi, C., Teare, M. D., Keane, P. A., Beyer, F. R., &amp; Maniatopoulos, G. (2023). Stakeholder perspectives of clinical artificial intelligence implementation: Systematic review of qualitative evidence. <em>Journal of Medical Internet Research, 25</em>, e39742.</p>
+  <p>Afroogh, S., Akbari, A., Malone, E., Kargar, M., & Alambeigi, H. (2024). Trust in AI: progress, challenges, and future directions. Humanities and Social Sciences Communications, 11, 1568. https://doi.org/10.1057/s41599-024-04044-8</p>
 
-  <p>Kerasidou, A., &amp; Kerasidou, C. (2023). Data-driven research and healthcare: Public trust, data governance and the NHS. <em>BMC Medical Ethics, 24</em>(1), Article 51.</p>
+  <p>Baladari, V. (2025). Unraveling the 2024 CrowdStrike incident: How a security patch led to global system failure and Blue Screen of Death. International Journal of Advanced Research in Science, Communication and Technology, 5(8), 171–177. https://doi.org/10.48175/IJARSCT-24524</p>
 
-  <p>Milne, R., Morley, K. I., Almarri, M. A., Anwer, S., Bianco, E., Carinci, F., Cubitt, J., et al. (2021). Demonstrating trustworthiness when collecting and sharing genomic data: Public views across 22 countries. <em>Genome Medicine, 13</em>(1), Article 92.</p>
+  <p>Steerling, E., Siira, E., Nilsen, P., Svedberg, P., & Nygren, J. (2023). Implementing AI in healthcare — the relevance of trust: A scoping review. Frontiers in Health Services, 3, 1211150. https://doi.org/10.3389/frhs.2023.1211150</p>
 
-  <p>Nong, P., Hamasha, L., Qureshi, R., et al. (2024). How academic medical centers govern AI prediction tools in the context of uncertainty and evolving regulation. <em>NEJM AI, 1</em>(3), AIp2300048.</p>
+  <p>Vo, V., Chen, G., Aquino, Y. S. J., Carter, S. M., Do, Q. N., & Woode, M. E. (2023). Multi-stakeholder preferences for the use of artificial intelligence in healthcare: A systematic review and thematic analysis. Social Science & Medicine, 338, 116357. https://doi.org/10.1016/j.socscimed.2023.116357</p>
 
-  <p>O’Doherty, K. C., Shabani, M., Dove, E. S., Bentzen, H. B., Borry, P., Burgess, M. M., Chalmers, D., De Vries, J., Eckstein, L., Fullerton, S. M., Juengst, E., Kato, K., Kaye, J., Knoppers, B. M., Koenig, B. A., Manson, S. M., McGrail, K. M., McGuire, A. L., Meslin, E. M., ... Burke, W. (2021). Toward better governance of human genomic data. <em>Nature Genetics, 53</em>(1), 2–8.</p>
-
-  <p>Organisation for Economic Co-operation and Development. (2023). <em>Data stewardship, access, sharing and control</em>. OECD.</p>
+  <p>Wynants, L., Van Calster, B., Collins, G. S., Riley, R. D., Heinze, G., Schuit, E., Bonten, M. M. J., Dahly, D. L., Damen, J. A. A., Debray, T. P. A., De Vos, M., Dhiman, P., Haller, M. C., Harhay, M. O., Henckaerts, L., Heus, P., Kreuzberger, N., Lohmann, A., Luijken, K., … Van Smeden, M. (2020). Prediction models for diagnosis and prognosis of COVID-19: Systematic review and critical appraisal. BMJ, 369, m1328. https://doi.org/10.1136/bmj.m1328</p>
 </div>
