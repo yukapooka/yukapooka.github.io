@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trust as Infrastructure: What Organizational Conditions Make AI Trust Possible
+title: Trust as Infrastructure - What Organizational Conditions Make AI Trust Possible
 date: 2026-04-01
 #tags: responsible_ai
 categories: healthcare trust infrastructure governance
