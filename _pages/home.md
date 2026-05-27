@@ -196,7 +196,7 @@ social: false # includes social icons at the bottom of the page
 ">
 
   <!-- CARD 1 -->
-  <a href="/posts/2026-03-01-responsible-AI-post/" style="
+  <a href="https://yukapooka.github.io/blog/2026/responsible-AI-post/" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -232,7 +232,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 2 -->
-  <a href="/posts/2026-04-01-trust-infrastructure-problem-post/" style="
+  <a href="https://yukapooka.github.io/blog/2026/trust-infrastructure-problem-post/" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -268,7 +268,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 3 -->
-  <a href="/posts/2026-05-01-decision-context-post/" style="
+  <a href="https://yukapooka.github.io/blog/2026/decision-context-post/" style="
     display: block;
     width: 23%;
     min-width: 240px;
