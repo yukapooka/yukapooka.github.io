@@ -23,15 +23,15 @@ related_posts: false
 ---
 
 ### Opening Tension
-<p>Responsible AI is often discussed as if the main challenge lies inside the model: make it fairer, more transparent, more explainable, and better governed. But important failures often emerge later, when people interpret AI outputs, trust them too much, dismiss them too quickly, or use them outside the conditions they were designed for (Dietvorst et al., 2015; Logg et al., 2019). Responsible AI is therefore not only a technical or policy problem. It is also a human behavior problem.</p>
+<p>Responsible AI is often framed as a problem inside the model: make it fairer, more transparent, more explainable, and better governed. But many important failures emerge later, in use — when people interpret outputs too confidently, dismiss them too quickly, or extend them beyond the conditions they were designed for (Dietvorst et al., 2015; Logg et al., 2019). Responsible AI is therefore not only a technical or policy problem. It is also a behavioral one.</p>
 
-<p>Two examples clarify this. Tesla Autopilot shows how trust built in routine conditions can extend beyond the system’s actual limits. Diagnostic radiology AI shows that uncertainty communication, not just model accuracy, shapes whether people rely on a system appropriately.</p>
+<p>Two examples make this easier to see. Tesla Autopilot shows how trust built under routine conditions can travel beyond the system’s actual limits. Diagnostic radiology AI shows that uncertainty communication, not just model accuracy, shapes whether reliance is appropriate.</p>
 <br />
 
 ---
 
 ### The technical frame is incomplete
-<p>Responsible AI discussions often center on fairness, transparency, explainability, and governance. These are necessary, but they do not fully explain what happens once a system enters practice. What is often missing is the behavioral layer: how people interpret outputs, when they defer to them, when they override them, and when they assume the system is more general than it is. A model can perform well on paper and still produce poor outcomes if users misunderstand what it is for. Governance matters too, but a policy cannot guarantee good judgment in the moment. Real-world use is shaped by framing, habits, incentives, and context.</p>
+<p>Responsible AI discussions often center on fairness, transparency, explainability, and governance. Those are necessary, but they do not fully explain what happens once a system enters practice. What is often missing is the behavioral layer: how people interpret outputs, when they defer to them, when they override them, and when they treat the system as more general than it is. A model can perform well on paper and still produce poor outcomes if users misunderstand what it is for. Governance matters too, but a policy cannot guarantee good judgment in the moment. Real-world use is shaped by framing, habits, incentives, and context.</p>
 <br />
 
 ---
@@ -39,7 +39,7 @@ related_posts: false
 ### People do not respond to AI in one stable way
 <p>The evidence does not support a simple story of people either trusting or distrusting AI. People may reject algorithmic advice after seeing it make a mistake, yet in other settings prefer algorithmic judgment over human judgment (Dietvorst et al., 2015; Logg et al., 2019). The more useful question is not whether users trust AI, but whether their reliance is calibrated to the task.</p>
 
-<p>Tesla Autopilot illustrates one direction of miscalibration: overtrust, where confidence in the system exceeds what it warrants, encouraging overreliance and reduced monitoring (Nordhoff et al., 2023). Interview findings suggest that users often shift into more passive, passenger-like roles when Autopilot performs reliably, taking on secondary tasks and treating the system as more capable than it is. Nordhoff and colleagues also note that the name “Autopilot” itself can raise expectations of autonomy beyond what the system actually provides.</p>
+<p>Tesla Autopilot illustrates one direction of miscalibration: overtrust, where confidence in the system exceeds what it warrants and monitoring falls away (Nordhoff et al., 2023). Interview findings suggest that users often shift into more passive, passenger-like roles when Autopilot performs reliably, taking on secondary tasks and treating the system as more capable than it is. Nordhoff and colleagues also note that the name “Autopilot” itself can raise expectations of autonomy beyond what the system actually provides. This is what makes the case useful: the problem is not only behavioral. It also sits in the product framing.</p>
 
 <p>Miscalibration cuts both ways. Overreliance can lead users to miss warning signs or fail to notice when a system is out of scope. Underreliance can lead them to ignore useful advice or fail to benefit from a system that outperforms unaided judgment. The goal is not more trust. It is calibrated reliance: enough confidence to use the system well, and enough skepticism to question it when context requires it (Logg et al., 2019).</p>
 <br />
@@ -47,9 +47,9 @@ related_posts: false
 ---
 
 ### Uncertainty changes the problem
-<p>When AI outputs are probabilistic or context-sensitive, users still have to decide how much weight to give them. In these settings, uncertainty communication is not a cosmetic feature; it shapes whether reliance is appropriate (Tomsett et al., 2020).</p>
+<p>When AI outputs are probabilistic or context-sensitive, users still have to decide how much weight to give them. In these settings, uncertainty communication is not a cosmetic feature; it helps shape whether reliance is appropriate (Tomsett et al., 2020).</p>
 
-<p>Diagnostic radiology AI illustrates this clearly. Experimental work in mammography shows that radiologists can exhibit automation bias when AI suggestions are wrong. Both inexperienced and highly experienced radiologists were significantly more likely to assign incorrect BI-RADS categories when an AI system provided incorrect labels (Dratsch et al., 2023). When AI outputs are treated as definitive and uncertainty is not visible, users are more likely to follow plausible but incorrect advice. Trust calibration research suggests that making confidence information and system limitations more explicit can support more selective reliance (Tomsett et al., 2020). Taken together, the evidence suggests that interfaces communicating uncertainty are more likely to support calibrated use.</p>
+<p>Diagnostic radiology AI makes this visible in a different way. Experimental work in mammography shows that radiologists can exhibit automation bias when AI suggestions are wrong. Both inexperienced and highly experienced radiologists were significantly more likely to assign incorrect BI-RADS categories when an AI system provided incorrect labels (Dratsch et al., 2023). When outputs are presented as if they are definitive and uncertainty is not visible, users are more likely to follow plausible but incorrect advice. Trust calibration research suggests that making confidence information and system limitations more explicit can support more selective reliance (Tomsett et al., 2020). Taken together, the evidence points in the same direction: interfaces that communicate uncertainty more clearly are more likely to support calibrated use.</p>
 
 <p>This shifts the design problem. AI outputs often require interpretation, not just execution. In high-stakes settings, the practical question is not whether a prediction is elegant, but whether it should be acted on. That depends not only on model quality, but on how the output is framed and understood.</p>
 
@@ -60,7 +60,7 @@ related_posts: false
 ### The same pattern appears wherever stakes are high and decisions are consequential
 <p>Healthcare is useful here because the stakes are high, uncertainty is common, and decisions are rarely made from model outputs alone. Reviews of AI implementation show that trust depends not only on technical performance but also on workflow fit, training, and accountability structures (Steerling et al., 2023; Vo et al., 2023).</p>
 
-<p>The radiology example makes the behavioral layer concrete. A system can be accurate on average and still contribute to poor decisions if the interface does not communicate its limits or make uncertainty and failure modes visible (Dratsch et al., 2023). Conversely, an imperfect system can still be used well if its strengths and limitations are clearly communicated and users know when to rely on it and when not to (Tomsett et al., 2020).</p>
+<p>The radiology example makes the behavioral layer concrete. A system can be accurate on average and still contribute to poor decisions if the interface does not communicate its limits or make uncertainty and failure modes visible (Dratsch et al., 2023). Conversely, an imperfect system can still be used well if its strengths and limitations are clear and users know when to rely on it and when not to (Tomsett et al., 2020).</p>
 
 <p>This pattern is not unique to healthcare, though it should not be generalized too broadly. The radiology findings come from a specialized professional setting with trained users, formal accountability, and structured feedback. Similar dynamics are likely in other high-stakes expert settings, such as legal review, financial analysis, and infrastructure monitoring. Whether the same mechanisms apply in lower-stakes consumer settings is a separate question. Healthcare does not establish a universal claim, but it shows the pattern clearly in one important class of decisions.</p>
 <br />

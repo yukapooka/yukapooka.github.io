@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In High-Stakes Systems, Trust Is an Infrastructure Problem
+title: Trust as Infrastructure: What Organizational Conditions Make AI Trust Possible
 date: 2026-04-01
 #tags: responsible_ai
 categories: healthcare trust infrastructure governance
@@ -22,47 +22,56 @@ related_posts: false
 <br />
 
 ---
-<br />
 
 ### Opening Tension
-<p>High-stakes systems are often judged first by whether they work. But in practice, trust depends on more than technical performance. It depends on whether the surrounding infrastructure makes the system governable, accountable, and dependable over time.</p>
+<p>In high-stakes systems, trust is often treated as a confidence problem: if performance is demonstrated clearly enough and communication is effective enough, adoption will follow. But confidence in a system is not the same as the conditions that make its use reliable in practice. In these settings, trust depends not only on technical performance but also on governance, workflow design, accountability, and monitoring (Steerling et al., 2023; Afroogh et al., 2024).</p>
+
+<p>Two examples make this visible. CrowdStrike’s global outage in July 2024 shows the effects of a gap between formal and operational governance in a widely deployed AI-enabled system. The deployment of clinical prediction models during COVID-19 shows a similar pattern in healthcare, distributed across many clinical decisions rather than concentrated in a single event.</p>
 <br />
 
+---
 
-### Why Trust Breaks in High-Stakes Systems
-<p>Trust breaks when institutions cannot clearly explain evaluation standards, accountability, data handling, or post-deployment oversight.</p>
+### Trust is not a standalone variable
+<p>The relevant question is not simply whether people trust an AI system, but whether that trust is appropriate to the system’s actual capabilities and limits in use. This depends on whether users understand what the system can do reliably, how durable that understanding remains over time, and where independent judgment is still needed. Too little trust can limit adoption, while too much can lead to overreliance. The aim is not to maximize trust, but to align it with what the organization has made dependable in practice. That alignment depends on conditions beyond the model itself, including workflow, governance, and operational support.</p>
 <br />
 
+---
 
 ### What the Evidence Shows
 <p>Trust in high-stakes settings depends on governance, implementation capacity, and demonstrated trustworthiness rather than claims alone (Milne, O’Doherty, Hogg).</p>
 <br />
 
+---
 
 ### What This Looks Like in Healthcare
 <p>Healthcare makes infrastructure visible because oversight, organizational readiness, and data governance directly affect whether technical systems become acceptable in practice (Kerasidou, Nong, Hogg).</p>
 <br />
 
+---
 
 ### What Infrastructure Actually Builds Trust
 <p>Trust is built through governance functions, stewardship, accountability, and credible operating arrangements (O’Doherty, OECD).</p>
 <br />
 
+---
 
 ### Implications for Builders and Institutions
 <p>Trustworthy high-stakes systems require more than strong models: they need evaluation pathways, oversight bodies, governance routines, data stewardship, and implementation support. </p>
 <br />
 
+---
 
 ### One Pattern From Practice
 <p>xxx</p>
 <br />
 
+---
 
 ### Closing Takeaway
 <p>In high-stakes systems, trust is not a feature that can be claimed at launch. It is an infrastructural achievement that has to be built, maintained, and demonstrated over time. </p>
 <br />
 
+---
 
 ### References
 <div class="references">
