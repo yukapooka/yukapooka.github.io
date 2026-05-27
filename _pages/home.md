@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 <h4>Featured Case Studies</h4>
 
-<p>Selected case studies across systems and platforms, decision environments, and risk-driven execution.</p>
+<p>Selected case studies from my work experience spanning systems and platforms, decision environments, and risk-driven execution.</p>
 <p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
 
 
@@ -185,9 +185,126 @@ social: false # includes social icons at the bottom of the page
 <h4>Selected Writing</h4>
 
 
-<p><b>To be updated</b></p>
+<p><b>Selected essays on responsible AI, trust, human judgment, and product strategy in high-stakes systems.</b></p>
 
 <p><a href="https://yukapooka.github.io/writings/index.html"> View Writing</a></p>
+<div style="
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 32px;
+">
+
+  <!-- CARD 1 -->
+  <a href="/2026-03-01-responsible-AI-post/" style="
+    display: block;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.25s ease;
+  "
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/internal_analytics.jpg" style="width:100%; height:100%; object-fit:cover;">
+    </div>
+
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
+        Systems
+      </div>
+
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
+        Internal Analytics Platform
+      </h3>
+
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
+        Standardized a fragmented analytics workflow.
+      </p>
+    </div>
+  </a>
+
+
+  <!-- CARD 2 -->
+  <a href="/posts/2026-04-01-trust-infrastructure-problem-post/" style="
+    display: block;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.25s ease;
+  "
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/computational_buildout.jpg" style="width:100%; height:100%; object-fit:cover;">
+    </div>
+
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
+        Systems
+      </div>
+
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
+        Computational Capability Buildout
+      </h3>
+
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
+        Built the tooling and infrastructure foundations for a new computational program.
+      </p>
+    </div>
+  </a>
+
+
+  <!-- CARD 3 -->
+  <a href="/posts/2026-05-01-decision-context-post/" style="
+    display: block;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.25s ease;
+  "
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/oncology_decision.jpg" style="width:100%; height:100%; object-fit:cover;">
+    </div>
+
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
+        Decision
+      </div>
+
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
+        Oncology Decision Support
+      </h3>
+
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
+        Explored how outputs and workflows shape interpretation in oncology care.
+      </p>
+    </div>
+  </a>
+
+</div>
+
+
 <br />
 
 ---
