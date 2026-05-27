@@ -79,7 +79,6 @@ related_posts: false
   <li><b>Validation as an entry condition, not a retrospective exercise:</b> require evidence of performance in the specific population or environment where the system will be used before deployment.</li>
   <li><b>Post-deployment monitoring with defined intervention triggers:</b> establish what deviation from expected performance requires review, pause, or withdrawal, and assign that decision to a named role before the system goes live.</li>
 </ul>
-<br />
 
 <p>These are issues of organizational design rather than model quality alone. In the CrowdStrike case, the central weakness was not the model itself but the surrounding operational controls. In the COVID-19 prediction model case, the main concern was not that every model failed in the same way, but that deployment often outpaced the validation and governance needed to support appropriate use. In both settings, the limiting factor was the absence of infrastructure needed to support trust that was well-founded, durable, and appropriately constrained. That organizational layer is part of what Responsible AI teams need to address.</p>
 
