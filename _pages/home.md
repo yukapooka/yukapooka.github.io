@@ -196,7 +196,7 @@ social: false # includes social icons at the bottom of the page
 ">
 
   <!-- CARD 1 -->
-  <a href="/2026-03-01-responsible-AI-post/" style="
+  <a href="/posts/2026-03-01-responsible-AI-post/" style="
     display: block;
     width: 23%;
     min-width: 240px;
