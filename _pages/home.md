@@ -217,7 +217,7 @@ social: false # includes social icons at the bottom of the page
 
     <div style="padding: 16px;">
       <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
-        Responsible AI
+        Human Behavior
       </div>
 
       <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
@@ -253,7 +253,7 @@ social: false # includes social icons at the bottom of the page
 
     <div style="padding: 16px;">
       <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
-        Governance
+        Trust
       </div>
 
       <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
