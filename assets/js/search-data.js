@@ -122,7 +122,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-aifit",
           title: 'AIFit',
-          description: "A human-in-the-loop product decision tool for evaluating whether an AI feature should be built, narrowed, prototyped or avoided.",
+          description: "A human-in-the-loop product decision tool for evaluating whether an AI feature should be built, narrowed, prototyped, or avoided.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aifit/";
             },},{id: "teachings-data-science-fundamentals",
