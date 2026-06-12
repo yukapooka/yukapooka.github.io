@@ -28,7 +28,7 @@ social: false # includes social icons at the bottom of the page
   margin-top: 32px;
 ">
 
-  <a href="/_projects/aifit/" style="
+  <a href="/projects/aifit/" style="
     display: block;
     width: 23%;
     min-width: 240px;
