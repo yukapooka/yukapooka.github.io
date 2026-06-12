@@ -25,8 +25,7 @@ social: false # includes social icons at the bottom of the page
   color: #8aa0b5;
   margin-bottom: 24px;
 ">
-  Self-initiated product experiments exploring AI workflows,
-  decision systems, and responsible AI tooling.
+  Self-initiated projects exploring AI product strategy,decision systems, and responsible AI.
 </p>
 
 <div style="
