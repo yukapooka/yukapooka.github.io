@@ -60,9 +60,9 @@ related_publications: false
 ---
 <h4>Key Design Decisions</h4>
 <h5>Risk-specific Evaluation</h5>
-AIFit identifies a dominant risk type and adapts review and validation guidance accordingly.
+<p>AIFit identifies a dominant risk type and adapts review and validation guidance accordingly. </p>
 
-Examples of risk types include:
+<p>Examples of risk types include:</p>
 <ul>
     <li>False Validation</li>
     <li>Emotional Vulnerability</li>
@@ -71,14 +71,17 @@ Examples of risk types include:
     <li>Privacy / Data Sensitivity</li>
 </ul>    
 
+<h5>Structured outputs instead of free-form advice</h5>
+<p>AIFit breaks the evaluation into specific fields such as risk type, risk themes, review package, validation method, metrics, move-forward criteria, and stop/redesign signals. This makes the output easier to inspect, compare, and challenge.</p>
+
 <h5>Human-in-the-loop By Default</h5>
-The tool generates recommendations, but all outputs are framed as decision support rather than automated decisions.
+<p>The tool generates recommendations, but all outputs are framed as decision support rather than automated decisions. Product, domain, legal, policy, or compliance experts remain responsible for reviewing outputs before launch decisions.</p>
 
 <h5>Explainable Outputs</h5>
 <p>AIFit provides:</p>
 <ul>
-    <li><b>Risk classification</b> – Identifies the dominant product risk that should guide evaluation and governance, e.g. False validation.</li>
-    <li><b>Risk themes</b> – Highlights the specific failure modes or concerns associated with the feature, e.g. Unsupported claims, overconfidence.</li>
+    <li><b>Risk classification</b> – Identifies the dominant product risk that should guide evaluation and governance.</li>
+    <li><b>Risk themes</b> – Highlights the specific failure modes or concerns associated with the feature.</li>
     <li><b>Risk rationale</b> – Explains why the feature was assigned a particular risk classification.</li>
     <li><b>Review workflows</b> – Recommends who should review the feature, what artifacts to inspect, and when review should occur.</li>
     <li><b>Validation workflows</b> – Suggests how the feature should be tested, what scenarios should be covered, and what evidence is needed before launch.</li>
