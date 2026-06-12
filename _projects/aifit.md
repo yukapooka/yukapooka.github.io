@@ -54,14 +54,14 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    AIFit transforms an AI feature idea into a risk-aware decision-support report through structured evaluation, risk-specific guidance, and human review planning.
+    System flow from feature idea to risk-aware decision report.
 </div>
 <br />
 
 ---
 <h4>Key Design Decisions</h4>
 <h5>(i) Risk-specific Evaluation</h5>
-<p>AIFit identifies a dominant risk type and adapts review and validation guidance accordingly. </p>
+<p>AIFit identifies a dominant risk type and adapts review and validation guidance accordingly.</p>
 Examples of risk types include:
 <ul>
     <li>False Validation</li>
@@ -102,7 +102,7 @@ Examples of risk types include:
     </div>
 </div>
 <div class="caption">
-    AIFit generates a recommendation, Build Readiness score, risk classification, and rationale.
+    Evaluation summary showing recommendation, scoring, and risk classification.
 </div>
 <br />
 
@@ -115,7 +115,7 @@ Examples of risk types include:
     </div>
 </div>
 <div class="caption">
-    AIFit separates useful product scope from risky implementation patterns.
+    Defines useful scope and risky build patterns.
 </div>
 <br />
 
@@ -128,7 +128,7 @@ Examples of risk types include:
     </div>
 </div>
 <div class="caption">
-    AIFit specifies who should review the AI output, what artifacts to inspect, and what authority reviewers have.
+    Human review workflow generated for the selected risk type.
 </div>
 <br />
 
@@ -141,7 +141,7 @@ Examples of risk types include:
     </div>
 </div>
 <div class="caption">
-    AIFit helps teams define how the feature should be tested, what scenarios to include, what metrics to track, and when to move forward or redesign.
+    Validation workflow generated for the selected risk type.
 </div>
 <br />
 
@@ -190,7 +190,7 @@ Examples of risk types include:
 </ul>
 
 <p><a href="https://www.linkedin.com/in/suzukiyuka/">Launch AIFit -> </a></p>
-
+<br />
 <h5>GitHub Repository</h5>
 <p>Explore the source code, system architecture and implementation details:</p>
 
