@@ -19,7 +19,12 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-<h4>Featured Project</h4>
+<h4>Featured Projects</h4>
+<p style="color:#cfd6dd; max-width:720px; margin-bottom:24px;">
+
+  Self-initiated product experiments exploring AI workflows, decision systems, and responsible AI tooling.
+
+</p>
 
 <div style="
   display: flex;
@@ -30,7 +35,7 @@ social: false # includes social icons at the bottom of the page
 
   <a href="https://yukapooka.github.io/projects/aifit" style="
     display: block;
-    width: 23%;
+    width: 40%;
     min-width: 240px;
     background: #f8fafc;
     border-radius: 16px;
