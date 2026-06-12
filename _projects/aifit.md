@@ -61,7 +61,6 @@ related_publications: false
 <h4>Key Design Decisions</h4>
 <h5>Risk-specific Evaluation</h5>
 <p>AIFit identifies a dominant risk type and adapts review and validation guidance accordingly. </p>
-
 <p>Examples of risk types include:</p>
 <ul>
     <li>False Validation</li>
@@ -71,11 +70,14 @@ related_publications: false
     <li>Privacy / Data Sensitivity</li>
 </ul>    
 
+
 <h5>Structured outputs instead of free-form advice</h5>
 <p>AIFit breaks the evaluation into specific fields such as risk type, risk themes, review package, validation method, metrics, move-forward criteria, and stop/redesign signals. This makes the output easier to inspect, compare, and challenge.</p>
 
+
 <h5>Human-in-the-loop By Default</h5>
 <p>The tool generates recommendations, but all outputs are framed as decision support rather than automated decisions. Product, domain, legal, policy, or compliance experts remain responsible for reviewing outputs before launch decisions.</p>
+
 
 <h5>Explainable Outputs</h5>
 <p>AIFit provides:</p>
