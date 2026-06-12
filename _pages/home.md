@@ -20,10 +20,13 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <h4>Featured Projects</h4>
-<p style="color:#cfd6dd; max-width:720px; margin-bottom:24px;">
-
-  Self-initiated product experiments exploring AI workflows, decision systems, and responsible AI tooling.
-
+<p style="
+  max-width: 720px;
+  color: #8aa0b5;
+  margin-bottom: 24px;
+">
+  Self-initiated product experiments exploring AI workflows,
+  decision systems, and responsible AI tooling.
 </p>
 
 <div style="
