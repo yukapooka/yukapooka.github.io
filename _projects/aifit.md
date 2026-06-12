@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIFit
-description: A human-in-the-loop product decision tool for evaluating whether an AI feature should be built, narrowed, prototyped or avoided.
+description: A human-in-the-loop product decision tool for evaluating whether an AI feature should be built, narrowed, prototyped, or avoided.
 img: assets/img/aifit.png
 related_publications: false
 
@@ -35,12 +35,12 @@ related_publications: false
     <li>how the feature should be validated.</li>
 </ul>
 
-<p>I build AIFit to explore a more systematic approach to evaluating new AI product features.</p>
+<p>I built AIFit to explore a more systematic approach to evaluating new AI product features.</p>
 <br />
 
 ---
 <h4>The Solution - AIFit</h4>
-<p>AIFit combines structured feature inputs, risk-specific guidance, and LLM evaluation to generate a decision support tool.</p>
+<p>AIFit combines structured feature inputs, risk-specific guidance, and LLM evaluation to generate a decision-support tool.</p>
 
 <p>The goal is not to automate product decisions, but to help teams ask better questions before committing resources.</p>
 <br />
@@ -61,7 +61,7 @@ related_publications: false
 <h4>Key Design Decisions</h4>
 <h5>Risk-specific Evaluation</h5>
 <p>AIFit identifies a dominant risk type and adapts review and validation guidance accordingly. </p>
-<p>Examples of risk types include:</p>
+Examples of risk types include:
 <ul>
     <li>False Validation</li>
     <li>Emotional Vulnerability</li>
@@ -88,7 +88,7 @@ related_publications: false
     <li><b>Review workflows</b> – Recommends who should review the feature, what artifacts to inspect, and when review should occur.</li>
     <li><b>Validation workflows</b> – Suggests how the feature should be tested, what scenarios should be covered, and what evidence is needed before launch.</li>
 </ul>
-<p>to make recommendations easier to interpret and challenge.</p>
+<p>Together, these outputs make AIFit recommendations easier to interpret, review, and challenge.</p>
 <br />
 
 ---
@@ -96,7 +96,9 @@ related_publications: false
 <h5>Evaluation Summary Output</h5>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/evaluation_summary.png" class="img-fluid rounded z-depth-1" %}
+        <div style="width:80%; margin:0 auto;">
+            {% include figure.liquid loading="eager" path="assets/img/evaluation_summary.png" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -107,7 +109,9 @@ related_publications: false
 <h5>Build Boundaries Output</h5>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/what_to_build_not_build.png" class="img-fluid rounded z-depth-1" %}
+        <div style="width:80%; margin:0 auto;">
+            {% include figure.liquid loading="eager" path="assets/img/what_to_build_not_build.png" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -118,7 +122,9 @@ related_publications: false
 <h5>Human Review Workflow Output</h5>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/human_review_workflow.png" class="img-fluid rounded z-depth-1" %}
+        <div style="width:80%; margin:0 auto;">
+            {% include figure.liquid loading="eager" path="assets/img/human_review_workflow.png" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -129,7 +135,9 @@ related_publications: false
 <h5>Validation Workflow Output</h5>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/validation_workflow.png" class="img-fluid rounded z-depth-1" %}
+        <div style="width:80%; margin:0 auto;">
+            {% include figure.liquid loading="eager" path="assets/img/validation_workflow.png" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -167,7 +175,7 @@ related_publications: false
     <li>Python</li>
     <li>Streamlit</li>
     <li>OpenRouter</li>
-    <li>Github</li>
+    <li>GitHub</li>
     <li>Streamlit Community Cloud</li>
 </ul>
 <br />
@@ -183,7 +191,7 @@ related_publications: false
 
 <p><a href="https://www.linkedin.com/in/suzukiyuka/">Launch AIFit -> </a></p>
 
-<h5>Github Repository</h5>
+<h5>GitHub Repository</h5>
 <p>Explore the source code, system architecture and implementation details:</p>
 
 <p><a href="https://github.com/yukapooka/ai-fit">View Repository -> </a></p>
