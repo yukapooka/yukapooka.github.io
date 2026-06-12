@@ -41,7 +41,6 @@ related_publications: false
 ---
 <h4>The Solution - AIFit</h4>
 <p>AIFit combines structured feature inputs, risk-specific guidance, and LLM evaluation to generate a decision-support tool.</p>
-
 <p>The goal is not to automate product decisions, but to help teams ask better questions before committing resources.</p>
 <br />
 
@@ -49,7 +48,7 @@ related_publications: false
 <h4>System Architecture</h4>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <div style="width:80%; margin:0 auto;">
+        <div style="width:70%; margin:0 auto;">
             {% include figure.liquid loading="eager" path="assets/img/AIFit_System_Flow.png" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
@@ -61,7 +60,7 @@ related_publications: false
 
 ---
 <h4>Key Design Decisions</h4>
-<h5>Risk-specific Evaluation</h5>
+<h5>(i) Risk-specific Evaluation</h5>
 <p>AIFit identifies a dominant risk type and adapts review and validation guidance accordingly. </p>
 Examples of risk types include:
 <ul>
@@ -72,16 +71,13 @@ Examples of risk types include:
     <li>Privacy / Data Sensitivity</li>
 </ul>    
 <br />
-
-<h5>Structured outputs instead of free-form advice</h5>
+<h5>(ii) Structured outputs instead of free-form advice</h5>
 <p>AIFit breaks the evaluation into specific fields such as risk type, risk themes, review package, validation method, metrics, move-forward criteria, and stop/redesign signals. This makes the output easier to inspect, compare, and challenge.</p>
 <br />
-
-<h5>Human-in-the-loop By Default</h5>
+<h5>(iii) Human-in-the-loop By Default</h5>
 <p>The tool generates recommendations, but all outputs are framed as decision support rather than automated decisions. Product, domain, legal, policy, or compliance experts remain responsible for reviewing outputs before launch decisions.</p>
 <br />
-
-<h5>Explainable Outputs</h5>
+<h5>(iv) Explainable Outputs</h5>
 <p>AIFit provides:</p>
 <ul>
     <li><b>Risk classification</b> – Identifies the dominant product risk that should guide evaluation and governance.</li>
