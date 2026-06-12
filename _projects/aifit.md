@@ -49,7 +49,9 @@ related_publications: false
 <h4>System Architecture</h4>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/AIFit_System_Flow.png" class="img-fluid rounded z-depth-1" %}
+        <div style="width:80%; margin:0 auto;">
+            {% include figure.liquid loading="eager" path="assets/img/AIFit_System_Flow.png" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -69,15 +71,15 @@ Examples of risk types include:
     <li>Fairness / Bias</li>
     <li>Privacy / Data Sensitivity</li>
 </ul>    
-
+<br />
 
 <h5>Structured outputs instead of free-form advice</h5>
 <p>AIFit breaks the evaluation into specific fields such as risk type, risk themes, review package, validation method, metrics, move-forward criteria, and stop/redesign signals. This makes the output easier to inspect, compare, and challenge.</p>
-
+<br />
 
 <h5>Human-in-the-loop By Default</h5>
 <p>The tool generates recommendations, but all outputs are framed as decision support rather than automated decisions. Product, domain, legal, policy, or compliance experts remain responsible for reviewing outputs before launch decisions.</p>
-
+<br />
 
 <h5>Explainable Outputs</h5>
 <p>AIFit provides:</p>
@@ -88,6 +90,8 @@ Examples of risk types include:
     <li><b>Review workflows</b> – Recommends who should review the feature, what artifacts to inspect, and when review should occur.</li>
     <li><b>Validation workflows</b> – Suggests how the feature should be tested, what scenarios should be covered, and what evidence is needed before launch.</li>
 </ul>
+<br />
+
 <p>Together, these outputs make AIFit recommendations easier to interpret, review, and challenge.</p>
 <br />
 
