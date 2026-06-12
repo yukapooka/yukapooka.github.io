@@ -19,6 +19,88 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
+<h4>Featured Project</h4>
+
+<div style="
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 32px;
+">
+
+  <a href="/_projects/aifit/" style="
+    display: block;
+    width: 23%;
+    min-width: 240px;
+    background: #f8fafc;
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #2f3e4e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    transition: all 0.25s ease;
+  "
+  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 28px rgba(30,50,70,0.10)'"
+  onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+
+    <div style="aspect-ratio: 1 / 1; background: #eef3f8; overflow: hidden;">
+      <img src="/assets/img/aifit.png" style="width:100%; height:100%; object-fit:cover;">
+    </div>
+
+    <div style="padding: 16px;">
+      <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
+        A human-in-the-loop AI product decision tool.
+      </div>
+
+      <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
+        AIFit
+      </h3>
+
+      <p style="margin:0; font-size:13px; line-height:1.5; color:#6b7c8f;">
+        A framework for evaluating AI features before they are built.
+      </p>
+
+      <div style="
+        display:flex;
+        gap:8px;
+        margin-top:16px;
+        flex-wrap:wrap;
+      ">
+
+        <span onclick="event.preventDefault(); window.open('https://ai-fit.streamlit.app/', '_blank');" style="
+          padding:6px 12px;
+          border-radius:8px;
+          background:#4f7cac;
+          color:white;
+          font-size:12px;
+          text-decoration:none;
+          cursor:pointer;
+        ">
+          Live Demo
+        </span>
+
+        <span onclick="event.preventDefault(); window.open('https://github.com/yukapooka/ai-fit', '_blank');" style="
+          padding:6px 12px;
+          border-radius:8px;
+          background:#6b7c8f;
+          color:white;
+          font-size:12px;
+          text-decoration:none;
+          cursor:pointer;
+        ">
+          GitHub
+        </span>
+
+      </div>
+    </div>
+  </a>
+
+</div>
+
+<br />
+
+---
+
 <h4>Featured Case Studies</h4>
 
 <p>Selected case studies from my work experience spanning systems and platforms, decision environments, and risk-driven execution.</p>
@@ -33,7 +115,7 @@ social: false # includes social icons at the bottom of the page
 ">
 
   <!-- CARD 1 -->
-  <a href="/case_studies/1_project/" style="
+  <a href="/case_studies/1_case_study/" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -69,7 +151,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 2 -->
-  <a href="/case_studies/2_project/" style="
+  <a href="/case_studies/2_case_study/" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -105,7 +187,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 3 -->
-  <a href="/case_studies/3_project/" style="
+  <a href="/case_studies/3_case_study/" style="
     display: block;
     width: 23%;
     min-width: 240px;
@@ -141,7 +223,7 @@ social: false # includes social icons at the bottom of the page
 
 
   <!-- CARD 4 -->
-  <a href="/case_studies/4_project/" style="
+  <a href="/case_studies/4_case_study/" style="
     display: block;
     width: 23%;
     min-width: 240px;
