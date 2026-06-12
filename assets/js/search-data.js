@@ -86,22 +86,22 @@ ninja.data = [{
           title: 'Internal analytics platform',
           description: "From Fragmented Scripts to a Shared Platform - Building an Internal Analytics System for R&amp;D",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/1_project/";
+              window.location.href = "/case_studies/1_case_study/";
             },},{id: "case_studies-computational-capability-buildout",
           title: 'Computational capability buildout',
           description: "Building a Drug Discovery Platform from Zero",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/2_project/";
+              window.location.href = "/case_studies/2_case_study/";
             },},{id: "case_studies-product-risk-escalation",
           title: 'Product Risk Escalation',
           description: "Reframed an apparent one-off complaint into a broader product-risk question worth deeper evaluation.",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/3_project/";
+              window.location.href = "/case_studies/3_case_study/";
             },},{id: "case_studies-decision-design-across-the-oncology-care-pathway",
           title: 'Decision Design Across the Oncology Care Pathway',
           description: "Examined how diagnostic and monitoring systems influence interpretation, trust, and action across high-stakes oncology workflows.",
           section: "Case_studies",handler: () => {
-              window.location.href = "/case_studies/4_project/";
+              window.location.href = "/case_studies/4_case_study/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
