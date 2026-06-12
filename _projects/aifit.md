@@ -60,7 +60,7 @@ related_publications: false
 ---
 <h4>Key Design Decisions</h4>
 <h5>Risk-specific Evaluation</h5>
-AIFit identifies a dominant risk type and adpats review and validation guidance accordingly.
+AIFit identifies a dominant risk type and adapts review and validation guidance accordingly.
 
 Examples of risk types include:
 <ul>
@@ -75,13 +75,13 @@ Examples of risk types include:
 The tool generates recommendations, but all outputs are framed as decision support rather than automated decisions.
 
 <h5>Explainable Outputs</h5>
-AIFit provides:
+<p>AIFit provides:</p>
 <ul>
-    <li>Risk Classification</li>
-    <li>Risk Themes</li>
-    <li>Risk Rationale</li>
-    <li>Review Workflows</li>
-    <li>Validation Workflows</li>
+    <li><b>Risk classification</b> – Identifies the dominant product risk that should guide evaluation and governance, e.g. False validation.</li>
+    <li><b>Risk themes</b> – Highlights the specific failure modes or concerns associated with the feature, e.g. Unsupported claims, overconfidence.</li>
+    <li><b>Risk rationale</b> – Explains why the feature was assigned a particular risk classification.</li>
+    <li><b>Review workflows</b> – Recommends who should review the feature, what artifacts to inspect, and when review should occur.</li>
+    <li><b>Validation workflows</b> – Suggests how the feature should be tested, what scenarios should be covered, and what evidence is needed before launch.</li>
 </ul>
 <p>to make recommendations easier to interpret and challenge.</p>
 <br />
@@ -89,12 +89,47 @@ AIFit provides:
 ---
 <h4>Example Outputs</h4>
 <h5>Evaluation Summary Output</h5>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/evaluation_summary.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    AIFit generates a recommendation, Build Readiness score, risk classification, and rationale.
+</div>
+<br />
 
 <h5>Build Boundaries Output</h5>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/what_to_build_not_build.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    AIFit separates useful product scope from risky implementation patterns.
+</div>
+<br />
 
 <h5>Human Review Workflow Output</h5>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/human_review_workflow.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    AIFit specifies who should review the AI output, what artifacts to inspect, and what authority reviewers have.
+</div>
+<br />
 
 <h5>Validation Workflow Output</h5>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/validation_workflow.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    AIFit helps teams define how the feature should be tested, what scenarios to include, what metrics to track, and when to move forward or redesign.
+</div>
 <br />
 
 ---
@@ -110,10 +145,26 @@ AIFit provides:
 
 ---
 <h4>Future Work</h4>
+<p>Planned improvements include:</p>
+<ul>
+    <li><b>Separating risk classification from evaluation generation</b> – Improve explainability and make risk assignment easier to debug and validate independently.</li>
+    <li><b>Externalizing the risk guidance library</b> – Move risk-specific guidance out of the prompt and into configurable files to simplify maintenance and future expansion.</li>
+    <li><b>Support for additional risk categories</b> – Expand the framework as new recurring risk patterns emerge during testing and real-world usage.</li>
+    <li><b>Prompt regression testing</b> – Evaluate prompt changes against a library of representative use cases to detect improvements or unintended degradations in output quality.</li>
+    <li><b>Improved explainability for scoring</b> – Provide clearer reasoning for how AI Fit, Commercial Upside, Risk Burden, and Evidence Readiness scores are determined.</li>
+    <li><b>Model comparison and evaluation</b> – Compare outputs across different LLMs to assess consistency, reasoning quality, and recommendation robustness.</li>
+</ul>
 <br />
 
 ---
 <h4>Tech Stack</h4>
+<ul>
+    <li>Python</li>
+    <li>Streamlit</li>
+    <li>OpenRouter</li>
+    <li>Github</li>
+    <li>Streamlit Community Cloud</li>
+</ul>
 <br />
 
 ---
