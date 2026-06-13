@@ -11,9 +11,8 @@ social: false # includes social icons at the bottom of the page
 
 <p>I work at the intersection of technical systems, human judgment, and decision-making in healthcare and biotech environments. This portfolio shares selected case studies and writing on AI-enabled workflows and decision systems.</p>
 
-<p><b>Exploring roles in: </b></p>
-<p>Healthcare Product Management · Technical Product Management · Product Strategy · Responsible AI · Decision Science / Behavioral Science · AI-Enabled Platform Roles</p>
-<p><a href="https://yukapooka.github.io/case_studies/">View Case Studies</a></p>
+<p><b>Interested in roles spanning:</b></p>
+<p>Healthcare Products · AI Product Strategy · Responsible AI · Decision Systems · Human-AI Workflows · AI/Data-Enabled Platforms</p>
 <p><a href="https://yukapooka.github.io/resume/">View Resume</a></p>
 <br />
 
@@ -56,7 +55,7 @@ social: false # includes social icons at the bottom of the page
 
     <div style="padding: 16px;">
       <div style="font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:#8aa0b5; margin-bottom:8px;">
-        A human-in-the-loop AI product decision tool.
+        AI PRODUCT DECISION SUPPORT
       </div>
 
       <h3 style="margin:0 0 8px 0; font-size:16px; font-weight:600; line-height:1.4; color:#000;">
@@ -400,8 +399,10 @@ social: false # includes social icons at the bottom of the page
 
 <h4>About</h4>
 
-<p>My background began in computational biology and analytics, but much of my work evolved toward product-shaped problems: defining requirements, aligning stakeholders, and translating technical complexity into usable systems across healthcare and genomics environments. I'm now focused on product and technical product roles where that foundation matters.
+<p>
+My background began in computational biology and analytics, but much of my work evolved toward product-shaped problems: defining requirements, aligning stakeholders, and translating technical complexity into usable systems across healthcare and genomics environments.
 
+I’m now focused on product and technical product roles at the intersection of healthcare products, AI product strategy, responsible AI, decision systems, human-AI workflows, and AI/data-enabled platforms.
 </p>
 
 <p><a href="https://yukapooka.github.io/about/">More About Me</a></p>
@@ -420,6 +421,3 @@ social: false # includes social icons at the bottom of the page
 
 <p>Best way to reach me: <a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> or <a href="mailto:yuka.w.suzuki@gmail.com">Email</a></p>
 <br />
-<!-- ---
-<a href="https://www.linkedin.com/in/suzukiyuka/">LinkedIn</a> · <a href="https://yukapooka.github.io/resume/">Resume</a> · <a href="yuka.w.suzuki@gmail.com">Email</a>
---- -->
