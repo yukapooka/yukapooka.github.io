@@ -1,8 +1,10 @@
-My career started in computational biology, but the problems that held my attention kept shifting — away from technical analysis itself and toward the broader decisions and workflows around it: how complex outputs are interpreted, acted on, and integrated into real-world settings.
+My career started in computational biology, but the problems that held my attention gradually shifted beyond technical analysis itself — toward the broader decisions and workflows around it: how complex outputs are interpreted, acted on, and integrated into real-world settings.
 
-Across healthcare and biotech environments, my work evolved toward product-shaped and systems-level problems. I was most engaged when the challenge involved clarifying complexity, improving how work moved across people and systems, and helping technical efforts become more usable and operationally meaningful. Over time that interest deepened into a specific question: not just whether a system performs well technically, but how it shapes human judgment — and whether it actually improves decisions in practice.
+Across healthcare and biotech environments, my work evolved toward product-shaped and systems-level problems. I was most engaged when the challenge involved clarifying complexity, improving how work moved across people and systems, and helping technical efforts become more usable and operationally meaningful.
 
-Today I'm drawn to roles at the intersection of healthcare product, decision systems, and execution — where technical depth, cross-functional clarity, and long-term systems thinking all matter.
+Over time, that interest deepened into a specific question: not just whether a system performs well technically, but how it shapes human judgment — and whether it improves decisions in practice.
+
+Today, I’m drawn to roles at the intersection of healthcare products, decision systems, and execution — where technical depth, cross-functional clarity, and long-term systems thinking all matter.
 
 <br />
 
@@ -13,7 +15,7 @@ Today I'm drawn to roles at the intersection of healthcare product, decision sys
 | Strength | Description |
 | :--- | :--- |
 | Problem framing | Breaking down complex or loosely defined situations into clearer questions, priorities, and paths forward.|
-| Technical translation | Connecting technical realities with stakeholder needs, workflow implications, and decision-making.|
+| Technical translation | Translating technical complexity into decisions, workflows, and actions that stakeholders can use.|
 | Decision systems thinking | Understanding that model performance, trust, workflow, and institutional context all shape real-world outcomes.|
 | Cross-functional alignment | Helping people with different perspectives move toward a shared understanding and direction.|
 | Judgment under uncertainty | Recognizing tradeoffs, weak signals, and decision points in environments where certainty is limited.|
@@ -28,9 +30,9 @@ Today I'm drawn to roles at the intersection of healthcare product, decision sys
 
 - Healthcare products and platforms
 
-- Responsible AI and decision systems
+- AI product strategy and responsible AI
 
-- Human-AI workflow design in high-stakes settings
+- Decision systems and human-AI workflows
 
 - Product, innovation, and cross-functional strategy in complex domains
 
@@ -40,6 +42,8 @@ Today I'm drawn to roles at the intersection of healthcare product, decision sys
 
 <h4>How I work</h4>
 
-<p>I do my best work where technical depth, decision-making, and practical execution need to come together. I’m naturally drawn to clarifying messy problems, translating across stakeholders, and helping teams turn complex ideas into workable systems. Increasingly, I’m also interested in whether those systems actually support good judgment in practice — through trust calibration, workflow fit, and thoughtful integration into real-world settings.</p>
+<p>I do my best work where technical depth, decision-making, and practical execution need to come together. I’m drawn to clarifying messy problems, translating across stakeholders, and helping teams turn complex ideas into workable systems.
+
+Increasingly, I’m interested in whether those systems support good judgment in practice — through trust calibration, workflow fit, and thoughtful integration into real-world settings.</p>
 
 <br />
