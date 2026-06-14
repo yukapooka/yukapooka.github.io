@@ -6,11 +6,6 @@ nav: true
 nav_order: 2
 
 ---
-<p>My background spans genomics, analytics, and cross-functional work in healthcare and biotech environments. I’ve worked across analytical workflows, technical requirements, and computational infrastructure, with experience translating scientific and operational needs into usable tools and processes. I’m particularly interested in product, decision systems, and Responsible AI roles that sit at the intersection of technical depth, workflow design, and real-world decision-making.</p>
-<br />
-
----
-
 <h4>Experience</h4>
 
 <h5><a href="https://www.illumina.com/">Illumina</a></h5>
