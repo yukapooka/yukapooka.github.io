@@ -42,8 +42,8 @@ Today, I’m drawn to roles at the intersection of healthcare products, decision
 
 <h4>How I work</h4>
 
-<p>I do my best work where technical depth, decision-making, and practical execution need to come together. I’m drawn to clarifying messy problems, translating across stakeholders, and helping teams turn complex ideas into workable systems.
+<p>I do my best work where technical depth, ambiguity, and practical execution need to come together. I’m drawn to clarifying messy problems, translating across stakeholders, and helping teams turn complex ideas into workable systems.</p>
 
-Increasingly, I’m interested in whether those systems support good judgment in practice — through trust calibration, workflow fit, and thoughtful integration into real-world settings.</p>
+<p>I’m especially interested in systems that help people interpret complex information more clearly: what information is surfaced, how uncertainty is communicated, when human review is needed, and how tools fit into real workflows.</p>
 
 <br />

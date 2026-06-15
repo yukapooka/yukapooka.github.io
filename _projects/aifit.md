@@ -189,7 +189,7 @@ Examples of risk types include:
     <li>your own AI feature idea through the custom evaluation workflow</li>
 </ul>
 
-<p><a href="https://www.linkedin.com/in/suzukiyuka/">Launch AIFit -> </a></p>
+<p><a href="https://ai-fit.streamlit.app/">Launch AIFit -> </a></p>
 <br />
 <h5>GitHub Repository</h5>
 <p>Explore the source code, system architecture and implementation details:</p>
