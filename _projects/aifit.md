@@ -49,7 +49,7 @@ related_publications: false
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <div style="width:70%; margin:0 auto;">
-            {% include figure.liquid loading="eager" path="assets/img/AIFit_System_Flow.png" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/AIFit_System_Flow_v2.png" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
