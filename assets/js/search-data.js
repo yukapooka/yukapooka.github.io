@@ -136,6 +136,11 @@ ninja.data = [{
           description: "A human-in-the-loop product decision tool for evaluating whether an AI feature should be built, narrowed, prototyped, or avoided.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aifit/";
+            },},{id: "projects-coffee-archive-copilot",
+          title: 'Coffee Archive Copilot',
+          description: "A private coffee archive for capturing, organizing, and revisiting coffee experiences.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/beanapp/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
