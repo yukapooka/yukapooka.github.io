@@ -3,6 +3,7 @@ layout: page
 title: AIFit
 description: A human-in-the-loop product decision tool for evaluating whether an AI feature should be built, narrowed, prototyped, or avoided.
 img: assets/img/aifit.png
+category: product and AI
 related_publications: false
 
 ---
