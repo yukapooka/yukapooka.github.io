@@ -2,7 +2,7 @@
 layout: page
 title: Coffee Archive Copilot
 description: A private coffee archive for capturing, organizing, and revisiting coffee experiences.
-img: assets/img/aifit.png
+img: assets/img/coffee.png
 category: coffee appreciation
 related_publications: false
 
@@ -18,5 +18,32 @@ related_publications: false
 </ul>
 
 <br />
+---
+<h4>Future Work</h4>
+<p>Planned improvements include:</p>
+<ul>
+    <li>Build v2.0 will add a media layer and tagging workflow.</li>
+    <li>Build v3.0 will add an interpretation layer on top of the archive.</li>
+</ul>
+<br />
+---
+<h4>Current Tech Stack</h4>
+<ul>
+    <li>Next.js</li>
+    <li>TypeScript</li>
+    <li>Tailwind CSS</li>
+    <li>PostgreSQL</li>
+    <li>Prisma 7</li>
+    <li>PrismaPg adapter</li>
+    <li>Vercel</li>
+    <li>Basic Auth</li>
+</ul>
+<br />
 
 ---
+<h4>Links</h4>
+<h5>GitHub Repository</h5>
+<p>Explore the source code, system architecture and implementation details:</p>
+
+<p><a href="https://github.com/yukapooka/coffee-archive-copilot">View Repository -> </a></p>
+<br />
