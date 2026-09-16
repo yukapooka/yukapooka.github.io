@@ -22,6 +22,7 @@ related_publications: false
 <p> V1.0 addresses the infrastructure layer by preserving the coffee experience first, then leaving room for interpretation to happen later.</p>
 <br />
 
+---
 <h4>The Problem:</h4>
 <p>Coffee experiences are surprisingly difficult to keep track of over time:</p>
 <ul>
