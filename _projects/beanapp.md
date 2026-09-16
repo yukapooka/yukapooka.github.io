@@ -79,7 +79,7 @@ related_publications: false
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <div style="width:80%; margin:0 auto;">
-            {% include figure.liquid loading="eager" path="assets/img/coffee-archive-edit-detail.png" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/coffee-archive-entry-detail.png" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
@@ -96,8 +96,9 @@ related_publications: false
     <li>Build v3.0 will add an interpretation layer on top of the archive.</li>
 </ul>
 <br />
+
 ---
-<h4>Current Tech Stack</h4>:
+<h4>Current Tech Stack</h4>
 <p>Built with AI-assisted development using Codex, with a Next.js / TypeScript frontend and PostgreSQL backend accessed through Prisma 7 and the PrismaPg adapter.</p>
 <ul>
     <li>Frontend: Next.js, TypeScript, Tailwind CSS</li>
@@ -111,6 +112,7 @@ related_publications: false
 <div style="border-left: 4px solid #007acc; padding-left: 15px; margin: 10px 0;">
     The archive is designed to be used wherever the coffee experience happens. The responsive interface works across desktop and mobile, allowing entries to be created, edited, or deleted from a phone as well as a computer.
 </div>
+<br />
 
 ---
 <h4>Links</h4>
