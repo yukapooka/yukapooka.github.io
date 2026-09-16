@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-why-ai-based-digital-health-products-need-a-governance-signal-layer",
-        
-          title: "Why AI-Based Digital Health Products Need a Governance Signal Layer",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/signal-layer-digital-health-post/";
-          
-        },
-      },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
+        },{id: "post-the-hard-part-of-ai-products-is-not-the-model-it-is-the-decision-context",
         
           title: "The Hard Part of AI Products Is Not the Model. It Is the...",
         
@@ -136,8 +125,8 @@ ninja.data = [{
           description: "A human-in-the-loop product decision tool for evaluating whether an AI feature should be built, narrowed, prototyped, or avoided.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aifit/";
-            },},{id: "projects-coffee-archive-copilot",
-          title: 'Coffee Archive Copilot',
+            },},{id: "projects-coffee-archive-v1-0",
+          title: 'Coffee Archive v1.0',
           description: "A private coffee archive for capturing, organizing, and revisiting coffee experiences.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/beanapp/";
